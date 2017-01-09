@@ -1,0 +1,16 @@
+objs
+23459, striplights, striplights, 200, 33
+
+23460, stripinter, wshstripint, 200, 33
+
+23461, stripinterupside, stripinter, 200, 33
+
+23462, stripback, stripback, 200, 33
+
+23463, stripinterfloor, wshstripint, 200, 37
+
+23464, strpbckdrclsd, stripback, 200, 33
+
+end
+tobj
+end

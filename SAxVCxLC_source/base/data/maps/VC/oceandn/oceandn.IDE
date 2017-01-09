@@ -1,0 +1,398 @@
+objs
+22878, odnroad05od, vcgeneric, 200, 0
+
+22879, oceanroad05, odnroads, 200, 0
+
+22880, deco_polgrnda9, ocmiamistrip7, 140, 132
+
+22881, deco_polgrnda10, ocmiamistrip8, 140, 132
+
+22882, spad_watr1, spad_water, 100, 196
+
+22883, spad_watr2, spad_water, 100, 196
+
+22884, spad_veg1, vcgeneric, 100, 196
+
+22885, shado_chuf, spad_shado, 100, 229
+
+22886, od_clubback, od_clubback, 150, 0
+
+22887, lodroad05od, LODodriveN, 700, 128
+
+22888, lodanroad05, LODodriveN, 700, 128
+
+22889, lodo_polgrnda7, LODodriveN, 700, 128
+
+22890, lodo_polgrnda8, LODodriveN, 700, 128
+
+22891, lodo_polgrnda9, LODodriveN, 700, 128
+
+22892, lodo_polgrnda10, LODodriveN, 700, 128
+
+22893, od_wt, od_watertower, 150, 132
+
+22894, od_wtsign, od_watertower, 100, 132
+
+22895, od_wtshadow, od_watertower, 100, 132
+
+22896, od_wtlegs, od_watertower, 150, 132
+
+22897, oddirtpass1, odnglue, 25, 229
+
+22898, od2glue, odnglue, 25, 132
+
+22899, spad_buildnew, spad_buildnew, 100, 128
+
+22900, sexgarden2, newroof, 34, 128
+
+22901, od_celldoor3, od_cop_interior, 10, 161
+
+22902, od_celldoor4, od_cop_interior, 10, 161
+
+22903, od_bighotsign, od_bighotel, 150, 132
+
+22904, od_bighotsign01, od_bighotel, 299, 132
+
+22905, bighotelgrnd, ocnmiamistrip, 180, 0
+
+22906, lodhotelgrnd, LODodriveN, 800, 128
+
+22907, deco_buildkb25, oceanstrip10, 100, 128
+
+22908, odndoorway3, sharedalleyod, 100, 128
+
+22909, oddoorway, sharedalleyod, 100, 128
+
+22910, oddoorway2, sharedalleyod, 100, 128
+
+22911, new_bushtest42, vcgeneric, 200, 132
+
+22912, odnvegbush1, vcgeneric, 20, 132
+
+22913, odndirt4, sharedalleyod, 70, 196
+
+22914, oceanroad04, odnroads, 200, 0
+
+22915, lodanroad04, LODodriveN, 700, 128
+
+22916, lodroad03od, LODodriveN, 2000, 128
+
+22917, odndirt1, sharedalleyod, 70, 196
+
+22918, odndirt2, sharedalleyod, 70, 196
+
+22919, odndirt3, sharedalleyod, 70, 196
+
+22920, odnvegbush2, vcgeneric, 60, 132
+
+22921, lodd_build2, LODodriveN, 700, 128
+
+22922, lodpad_grdn_2, LODodriveN, 700, 128
+
+22923, lodlleyground4, LODodriveN, 700, 128
+
+22924, lodlleyground5, LODodriveN, 700, 128
+
+22925, lodlleyground2, LODodriveN, 700, 128
+
+22926, odnwiret, odnwire, 200, 132
+
+22927, lodclubback, LODodriveN, 700, 128
+
+22928, miamiodnroadxa, odnroads, 210, 0
+
+22929, lodd_buildnew, LODodriveN, 700, 128
+
+22930, odrroofst02, odnrooft, 100, 128
+
+22931, odrroofst07, odnrooft, 80, 132
+
+22932, lodlleyground, LODodriveN, 1200, 128
+
+22933, od_tracks01, shared_beach, 150, 196
+
+22934, od_tracks03, shared_beach, 200, 196
+
+22935, od_tracks05, shared_beach, 150, 196
+
+22936, od_tracks06, shared_beach, 120, 196
+
+22937, deco_copgrnd, ocmiamistrip12, 150, 0
+
+22938, cop_mainroom, od_cop_interior, 30, 33
+
+22939, cop_entrance, od_cop_interior, 30, 33
+
+22940, cop_processing, od_cop_interior, 30, 33
+
+22941, deco_polbuild, cop_oceandrv, 150, 0
+
+22942, cop_hallway, od_cop_interior, 30, 33
+
+22943, cop_blackpoly, od_cop_interior, 30, 0
+
+22944, cop_cells, od_cop_interior, 20, 33
+
+22945, lodo_polbuild, LODodriveN, 800, 0
+
+22946, od_celldoor1, od_cop_interior, 10, 33
+
+22947, od_celldoor02, od_cop_interior, 10, 33
+
+22948, od_celldoor03, od_cop_interior, 10, 33
+
+22949, od_celldoor04, od_cop_interior, 10, 33
+
+22950, cop_waterref, od_cop_interior, 30, 37
+
+22951, lodo_copgrnd, LODodriveN, 700, 0
+
+22952, od_clubdoors, od_clubout, 100, 0
+
+22953, od_clbdr_close, od_clubout, 30, 4
+
+22954, ocndbridge, odnroads, 200, 0
+
+22955, loddbridge, LODodriveN, 700, 128
+
+22956, od_bighotpool2, od_bighotpool, 170, 0
+
+22957, od_divingbds, od_bighotpool, 100, 132
+
+22958, od_divingbdsteps, od_bighotpool, 30, 128
+
+22959, od_bighotpool, od_bighotpool, 100, 0
+
+22960, od_bighotcons, od_bighotpool, 50, 132
+
+22961, ph_build_stairs, intstairod, 60, 161
+
+22962, od_chariot, od_chariot, 200, 128
+
+22963, ph_build_dr_closed, intstairod, 60, 0
+
+22964, ph_build_dr_open, intstairod, 60, 0
+
+22965, spad_dr_open2, spad_main, 100, 161
+
+22966, sexpad_grdn_2, spad_main, 100, 0
+
+22967, spad_dr_closed3, newspadbuild, 100, 128
+
+22968, spad_dr_open3, newspadbuild, 100, 128
+
+22969, spad_dr_closed1, spad_main, 100, 161
+
+22970, spad_dr_open1, spad_main, 100, 161
+
+22971, spad_build2, newspadbuild, 100, 128
+
+22972, spad_water, spad_opac, 15, 132
+
+22973, spad_dr_closed2, spad_main, 100, 161
+
+22974, miamiland_kb10, od_waterwrx, 150, 0
+
+22975, miamiland_kb11, shared_beach, 200, 0
+
+22976, miamiland_kb12, shared_beach, 200, 0
+
+22977, beach_bush02, shared_beach, 150, 132
+
+22978, beach_bush04, shared_beach, 150, 132
+
+22979, miamiland_kb11b, shared_beach, 300, 0
+
+22980, miamiland_kb13, shared_beach, 300, 0
+
+22981, miamiland_kb12b, shared_beach, 250, 0
+
+22982, miamiland_kb10b, shared_beach, 250, 0
+
+22983, beachblend08, shared_beach, 150, 132
+
+22984, beachblend09, shared_beach, 150, 132
+
+22985, beachblend10, shared_beach, 150, 132
+
+22986, beachblend11, shared_beach, 150, 132
+
+22987, lodmiland_kb13, LODodriveN, 1200, 128
+
+22988, lodmiland_kb12, LODodriveN, 1200, 128
+
+22989, lodmiland_kb11, LODodriveN, 1200, 128
+
+22990, lodmiland_kb11b, LODodriveN, 1200, 128
+
+22991, lodmiland_kb12b, LODodriveN, 1200, 128
+
+22992, lodmiland_kb10b, LODodriveN, 1200, 128
+
+22993, lodchariot, LODodriveN, 1500, 128
+
+22994, odnroad02, vcgeneric, 200, 0
+
+22995, cop_dr_closed, copdoorstuff, 100, 128
+
+22996, cop_dr_open, copdoorstuff, 100, 161
+
+22997, cop_fake_ext01, cop_fake_ext03, 1000, 128
+
+22998, cop_fake_ext02, cop_fake_ext04, 1000, 128
+
+22999, lodbighotpool, LODodriveN, 1000, 128
+
+23000, lodo_buildkb25, LODodriveN, 700, 128
+
+23001, cop_entrance_fake, copdoorstuff, 50, 33
+
+23002, cop_hallway_fake, copdoorstuff, 50, 33
+
+23003, lodmiland_kb10, LODodriveN, 700, 128
+
+23004, cop_fake_ext03, cop_fake_ext02, 300, 128
+
+23005, cop_pillar_shad, od_cop_interior, 30, 165
+
+23006, cop_pillar_fake, copdoorstuff, 30, 165
+
+23007, deco_polgrnda7, ocmiamistrip5, 100, 128
+
+23008, deco_polgrnda8, ocmiamistrip6, 140, 132
+
+23009, odrroofst06, odnrooft, 80, 132
+
+23010, palettejumpn04, sharedalleyod, 46, 128
+
+23011, odnroad03od, vcgeneric, 200, 0
+
+23012, od_clbdr_open, od_clubout, 30, 4
+
+23013, sexypoolcover, spad_main, 30, 128
+
+23014, odnvegbush2b, vcgeneric, 100, 4
+
+23015, lodmiodnroadxa, LODodriveN, 700, 128
+
+23016, od_chariotland, od_chariot, 200, 128
+
+23017, od_clubfnce, od_clubback, 150, 68
+
+23018, od_clubdoora, od_clubout, 100, 4
+
+end
+tobj
+23019, od_buildkb2_dy, odnhotelspr, 100, 128, 5, 21
+23020, od_buildkb23_dy, odnhotelspr, 100, 128, 5, 21
+23021, od_buildkb27_nt, odnhotelspr, 100, 128, 21, 5
+23022, deco_buildkb_dy, odnhotelspr, 100, 128, 5, 21
+23023, deco_buildkb29_dy, odnhotelspr, 100, 128, 5, 21
+23024, odnroad04od_dy, vcgeneric, 200, 0, 5, 21
+23025, oceanrd1_dy, odnroads, 200, 0, 5, 21
+23026, od_bighotel_nt, od_bighotel, 150, 128, 21, 5
+23027, lodroad08_dy, LODodriveN, 700, 128, 5, 21
+23028, lodanrod2b_dy, LODodriveN, 700, 128, 5, 21
+23029, lodanrd1_dy, LODodriveN, 700, 128, 5, 21
+23030, lodroad04od_dy, LODodriveN, 700, 128, 5, 21
+23031, odneontest, odneontest, 200, 173, 21, 5
+23032, od_buildkb23_nt, odnhotelspr, 100, 128, 21, 5
+23033, od_buildkb27_dy, odnhotelspr, 100, 128, 5, 21
+23034, deco_buildkb_nt, odnhotelspr, 100, 128, 21, 5
+23035, deco_buildkb29_nt, odnhotelspr, 100, 128, 21, 5
+23036, odn_neonht1a, odnhotelblk, 200, 173, 22, 5
+23037, od_neona1, odneontest, 200, 173, 21, 5
+23038, od_buildkb2_nt, odnhotelspr, 100, 128, 21, 5
+23039, lodbighotel_nt, LODodriveN, 1800, 128, 21, 5
+23040, odn_beacon2_dy, odnhotelblk, 100, 128, 5, 21
+23041, odn_beacon2_nt, odnhotelblk, 100, 128, 21, 5
+23042, odn_majesticz_dy, odnhotelblk, 100, 128, 5, 21
+23043, odn_majesticz_nt, odnhotelblk, 100, 128, 21, 5
+23044, odn_tides2_dy, odnhotelblk, 100, 128, 5, 21
+23045, odn_tides2_nt, odnhotelblk, 100, 128, 21, 5
+23046, odn_majestic2x_nt, odnhotelblk, 120, 128, 21, 5
+23047, odn_colony_dy, odnhotelblk, 100, 132, 5, 21
+23048, odnneaon1, neonnd, 100, 173, 20, 5
+23049, odnneaon3, neonnd, 100, 173, 20, 5
+23050, odnneaon2, neonnd, 200, 173, 20, 5
+23051, odnneaon4, neonnd, 100, 173, 20, 5
+23052, odn_majest_nt, odnhotelblk, 100, 128, 21, 5
+23053, odn_majest_dy, odnhotelblk, 100, 128, 5, 21
+23054, odn_hotelhot_dy, odnhotelblk, 100, 128, 5, 21
+23055, odn_hotelhot_nt, odnhotelblk, 100, 128, 21, 5
+23056, odneontest01, odneontest, 200, 173, 21, 5
+23057, odalleyground_dy, sharedalleyod, 150, 0, 5, 21
+23058, odalleyground2_nt, sharedalleyod, 150, 0, 21, 5
+23059, odalleyground4_dy, sharedalleyod, 150, 0, 5, 21
+23060, odalleyground5_nt, sharedalleyod, 150, 0, 21, 5
+23061, lodbuildkb2_dy, LODodriveN, 700, 128, 5, 21
+23062, lodbuildkb23_nt, LODodriveN, 700, 128, 21, 5
+23063, lodbuildkb27_dy, LODodriveN, 700, 128, 5, 21
+23064, lodo_buildkb_dy, LODodriveN, 700, 128, 5, 21
+23065, lodo_buildkb29_dy, LODodriveN, 700, 128, 5, 21
+23066, lod_majestic2x_dy, LODodriveN, 700, 128, 5, 21
+23067, odn_colony_nt, odnhotelblk, 100, 132, 21, 5
+23068, lod_colony_dy, LODodriveN, 700, 128, 5, 21
+23069, lod_tides2_dy, LODodriveN, 700, 128, 5, 21
+23070, lod_majesticz_dy, LODodriveN, 700, 128, 5, 21
+23071, lod_beacon2_nt, LODodriveN, 700, 128, 21, 5
+23072, lod_hotelhot_dy, LODodriveN, 700, 128, 5, 21
+23073, lod_majest_dy, LODodriveN, 700, 128, 5, 21
+23074, oceanrd1_nt, odnroads, 200, 0, 21, 5
+23075, lodanrd1_nt, LODodriveN, 700, 128, 21, 5
+23076, lodanrod2b_nt, LODodriveN, 700, 128, 21, 5
+23077, lodroad08_nt, LODodriveN, 700, 128, 21, 5
+23078, lod_majest_nt, LODodriveN, 700, 128, 21, 5
+23079, lod_hotelhot_nt, LODodriveN, 700, 128, 21, 5
+23080, lod_majesticz_nt, LODodriveN, 700, 128, 21, 5
+23081, lod_tides2_nt, LODodriveN, 700, 128, 21, 5
+23082, lod_colony_nt, LODodriveN, 700, 128, 21, 5
+23083, lod_majestic2x_nt, LODodriveN, 700, 128, 21, 5
+23084, lodo_buildkb29_nt, LODodriveN, 700, 128, 21, 5
+23085, lodo_buildkb_nt, LODodriveN, 700, 128, 21, 5
+23086, lodbuildkb27_nt, LODodriveN, 700, 128, 21, 5
+23087, lodbuildkb23_dy, LODodriveN, 700, 128, 5, 21
+23088, lodbuildkb2_nt, LODodriveN, 700, 128, 21, 5
+23089, odalleygb_dy, sharedalleyod, 150, 0, 5, 21
+23090, lodlleygb_nt, LODodriveN, 700, 128, 21, 5
+23091, od_clubout_dy, od_clubout, 150, 0, 5, 21
+23092, lodclubout_dy, LODodriveN, 700, 128, 5, 21
+23093, od_clubneon, od_clubout, 100, 45, 21, 6
+23094, od_clubout_nt, od_clubout, 150, 0, 21, 5
+23095, od_char_signs_dy, od_chariot, 150, 165, 5, 20
+23096, od_char_signs_nt, od_chariot, 150, 165, 20, 5
+23097, odnroad01_dy, vcgeneric, 200, 0, 5, 21
+23098, odnroad06_nt, vcgeneric, 200, 0, 21, 5
+23099, odnroad06_dy, vcgeneric, 200, 0, 5, 21
+23100, odnanrod2b_nt, vcgeneric, 200, 0, 21, 5
+23101, odnanrod2b_dy, vcgeneric, 200, 0, 5, 21
+23102, odnroad08_nt, vcgeneric, 200, 0, 21, 5
+23103, odnroad08_dy, vcgeneric, 200, 0, 5, 21
+23104, lod_beacon2_dy, LODodriveN, 700, 128, 5, 21
+23105, odalleygb_nt, sharedalleyod, 150, 0, 21, 5
+23106, lodlleygb_dy, LODodriveN, 700, 128, 5, 21
+23107, lodclubout_nt, LODodriveN, 700, 128, 21, 5
+23108, odn_majestic2x_dy, odnhotelblk, 120, 128, 5, 21
+23109, odalleyground2_dy, sharedalleyod, 150, 0, 5, 21
+23110, odalleyground_nt, sharedalleyod, 150, 0, 21, 5
+23111, odnroad04od_nt, vcgeneric, 200, 0, 21, 5
+23112, odalleyground4_nt, sharedalleyod, 150, 0, 21, 5
+23113, odalleyground5_dy, sharedalleyod, 150, 0, 5, 21
+23114, od_hotel_windows, od_bighotel, 150, 165, 21, 5
+23115, lodhotel_windows, LODodriveN, 1800, 165, 21, 5
+23116, odnroad01_nt, vcgeneric, 200, 0, 21, 5
+23117, od_chariot_lghts01, od_chariot, 200, 165, 24, 5
+23118, od_chariot_lghts02, od_chariot, 200, 165, 23, 5
+23119, lodchariot_lghts01, LODodriveN, 1500, 165, 24, 5
+23120, lodchariot_lghts02, LODodriveN, 1500, 165, 23, 5
+23121, lodroad01_nt, LODodriveN, 700, 128, 21, 5
+23122, lodroad01_dy, LODodriveN, 700, 128, 5, 21
+23123, lodroad04od_nt, LODodriveN, 700, 128, 21, 5
+23124, lodbighotel_dy, LODodriveN, 1800, 128, 5, 21
+23125, od_bighotel_dy, od_bighotel, 150, 128, 5, 21
+23126, odn_hotshad1, odnhotelblk, 100, 132, 5, 21
+23127, odn_hotshad2, odnhotelblk, 100, 132, 5, 21
+23128, odn_hotshad3, odnhotelblk, 100, 132, 5, 21
+23129, od_clubfence_dy, od_clubout, 150, 4, 5, 21
+23130, od_clubfence_nt, od_clubout, 150, 4, 21, 5
+end

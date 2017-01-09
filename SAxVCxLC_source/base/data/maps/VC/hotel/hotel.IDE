@@ -1,0 +1,81 @@
+objs
+21726, hot_room317, hotelroomint, 30, 33
+
+21727, hot_drawers1_01, hotelroomint, 30, 33
+
+21728, hot_bar1_01, hotelroomint, 30, 33
+
+21729, nt_wassily1_02, hotelroomint, 30, 33
+
+21730, nt_couch_1, hotelroomint, 30, 33
+
+21731, nt_bed1_01, hotelroomint, 30, 33
+
+21732, hot_trans1, hot_roomtrans, 30, 37
+
+21733, hot_mags1, hotelroomint, 30, 33
+
+21734, mob_door2, hot_roomtrans, 30, 37
+
+21735, mob_mobroom2, hot_mobint, 30, 33
+
+21736, mob_door3, hot_mobint, 30, 33
+
+21737, mob_detailsb, hot_mobint, 30, 33
+
+21738, ht_veg02_dy, vcgeneric, 30, 37
+
+21739, ht_upstairs, hi_cutint1, 30, 33
+
+21740, hotshad1, hi_cuthoomintshad, 30, 101
+
+21741, hotroomfan, hi_cuthoomintshad, 30, 101
+
+21742, trophy1, hotelroomint2, 30, 33
+
+21743, pornposters, hotelroomint2, 30, 33
+
+21744, moneybag, hotelroomint2, 30, 33
+
+21745, sutibag, hotelroomint2, 30, 33
+
+21746, mask, hotelroomint2, 30, 33
+
+21747, coke_voodoo, hotelroomint2, 30, 33
+
+21748, boomshine, hotelroomint2, 30, 33
+
+21749, ht_doors, htdoorhtlalp, 55, 4
+
+21750, htl_gls_lobby, hi_cuthtlalp, 30, 1061
+
+end
+tobj
+21751, ht_veg04_nt, vcgeneric, 30, 37, 18, 6
+21752, ht_veg02_nt, vcgeneric, 30, 37, 18, 6
+21753, ht_veg01_nt, vcgeneric, 30, 37, 18, 6
+21754, ht_fans_nt, hi_cutintprops, 30, 33, 18, 6
+21755, ht_kb_couch1_nt, hi_cutcouch, 30, 33, 18, 6
+21756, htl_maintiles_nt, hi_cuthtlalp, 30, 37, 18, 6
+21757, htl_lftdoor1_nt, hi_cuthtl4, 30, 33, 18, 6
+21758, htl_exterior03_nt, htl_ext03, 100, 33, 18, 6
+21759, ht_mainfloor2_nt, hi_cuthtl2, 30, 33, 18, 6
+21760, htl_gls_3_nt, hi_cuthtlalp, 30, 1061, 18, 6
+21761, htl_gls_1_nt, hi_cuthtlalp, 30, 1061, 18, 6
+21762, htl_gls_2_nt, hi_cuthtlalp, 30, 1061, 18, 6
+21763, ht_veg04_dy, vcgeneric, 30, 37, 6, 18
+21764, ht_veg01_dy, vcgeneric, 30, 37, 6, 18
+21765, ht_fans_dy, hi_cutintprops, 30, 33, 6, 18
+21766, ht_kb_couch1_dy, hi_cutcouch, 30, 33, 6, 18
+21767, ht_mainfloor_dy, hi_cuthtl2, 30, 165, 6, 18
+21768, htl_maintiles_dy, hi_cuthtlalp, 30, 37, 6, 18
+21769, htl_lftdoor1_dy, hi_cuthtl4, 30, 33, 6, 18
+21770, htl_exterior03_dy, htl_ext03, 100, 33, 6, 18
+21771, ht_mainfloor2_dy, hi_cuthtl2, 30, 33, 6, 18
+21772, htl_gls_3_dy, hi_cuthtlalp, 30, 1061, 6, 18
+21773, htl_gls_1_dy, hi_cuthtlalp, 30, 1061, 6, 18
+21774, htl_gls_2_dy, hi_cuthtlalp, 30, 1061, 6, 18
+21775, htl_dco_chair03_dy, hi_cuthotel1, 20, 33, 6, 20
+21776, htl_dco_chair03_nt, hi_cuthotel1, 20, 33, 20, 6
+21777, ht_mainfloor_nt, hi_cuthtl2, 30, 161, 18, 6
+end

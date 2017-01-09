@@ -1,0 +1,492 @@
+objs
+23465, washbuild005, newashbuild1, 90, 128
+
+23466, washbuild014, washbuild124, 100, 128
+
+23467, washbuild025, washnewbuild23, 90, 128
+
+23468, wshbuildws07, washnewbuild2, 110, 128
+
+23469, wshbuildws12, washnewbuild23, 90, 128
+
+23470, wash_hosp02, wash_hosp, 100, 128
+
+23471, wshbuildws16, washnewbuild5, 100, 128
+
+23472, wshbuildws20, washbuild44, 90, 128
+
+23473, washbuild062, washnewbuild3, 60, 128
+
+23474, washbuild063, washnewbuild3, 80, 128
+
+23475, washbuild068, washnewbuild21, 100, 128
+
+23476, washbuild071, northbuild, 90, 128
+
+23477, washbuild073, northbuild, 110, 128
+
+23478, washbuild074, northbuild, 110, 128
+
+23479, washbuild075, washnewbuild2, 90, 128
+
+23480, wshnrthroad23, vcgeneric, 140, 0
+
+23481, wshnrthroad27, vcgeneric, 140, 0
+
+23482, wshnrthroad25, vcgeneric, 140, 0
+
+23483, wshnrthroad24, vcgeneric, 140, 0
+
+23484, wshnrthroad22, vcgeneric, 140, 0
+
+23485, wshnrthroad18, vcgeneric, 140, 0
+
+23486, wshnrthroad16, vcgeneric, 140, 0
+
+23487, wshnrthroad17, vcgeneric, 140, 0
+
+23488, wshnrthroad19, vcgeneric, 140, 0
+
+23489, wshnrthroad15, vcgeneric, 140, 0
+
+23490, wshnrthroad20, vcgeneric, 140, 0
+
+23491, wshnrthroad21, vcgeneric, 140, 0
+
+23492, wshbuildws26, washlandb, 130, 0
+
+23493, wsh_roadswsh05, washlandb, 130, 0
+
+23494, wsh_roadswsh04, washlandb, 100, 0
+
+23495, wash_hospgrnd, wash_hosp, 130, 0
+
+23496, wsh_roadswsh01, wash_hosp, 110, 0
+
+23497, wshbuildws30, washlandb, 110, 0
+
+23498, washbuild116, washlandb, 70, 0
+
+23499, wshbuildws31, washlandb, 90, 0
+
+23500, wshbuildws32, washlandb, 90, 0
+
+23501, washbuild119, washbuild120, 90, 0
+
+23502, washbuild120, washbuild120, 110, 0
+
+23503, washbuild184, washnewbuild3, 80, 128
+
+23504, wshbuildws38, washbuild120, 90, 128
+
+23505, washbuild187, washbuild120, 140, 128
+
+23506, wshbuildws40, washnewbuild5, 120, 0
+
+23507, wshbuildws43, washmallnew, 120, 128
+
+23508, washbuild198, washmallpark, 120, 128
+
+23509, washbuild199, washmallnew, 50, 128
+
+23510, washbuild200, washmallnew, 60, 0
+
+23511, washbuild201, vcgeneric, 50, 132
+
+23512, washbuild202, vcgeneric, 50, 132
+
+23513, lodbuildws07, LODwsouth08, 700, 128
+
+23514, lodbuildws09, LODwsouth08, 700, 128
+
+23515, lodbuildws26, LODbuildws07, 2000, 128
+
+23516, lodbuildws30, LODwsouth08, 700, 128
+
+23517, lodbuildws40, LODwsouth08, 700, 128
+
+23518, lodbuildws43, LODwsouth08, 700, 128
+
+23519, lod_roadswsh01, LODbuildws07, 2000, 128
+
+23520, lodh_hospgrnd, LODwsouth08, 700, 128
+
+23521, lodnrthroad15, LODwsouth08, 700, 128
+
+23522, lod_roadswsh04, LODbuildws07, 2000, 128
+
+23523, lod_roadswsh05, LODbuildws07, 2000, 128
+
+23524, lodnrthroad16, LODwsouth08, 700, 128
+
+23525, lodnrthroad17, LODwsouth08, 700, 128
+
+23526, lodnrthroad18, LODwsouth08, 700, 128
+
+23527, lodnrthroad19, LODwsouth08, 700, 128
+
+23528, lodnrthroad20, LODwsouth08, 700, 128
+
+23529, lodnrthroad21, LODwsouth08, 700, 128
+
+23530, lodnrthroad22, LODwsouth08, 700, 128
+
+23531, lodnrthroad23, LODwsouth08, 700, 128
+
+23532, lodnrthroad24, LODwsouth08, 700, 128
+
+23533, lodnrthroad25, LODwsouth08, 700, 128
+
+23534, lodnrthroad26, LODwsouth08, 700, 128
+
+23535, lodnrthroad27, LODwsouth08, 700, 128
+
+23536, wash_pizzaplace, newashbuild1, 90, 132
+
+23537, wash_hospital, wash_hosp, 90, 132
+
+23538, wash_hosp03, wash_hosp, 100, 128
+
+23539, lodh_hosp03, LODbuildws07, 1000, 128
+
+23540, lodh_hosp02, LODbuildws07, 1000, 128
+
+23541, lodh_hospital, LODwsouth08, 700, 128
+
+23542, carwashpole3, washnewbuild3, 40, 128
+
+23543, carwashpole2, washnewbuild3, 40, 128
+
+23544, carwashpole1, washnewbuild3, 40, 128
+
+23545, washtooceanrd1, washroads, 150, 0
+
+23546, wash_deco01, washmiamistrip4, 130, 128
+
+23547, wash_deco02, washmiamistrip3, 130, 128
+
+23548, wash_deco03, washmiamistrip2, 130, 128
+
+23549, wash_deco04, washmiamistrip13, 130, 128
+
+23550, wash_deco05, washmiamistrip11, 130, 128
+
+23551, basketballcourt04, washbballcrt, 90, 132
+
+23552, washnewsky1, washsky1, 140, 128
+
+23553, washskyplant2, vcgeneric, 90, 132
+
+23554, washnewsky3, washsky1, 140, 128
+
+23555, washskyplant1, vcgeneric, 90, 132
+
+23556, washnewsky2, washsky1, 140, 128
+
+23557, washbuild003, newashbuild1, 90, 128
+
+23558, washbuild072, northbuild, 90, 128
+
+23559, wshbuildws43ins, washmallnew, 70, 128
+
+23560, lodhnewsky2, LODbuildws07, 2000, 128
+
+23561, lodbuildws16, LODbuildws07, 1000, 128
+
+23562, lodhnewsky1, LODbuildws07, 2000, 128
+
+23563, lodhbuild074, LODwsouth08, 700, 128
+
+23564, lodhbuild073, LODbuildws07, 700, 128
+
+23565, lodhbuild072, LODwsouth08, 350, 128
+
+23566, lodhbuild071, LODbuildws07, 700, 128
+
+23567, lodhbuild120, LODwsouth08, 700, 128
+
+23568, lodbuildws12, LODwsouth08, 700, 128
+
+23569, lodhbuild025, LODwsouth08, 350, 128
+
+23570, lodhbuild063, LODwsouth08, 350, 128
+
+23571, lodhbuild062, LODwsouth08, 350, 128
+
+23572, lodhbuild075, LODwsouth08, 350, 128
+
+23573, lodh_pizzaplace, LODwsouth08, 350, 128
+
+23574, lodhbuild003, LODwsouth08, 350, 128
+
+23575, lodhbuild005, LODwsouth08, 350, 128
+
+23576, lodhbuild014, LODwsouth08, 350, 128
+
+23577, lodhbuild068, LODwsouth08, 350, 128
+
+23578, lodhtooceanrd1, LODwsouth08, 700, 128
+
+23579, lodbuildws20, LODwsouth08, 700, 128
+
+23580, lodh_deco01, LODwsouth08, 700, 128
+
+23581, lodh_deco02, LODwsouth08, 700, 128
+
+23582, lodh_deco03, LODwsouth08, 700, 128
+
+23583, lodh_deco04, LODwsouth08, 700, 128
+
+23584, lodh_deco05, LODwsouth08, 700, 128
+
+23585, lodhbuild198, LODwsouth08, 700, 128
+
+23586, lodhbuild116, LODwsouth08, 700, 128
+
+23587, wash_brdgsup1, vc_bridge, 150, 128
+
+23588, wshtelgrphcabl02, wshtelgrph, 150, 132
+
+23589, wshtelgrphcabl03, wshtelgrph, 150, 132
+
+23590, wshtelgrphcabl04, wshtelgrph, 150, 132
+
+23591, wshtelgrphcabl05, wshtelgrph, 150, 132
+
+23592, lodhbuild184, LODwsouth08, 350, 128
+
+23593, basketballcourt05, washbballcrt, 90, 132
+
+23594, wshswimupbar, swimupbar, 80, 128
+
+23595, wshswmupstuf, swimupbar, 50, 132
+
+23596, wshhotelawn1, washnewbuild5, 90, 128
+
+23597, wshhotelwater1, wshbuildws40, 120, 132
+
+23598, wshotelveg1, vcgeneric, 70, 132
+
+23599, washfence1, washfence128, 90, 132
+
+23600, washfence2, washfence128, 90, 132
+
+23601, washawninga1, washnewbuild2, 140, 128
+
+23602, washawning2b, washnewbuild2, 140, 128
+
+23603, wshbuildws19, washnewbuild1, 140, 128
+
+23604, lodbuildws19, LODbuildws07, 2000, 128
+
+23605, wshbuil19wall, washnewbuild1, 110, 128
+
+23606, woshmallglas1, woshmalglas, 50, 132
+
+23607, woshmallglas2, woshmalglas, 50, 132
+
+23608, lodhpshoutdet, LODwsouth08, 700, 128
+
+23609, woshmalmarkings, wshmolmrk, 50, 132
+
+23610, woshmaldirt1, wshbuildirt, 50, 132
+
+23611, lodhbuild119, LODwsouth08, 700, 128
+
+23612, lodh_brdgsup1, LODwashnbrdge, 2000, 384
+
+23613, lodhbuild187, LODwsouth08, 700, 128
+
+23614, wshnrthroad01, vcgeneric, 140, 0
+
+23615, lodnrthroad01, LODwsouth08, 700, 128
+
+23616, wshnrthroad02, vcgeneric, 140, 0
+
+23617, lodnrthroad02, LODwsouth08, 700, 128
+
+23618, wshnrthroad03, vcgeneric, 140, 0
+
+23619, lodnrthroad03, LODwsouth08, 700, 128
+
+23620, wshnrthroad04, vcgeneric, 140, 0
+
+23621, wshnrthroad05, vcgeneric, 140, 0
+
+23622, lodnrthroad05, LODwsouth08, 700, 128
+
+23623, lodnrthroad06, LODwsouth08, 700, 128
+
+23624, wshnrthroad06, vcgeneric, 140, 0
+
+23625, wshnrthroad07, vcgeneric, 140, 0
+
+23626, lodnrthroad07, LODwsouth08, 700, 128
+
+23627, lodnrthroad09, LODwsouth08, 700, 128
+
+23628, lodnrthroad08, LODwsouth08, 700, 128
+
+23629, wshnrthroad08, vcgeneric, 140, 0
+
+23630, wshnrthroad09, vcgeneric, 140, 0
+
+23631, lodnrthroad10, LODwsouth08, 700, 128
+
+23632, wshnrthroad10, vcgeneric, 140, 0
+
+23633, lodnrthroad11, LODwsouth08, 700, 128
+
+23634, wshnrthroad11, vcgeneric, 140, 0
+
+23635, wshnrthroad12, vcgeneric, 140, 0
+
+23636, lodnrthroad12, LODwsouth08, 700, 128
+
+23637, wshnrthroad13, vcgeneric, 140, 0
+
+23638, lodnrthroad13, LODwsouth08, 700, 128
+
+23639, lodnrthroad14, LODwsouth08, 700, 128
+
+23640, wshbuildws312, washlandb, 90, 0
+
+23641, wshbuildws322, washlandb, 90, 0
+
+23642, lodbuildws31, LODwsouth08, 350, 128
+
+23643, lodbuildws312, LODwsouth08, 700, 128
+
+23644, lodbuildws322, LODwsouth08, 350, 128
+
+23645, lodbuildws32, LODwsouth08, 350, 128
+
+23646, wshbuildws09, northbuild, 140, 128
+
+23647, lodhnewsky3, LODbuildws07, 2000, 128
+
+23648, wshmalsign1, washlandb, 70, 0
+
+23649, wshmalsign3, washlandb, 70, 0
+
+23650, wshmalsign2, washlandb, 70, 0
+
+23651, wshmalsign4, washlandb, 70, 0
+
+23652, wshmalsign5, washlandb, 70, 0
+
+23653, lodmalsign5, LODwsouth08, 200, 128
+
+23654, lodmalsign1, LODwsouth08, 200, 128
+
+23655, lodmalsign2, LODwsouth08, 200, 128
+
+23656, lodmalsign3, LODwsouth08, 200, 128
+
+23657, lodmalsign4, LODwsouth08, 200, 128
+
+23658, ggsalonsign1, newashbuild1, 70, 132
+
+23659, cokpoolwater, washwater, 80, 4
+
+23660, nrth7veg, vcgeneric, 200, 132
+
+23661, nrth1veg21, vcgeneric, 200, 132
+
+23662, nrth1veg37, vcgeneric, 200, 132
+
+23663, nrth1veg42, vcgeneric, 200, 132
+
+23664, nrth3veg05, vcgeneric, 200, 132
+
+23665, nrth3veg08, vcgeneric, 200, 132
+
+23666, nrth3veg16, vcgeneric, 200, 132
+
+23667, nrth3veg25, vcgeneric, 200, 132
+
+23668, nrth3veg35, vcgeneric, 200, 132
+
+23669, nrth3veg50, vcgeneric, 200, 132
+
+23670, nrth3veg59, vcgeneric, 200, 132
+
+23671, nrth4veg05, vcgeneric, 200, 132
+
+23672, nrth4veg08, vcgeneric, 200, 132
+
+23673, nrth4veg09, vcgeneric, 200, 132
+
+23674, nrth4veg21, vcgeneric, 200, 132
+
+23675, nrth7veg09, vcgeneric, 200, 132
+
+23676, wshnrthroad28, vcgeneric, 140, 0
+
+23677, lodnrthroad28, LODwsouth08, 700, 128
+
+23678, wshbuildws264, washlandb, 100, 0
+
+23679, wshnrthroad26, vcgeneric, 140, 0
+
+23680, wshnrthroad14, vcgeneric, 140, 0
+
+23681, lodnrthroad04, LODwashnbrdge, 700, 384
+
+23682, lodbuil19wall, LODbuildws07, 790, 128
+
+23683, lodbuildws264, LODwsouth08, 700, 128
+
+23684, nrth4veg212, vcgeneric, 200, 132
+
+23685, wsh_roadblock, wshrdblck, 145, 0
+
+23686, wshbuildws43ins2, washmallnew, 70, 128
+
+23687, carwashsign1, washnewbuild3, 40, 128
+
+23688, washpshoutveg, vcgeneric, 144, 132
+
+23689, wshnrthpstr1, washnrthpstr1, 100, 0
+
+23690, wshnrthpstr02, washnrthpstr1, 100, 0
+
+23691, wshnrthpstr03, washnrthpstr1, 100, 0
+
+23692, wshnrthpstr05, washnrthpstr1, 100, 0
+
+23693, wshnrthpstr07, washnrthpstr1, 100, 0
+
+23694, washmallwater, washmallnew, 60, 132
+
+23695, lodbuildws43ins, LODwsouth08, 350, 128
+
+23696, wshnrthlawdoor, northbuild, 100, 128
+
+23697, wshmoundlaw1, washlandb, 90, 4
+
+23698, wshbldws26bit, washlandb, 100, 4
+
+23699, wtn_roadsigns01, washlandb, 100, 128
+
+23700, washpshoutdet, washmallnew, 120, 128
+
+23701, wash_deco042, washmiamistrip13, 130, 0
+
+23702, wash_deco032, washmiamistrip2, 130, 0
+
+23703, wash_deco022, washmiamistrip3, 130, 0
+
+23704, wash_deco012, washmiamistrip4, 130, 0
+
+end
+tobj
+23705, wshmallneon, wshneon, 290, 173, 22, 5
+23706, washgasneon, wshneon, 290, 173, 22, 5
+23707, washgasneon01, wshneon, 290, 173, 22, 5
+23708, washgasneon02, wshneon, 290, 173, 22, 5
+23709, washotelneon1, wshneon, 290, 173, 22, 5
+23710, woshmalneon2, wshneon, 290, 173, 22, 5
+23711, washbuild025neon, wshneon, 290, 173, 22, 5
+23712, ggneonsign2, wshneon, 290, 173, 22, 5
+end

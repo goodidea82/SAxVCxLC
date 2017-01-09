@@ -1,0 +1,200 @@
+objs
+23361, stglue, star4, 100, 132
+
+23362, rose_bush01, star5, 100, 4
+
+23363, mansion2_c_fence, star4, 150, 128
+
+23364, mansion2_a, stmansion, 120, 128
+
+23365, boat_housea, star3, 150, 132
+
+23366, boat_housea01, star5, 150, 4
+
+23367, mansion3_c, star5, 130, 0
+
+23368, st_garden1, star2, 130, 0
+
+23369, stargate, star2, 100, 4
+
+23370, stglue01, star2, 100, 4
+
+23371, stpoolwater, starpool, 100, 4
+
+23372, rose_bush03, star5, 100, 4
+
+23373, stpoolw1, transbits2, 150, 4
+
+23374, mansion1gardens, star4, 200, 0
+
+23375, starisland_road6, starroad, 150, 0
+
+23376, starisland_road2, starroad, 200, 0
+
+23377, starisland_road4, starroad, 150, 0
+
+23378, starisland_road1, starroad, 200, 0
+
+23379, boatpole, star5, 150, 128
+
+23380, starisland_road3, starroad, 170, 0
+
+23381, mansion3gardens, star3, 170, 0
+
+23382, mansion2_b, star3, 100, 128
+
+23383, mansion3a, star4, 100, 128
+
+23384, mansion3_b, star5, 130, 128
+
+23385, mansion1b, star1, 130, 128
+
+23386, starhouse, star2, 100, 128
+
+23387, lodrisland_road3, lod_starsmall, 750, 384
+
+23388, lodrisland_road1, lod_starsmall, 750, 384
+
+23389, lodsion3_b, lod_starsmall, 700, 384
+
+23390, lodrhouse, lod_starsmall, 700, 384
+
+23391, lodrisland_road2, lod_starsmall, 750, 384
+
+23392, lodrisland_road4, lod_starsmall, 750, 384
+
+23393, lodrisland_road6, lod_starsmall, 750, 384
+
+23394, lodsion1gardens, lod_starbig, 1500, 384
+
+23395, stobject23, starpool, 100, 4
+
+23396, stpoolwater5, starpool, 100, 4
+
+23397, stglue06, star2, 100, 4
+
+23398, stglue07, star4, 100, 132
+
+23399, starladder, star5, 100, 0
+
+23400, mansion4gate, star1, 100, 132
+
+23401, man4garagedoors, star1, 100, 2048
+
+23402, stpoolwater02, starpool, 100, 4
+
+23403, starrockpool, star1, 130, 128
+
+23404, man4ladderpool01, star1, 100, 0
+
+23405, mansion1_base, star1, 190, 0
+
+23406, lodsion1_base, lod_starsmall, 750, 384
+
+23407, lodsion1b, lod_starsmall, 700, 384
+
+23408, lodsion1_a, lod_starsmall, 700, 384
+
+23409, mansion1_a, star1, 100, 128
+
+23410, lodsion2_b, lod_starsmall, 700, 384
+
+23411, lodrtrees3, vcgeneric, 1000, 388
+
+23412, lodrtrees5, vcgeneric, 1000, 388
+
+23413, lodrtrees4, vcgeneric, 1000, 388
+
+23414, lodrtrees2, vcgeneric, 1000, 388
+
+23415, lodrtrees1, vcgeneric, 1000, 388
+
+23416, lodgarden1, lod_starbig, 1500, 384
+
+23417, gate4, star4, 100, 4
+
+23418, gate5, star4, 150, 0
+
+23419, starbbnet02, starf, 200, 132
+
+23420, mansion2c, star4, 150, 128
+
+23421, starbridge2, starbridge, 180, 4
+
+23422, starmainwall1, mansionwall, 200, 0
+
+23423, starwallmain2, mansionwall, 200, 0
+
+23424, starwallmain4, mansionwall, 200, 0
+
+23425, sb, star5, 130, 128
+
+23426, starfbed02, starf, 100, 132
+
+23427, starfbed03, starf, 100, 4
+
+23428, starfbed04, starf, 100, 132
+
+23429, starfbed05, starf, 150, 132
+
+23430, starfbed06, starf, 100, 132
+
+23431, pollstaeps1, star2, 100, 0
+
+23432, lodsion3gardens, lod_starbig, 1500, 384
+
+23433, lodsion2_a, lod_starsmall, 700, 384
+
+23434, lodrbridge2, lod_starbig, 1500, 384
+
+23435, lodsion2c, lod_starsmall, 700, 384
+
+23436, lodsion3a, lod_starsmall, 700, 384
+
+23437, starbridge2b, starbridge, 180, 0
+
+23438, starwallmain5, mansionwall, 200, 128
+
+23439, comgate2, starroad, 150, 132
+
+23440, comgate2open, StarLD, 150, 132
+
+23441, comgate1open, StarLD, 150, 132
+
+23442, comgate1, starroad, 150, 132
+
+23443, comgate1closed, StarLD, 150, 132
+
+23444, comgate2closed, StarLD, 150, 128
+
+23445, lodgate2, lod_starsmall, 700, 384
+
+23446, lodgate1, lod_starsmall, 700, 384
+
+23447, comgate03, starroad, 150, 128
+
+23448, starblocker1, star5, 130, 132
+
+23449, starblocker02, star5, 130, 132
+
+23450, lodgate03, lod_starsmall, 700, 384
+
+23451, lodsion3_c, lod_starsmall, 700, 384
+
+23452, mansion3gardens2, star3, 170, 0
+
+23453, man1garden_hedge, star4, 200, 128
+
+23454, man3_base_hedge, star5, 130, 128
+
+23455, man3ghedge, star3, 130, 128
+
+23456, man1_basehedge, star1, 190, 128
+
+23457, lodsion3_base, lod_starbig, 1500, 384
+
+23458, mansion3_base, star5, 130, 0
+
+end
+tobj
+end

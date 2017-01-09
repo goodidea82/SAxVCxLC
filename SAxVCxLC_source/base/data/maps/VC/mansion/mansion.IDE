@@ -1,0 +1,244 @@
+objs
+22271, mna_table_scrfce, starmansionst, 50, 33
+
+22272, man_cellar1, man_cellar, 90, 33
+
+22273, man_cellar2, man_cellar, 90, 33
+
+22274, man_couch02, starmansionst, 50, 33
+
+22275, man_chandeliers, starmansionst, 50, 37
+
+22276, man_hall_floor, man_hall, 200, 33
+
+22277, man_hall_pillars, man_hall, 200, 33
+
+22278, man_hall_ref, man_hall, 200, 37
+
+22279, man_hall_wall1, man_hall, 200, 33
+
+22280, man_hallway1, man_hall_2, 100, 33
+
+22281, man_hallway2, man_hall_2, 100, 33
+
+22282, man_lights_pool, man_props, 60, 33
+
+22283, man_monitor_base, man_props, 100, 33
+
+22284, man_pool, man_pool2, 90, 33
+
+22285, man_pool_shado1, man_pool_shado, 100, 101
+
+22286, man_pool_water, man_pool1, 100, 37
+
+22287, man_xchandeliers, starmansionst, 50, 33
+
+22288, man_scar_curtains, starmansionst, 50, 33
+
+22289, man_scar_propv, starmansionst, 50, 33
+
+22290, man_scar_props206, starmansionst, 50, 33
+
+22291, man_scrface_walls, man_scarface, 100, 33
+
+22292, man_f_chandelier, starmansionst, 50, 33
+
+22293, man_scrfce_floor1, man_scarface, 100, 33
+
+22294, man_tablkb1, starmansionst, 50, 33
+
+22295, man_scrfce_chstrset, starmansionst, 50, 33
+
+22296, man_wtrftr_wtr1, man_wtr_ftr, 90, 37
+
+22297, man_wtrftr_2, man_wtr_ftr, 90, 37
+
+22298, man_wtrftr_3a, man_wtr_ftr, 170, 132
+
+22299, many_polys, man_grnds_kb, 100, 0
+
+22300, man_wtr_fill, manbackside, 60, 0
+
+22301, mn_treesisl05, vcgeneric, 299, 4
+
+22302, mansbushes, vcgeneric, 200, 4
+
+22303, lod_grnd5, lod_man_grnds, 1000, 256
+
+22304, lod_grnd2, lod_man_grnds, 1000, 256
+
+22305, lod_grnd6, lod_man_grnds, 1000, 256
+
+22306, lod_grnd4, lod_man_grnds, 1000, 256
+
+22307, lod_grnd3, lod_man_grnds, 1000, 256
+
+22308, man_frntstep, man_grnds_kb, 100, 128
+
+22309, man_wtrftr_2a, man_wtr_ftr, 170, 132
+
+22310, man_hedge1, man_veg_ext, 100, 0
+
+22311, man_grnd5, man_grnds_kb, 100, 0
+
+22312, man_grnd4, man_grnds_kb, 125, 0
+
+22313, man_wtrftr_1a, man_wtr_ftr, 100, 37
+
+22314, man_maze, man_veg_ext, 200, 0
+
+22315, man_grnd6, man_grnds_kb, 100, 0
+
+22316, man_grnd3, man_grnds_kb, 160, 0
+
+22317, lod_backside, lod_man_grnds, 1000, 256
+
+22318, lod_frntstep, lod_man_grnds, 700, 256
+
+22319, lod_build02, lod_man_grnds, 1000, 256
+
+22320, lod_build01, lod_man_grnds, 1000, 256
+
+22321, lod_build05, lod_man_grnds, 1000, 256
+
+22322, lod_build03, lod_man_grnds, 1000, 256
+
+22323, lod_build04, lod_man_grnds, 1000, 256
+
+22324, man_build04, mansion_new, 100, 0
+
+22325, man_build01, mansion_new, 110, 0
+
+22326, man_build02, mansion_new, 100, 0
+
+22327, man_build03, mansion_new, 100, 128
+
+22328, man_build05, mansion_new, 100, 0
+
+22329, man_dooropen, mannewdoors, 100, 0
+
+22330, man_build04_fnce, mansion_new, 100, 4
+
+22331, mansbushes2, vcgeneric, 200, 4
+
+22332, man_backside, man_grnds_kb, 90, 128
+
+22333, man_twr_stairs, man_twr, 100, 33
+
+22334, man_sdr_seating, hi_cutsdrm_3, 50, 33
+
+22335, man_sdr_tvstf, hi_cutsdrm_2, 50, 33
+
+22336, man_sdr_strctur, hi_cutsdrm_1, 50, 33
+
+22337, man_sdr_paintin, hi_cutsdrm_2, 50, 33
+
+22338, vc_man_sdr_tables, hi_cutsdrm_2, 50, 37
+
+22339, man_sdr_lamps, hi_cutsdrm_2, 50, 37
+
+22340, man_sdr_tabls, hi_cutsdrm_2, 50, 33
+
+22341, man_sdr_folge, hi_cutsdrm_3, 50, 37
+
+22342, man_sdr_props, hi_cutsdrm_1, 50, 33
+
+22343, man_sidrm_shad, hi_cutrshad, 50, 37
+
+22344, drive_flowers06, manf, 100, 4
+
+22345, scar_winglass, aanscarface, 50, 37
+
+22346, man_backside_int, man_grnds_kb, 200, 132
+
+22347, man_build_int, mansion_new, 110, 0
+
+22348, mn_treesis_int, vcgeneric, 100, 4
+
+22349, man_safenewmny, hi_cutsafe, 40, 37
+
+22350, man_safenewdr, hi_cutsafe, 40, 33
+
+22351, islandlod1, islandmanext1, 1000, 256
+
+22352, islandlod2, islandmanext1, 1000, 256
+
+22353, many_polys2, man_grnds_kb, 100, 0
+
+22354, man_backside2, man_grnds_kb, 90, 128
+
+22355, man_frntstepgd, man_grnds_kb, 100, 128
+
+22356, man_doorway2, mansiondoor, 50, 33
+
+22357, manmrgbuild2, star1b, 130, 128
+
+22358, mans_merge03, star1b, 130, 4
+
+22359, manmrgbase1, star1b, 130, 0
+
+22360, lodmrgbase1, lod_man_grnds, 1000, 256
+
+22361, lodmrgbuild2, lod_man_grnds, 700, 256
+
+22362, lodmrgbuild1, lod_man_grnds, 700, 256
+
+22363, manmrgbuild1, star1b, 100, 128
+
+22364, lodmrgtrees4, vcgeneric, 800, 256
+
+22365, mans_merge07, star1b, 130, 0
+
+22366, mans_merge09, manf, 100, 4
+
+22367, stargatedetail, star1b, 130, 0
+
+22368, man_grnd2, man_grnds_kb, 150, 0
+
+22369, mansion_new_doors, mannewdoors, 200, 0
+
+22370, man_doorclosed, mannewdoors, 200, 0
+
+22371, gashbags2, mansion_details, 100, 165
+
+22372, heli_box, mansion_details, 100, 165
+
+22373, gash_bags1, mansion_details, 100, 165
+
+22374, pizza_box1, mansion_details, 100, 165
+
+22375, trophies, mansion_details, 100, 165
+
+22376, pizza_mess, mansion_Rubbish, 100, 165
+
+22377, vc_shovel, mansion_details, 100, 165
+
+22378, gun_docs, mansion_details, 100, 132
+
+22379, man_scrfashado, hi_cutmanshad, 100, 37
+
+22380, pizza_mess2, mansion_Rubbish, 100, 165
+
+22381, man_rubbish03, mansion_Rubbish, 100, 165
+
+22382, frame1, mansion_details2, 100, 132
+
+22383, poloroids, mansion_details, 100, 165
+
+22384, frame1damaged, mansion_details2, 100, 132
+
+22385, lod_wtrftr_1a, lod_man_grnds, 1000, 256
+
+22386, man_twr_stairsb, man_twr, 100, 37
+
+22387, man_build03_al, mansion_new, 100, 132
+
+22388, man_build02_al, mansion_new, 100, 4
+
+22389, man_build01_al, mansion_new, 110, 4
+
+22390, man_build05_al, mansion_new, 100, 4
+
+end
+tobj
+end

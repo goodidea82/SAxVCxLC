@@ -1,0 +1,274 @@
+objs
+22136, mlmiamiland056, mall_ground, 140, 0
+
+22137, mlmiamiland058, mall_ground, 140, 0
+
+22138, mlmiamiland060, mall_ground, 180, 0
+
+22139, mlnorthmall, malltotal, 180, 161
+
+22140, newmallcp_03, mallcarpark, 150, 128
+
+22141, mlmallflag02, mallitems, 140, 128
+
+22142, mlmallflag12, mallitems, 140, 128
+
+22143, mlmallflag14, mallitems, 140, 128
+
+22144, mloven, foodcourt, 150, 161
+
+22145, mlobjects_n, mall_props, 140, 161
+
+22146, mlmallbush, mallplants, 299, 132
+
+22147, mlnpoint02, mallcarpark, 140, 128
+
+22148, mlnpoint04, mallcarpark, 140, 128
+
+22149, mlnpoint06, mallcarpark, 140, 128
+
+22150, mlmallplan02, mallitems, 150, 128
+
+22151, mlmallplan04, mallitems, 150, 128
+
+22152, mlmallplan05, mallitems, 150, 128
+
+22153, mlnorthmallrt, malltotal, 250, 163
+
+22154, mlnorthmalllft, malltotal, 250, 163
+
+22155, newmallcp_05, mallcarpark, 80, 128
+
+22156, newmallcp_02, mallcarpark, 90, 128
+
+22157, newmallcp_04, mallcarpark, 90, 128
+
+22158, ml_gap, ml_clothes, 90, 128
+
+22159, ml_record, ml_tuneless, 100, 161
+
+22160, ml_borders, ml_books, 100, 161
+
+22161, ml_jewellers, ml_jewellers, 100, 161
+
+22162, ml_tarbrush, ml_coffee, 110, 161
+
+22163, ml_cofcounter1, ml_coffee, 50, 161
+
+22164, ml_record3, ml_tuneless, 50, 161
+
+22165, ml_borderswin01, ml_coffee, 90, 1189
+
+22166, ml_recordwin01, ml_coffee, 90, 1189
+
+22167, ml_coffee_dsk, ml_coffee, 50, 161
+
+22168, mall_hardware, mall_ammu, 125, 161
+
+22169, mall_hardwarebits, mall_ammu, 40, 161
+
+22170, lodorthmallext1, lod_mall, 1000, 0
+
+22171, lodlloutside, lod_mall, 1000, 0
+
+22172, lodorthmalllftex, lod_mall, 1000, 0
+
+22173, lodiamiland056, lod_mall, 1000, 0
+
+22174, lodiamiland060, lod_mall, 1000, 0
+
+22175, lodiamiland058, lod_mall, 1000, 0
+
+22176, lodmallcp_02, lod_mall, 1000, 0
+
+22177, lodmallcp_03, lod_mall, 1000, 0
+
+22178, newmallcp_01, mallcarpark, 100, 128
+
+22179, lodmallcp_04, lod_mall, 1000, 0
+
+22180, lodmallcp_05, lod_mall, 1000, 0
+
+22181, lodmallcp_01, lod_mall, 1000, 0
+
+22182, mall_ammu, mall_ammu, 125, 165
+
+22183, mall_ammuwin, mall_ammu, 50, 165
+
+22184, ml_jewelwinframe02, ml_jewellers, 90, 165
+
+22185, ml_coffwinframe01, ml_coffee, 90, 165
+
+22186, ml_coffwinframe02, ml_coffee, 90, 165
+
+22187, nmalloutside, mallext, 140, 128
+
+22188, nbnorthmallext1, mallext, 140, 128
+
+22189, mlnorthmalllftex, mallext, 140, 128
+
+22190, ml_vegbits05, mall_veg, 140, 128
+
+22191, ml_vegbits01, mall_veg, 140, 128
+
+22192, ml_vegbits02, mall_veg, 140, 128
+
+22193, ml_vegbits03, mall_veg, 140, 128
+
+22194, ml_glasslft, ml_coffee, 140, 165
+
+22195, ml_water, mall_props, 100, 165
+
+22196, ml_vegbits04, mall_veg, 140, 128
+
+22197, ml_tarbrushdamage, ml_coffee, 110, 161
+
+22198, ml_borderswin02, ml_coffee, 90, 1189
+
+22199, ml_bordersdoor, ml_books, 100, 165
+
+22200, ml_recordwin02, ml_coffee, 90, 1189
+
+22201, ml_recordwin03, ml_coffee, 90, 1189
+
+22202, ml_recordwin04, ml_coffee, 90, 1189
+
+22203, ml_recordwin05, ml_coffee, 90, 1189
+
+22204, ml_recordwin06, ml_coffee, 90, 1189
+
+22205, ml_gapdoors, ml_clothes, 50, 132
+
+22206, ml_gapwindows01, ml_coffee, 90, 1189
+
+22207, ml_gapwindows02, ml_coffee, 90, 1189
+
+22208, ml_gapwindows03, ml_coffee, 90, 1189
+
+22209, ml_gapwindows04, ml_coffee, 90, 1189
+
+22210, ml_gapwindows05, ml_coffee, 90, 1189
+
+22211, ml_gapwindows06, ml_coffee, 90, 1189
+
+22212, ml_gapwindows07, ml_coffee, 90, 1189
+
+22213, ml_gapwindows08, ml_coffee, 90, 1189
+
+22214, ml_gapwindows09, ml_coffee, 90, 1189
+
+22215, ml_gapwindows10, ml_coffee, 90, 1189
+
+22216, ml_gapwindows11, ml_coffee, 90, 1189
+
+22217, ml_gapwindows12, ml_coffee, 90, 1189
+
+22218, ml_jewelcounter, ml_jewellers, 100, 161
+
+22219, ml_water2, mall_props, 140, 165
+
+22220, mloven02, foodcourt, 150, 161
+
+22221, mlobjects_n02, mall_props, 140, 161
+
+22222, mlobjects_n03, mall_props, 140, 161
+
+22223, mlobjects_n04, mall_props, 140, 161
+
+22224, mlobjects_s02, mall_props, 140, 161
+
+22225, ml_jewelwin02, ml_coffee, 90, 1189
+
+22226, ml_jewelwin01, ml_coffee, 90, 1189
+
+22227, ml_jewelwin03, ml_coffee, 90, 1189
+
+22228, ml_coffwin02, ml_coffee, 90, 1189
+
+22229, ml_coffwin01, ml_coffee, 90, 1189
+
+22230, ml_tartable, ml_coffee, 90, 161
+
+22231, ml_escl, mall_props, 100, 161
+
+22232, mlrecords, ml_tuneless, 50, 161
+
+22233, mall_fans, mall_props, 40, 161
+
+22234, mlngrnd, malltotal, 250, 167
+
+22235, mlgrndmidtop, malltotal, 180, 165
+
+22236, mlgrounds, malltotal, 250, 167
+
+22237, mallint1, malltotal, 250, 163
+
+22238, mallint2, malltotal, 180, 161
+
+22239, mallint3, malltotal, 180, 161
+
+22240, mallint5, malltotal, 180, 161
+
+22241, mallint7, malltotal, 180, 161
+
+22242, mallint8, malltotal, 180, 161
+
+22243, mallint9, malltotal, 260, 163
+
+22244, ml_planterbed, mall_props, 90, 161
+
+22245, mlmallroof, mallroof, 220, 161
+
+22246, lodallroof01, mallroof, 1500, 161
+
+22247, mlmallroof01, mallroof, 200, 165
+
+22248, ml_jewelwinframe01, ml_jewellers, 90, 161
+
+22249, ml_doorstopl, malltotal, 180, 165
+
+22250, ml_doorstopr, malltotal, 180, 165
+
+22251, ml_doorscarp, malltotal, 90, 165
+
+22252, ml_doorsbotr, malltotal, 90, 165
+
+22253, ml_doorsbotl, malltotal, 90, 165
+
+22254, ml_doorsmidl, malltotal, 90, 165
+
+22255, ml_doorsmidr, malltotal, 90, 165
+
+22256, malllights, malltotal, 180, 165
+
+22257, mallstrut, malltotal, 100, 161
+
+22258, mallunder, malltotal, 250, 167
+
+22259, malltreereflect2, vcgeneric, 200, 4
+
+22260, malltreereflect, vcgeneric, 200, 4
+
+22261, mallbushdense, mallplants, 299, 132
+
+22262, mallbushs, mallplants, 299, 132
+
+22263, mallint5up, malltotal, 180, 161
+
+22264, mlnorthmalltop, malltotal, 180, 161
+
+22265, mlmiamiland060b, mall_ground, 180, 0
+
+22266, midmallflorre, malltotal, 250, 167
+
+22267, midmallfloorw, malltotal, 250, 167
+
+22268, maidmalltopa, malltotal, 180, 165
+
+22269, ml_jewelglass, ml_jewellers, 50, 165
+
+22270, mallint5up_b, malltotal, 180, 165
+
+end
+tobj
+end

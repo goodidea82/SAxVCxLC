@@ -1,0 +1,200 @@
+objs
+21359, gf_tree1_01, gfpalms, 100, 132
+
+21360, gf_tree2_02, gfpalms, 100, 132
+
+21361, gf_smallisland1_01, golf3, 200, 0
+
+21362, gf_flagstees3, gfflag, 100, 128
+
+21363, gf_flagstees4, gfflag, 150, 128
+
+21364, gf_mainisl5_01, golf3, 200, 0
+
+21365, gf_tennisfence, gfflag, 100, 132
+
+21366, gf_northisland1, golf3, 200, 0
+
+21367, gf_northbridge1, gf_northbridge, 100, 0
+
+21368, gf_planters2, vcgeneric, 100, 128
+
+21369, gf_ivy_balcny_01, vcgeneric, 100, 128
+
+21370, gf_ivy_balcny_07, vcgeneric, 100, 128
+
+21371, gf_smallislebridge1, golf3, 100, 0
+
+21372, gf_flagstees2, gfflag, 100, 128
+
+21373, gf_flagstees1, gfflag, 100, 128
+
+21374, gf_drivingrange1, gfnorthisland3, 100, 128
+
+21375, gf_drdivide1_01, gfnorthisland3, 100, 132
+
+21376, gf_hedge1_01, gf_hedge1, 100, 4
+
+21377, gf_hedge2_01, gf_hedge1, 100, 4
+
+21378, gf_hedge3_01, gf_hedge1, 100, 4
+
+21379, gf_hedge5_01, gf_hedge1, 100, 4
+
+21380, gf_northisland2, golf3, 200, 0
+
+21381, gf_mainisland3a_01, golf3, 200, 0
+
+21382, gf_mainisland2a_01, golf3, 200, 0
+
+21383, gf_mainisland1a_01, golf3, 200, 0
+
+21384, gf_mainisl2b_01, golf3, 200, 0
+
+21385, gf_mainisland1b_01, golf3, 200, 0
+
+21386, gf_northisland3, golf3, 200, 0
+
+21387, gf_mainisland6b_01, golf3, 200, 0
+
+21388, gf_clubhouse1, golf_clubhouse1, 100, 128
+
+21389, gf_picket1_01, golf_clubhouse2, 100, 132
+
+21390, gf_clublight1_01, golf_clubhouse1, 100, 128
+
+21391, gf_stadlight1_02, golf_clubhouse2, 100, 132
+
+21392, gf_planters4, vcgeneric, 100, 128
+
+21393, lodnorthisland1, gf_LOD, 1000, 384
+
+21394, lodnorthisland2, gf_LOD, 1000, 384
+
+21395, gf_treesfw1_01, vcgeneric, 750, 388
+
+21396, gf_treesfw2_01, vcgeneric, 750, 388
+
+21397, gf_treesfw3_01, vcgeneric, 750, 388
+
+21398, gf_treesfw4_01, vcgeneric, 750, 388
+
+21399, gf_treesfw5_01, vcgeneric, 750, 388
+
+21400, lodsmallisland1_01, gf_LOD, 1000, 384
+
+21401, lodnorthisland3, gf_LOD, 1000, 384
+
+21402, gf_mainisland6a_01, golf3, 200, 0
+
+21403, lodclubhouse1, gf_LOD, 700, 384
+
+21404, loddrivingrange1, gf_LOD, 600, 384
+
+21405, lodnorthbridge1, gf_LOD, 700, 384
+
+21406, lodwoodbridge1, gf_LOD, 600, 384
+
+21407, lodsmallislebridge1, gf_LOD, 700, 384
+
+21408, gf_mainisl4_01, golf3, 200, 0
+
+21409, gf_water01, gfwater, 200, 132
+
+21410, gf_water02, gfwater, 200, 132
+
+21411, gf_water03, gfwater, 200, 132
+
+21412, nt_security1, golf_clubhouse1, 100, 128
+
+21413, gf_pedbridge3, golf_bridge, 200, 0
+
+21414, lodpedbridge3, gf_LOD, 700, 384
+
+21415, nt_roadblockgf, gf_roadblock, 145, 128
+
+21416, golfroad5, golf3, 200, 0
+
+21417, golfroad3, golf3, 200, 0
+
+21418, golfroad4, golf3, 200, 0
+
+21419, golfroad1, golf3, 200, 0
+
+21420, golfroad7, golf3, 200, 0
+
+21421, golfroad2, golf3, 200, 0
+
+21422, lodmainisl2b_01, gf_LOD, 1000, 384
+
+21423, lodmainisland3a_01, gf_LOD, 1000, 384
+
+21424, lodmainisland3b_01, gf_LOD, 1000, 384
+
+21425, lodmainisland1a_01, gf_LOD, 1000, 384
+
+21426, lodmainisl4_01, gf_LOD, 1000, 384
+
+21427, lodmainisland1b_01, gf_LOD, 1000, 384
+
+21428, lodmainisland6a_01, gf_LOD, 1000, 384
+
+21429, lodmainisland6b_01, gf_LOD, 1000, 384
+
+21430, lodmainisl5_01, gf_LOD, 1000, 384
+
+21431, lodmainisland2a_01, gf_LOD, 1000, 384
+
+21432, lodfroad2, gf_LOD, 1000, 384
+
+21433, lodfroad1, gf_LOD, 1000, 384
+
+21434, lodfroad4, gf_LOD, 1000, 384
+
+21435, lodfroad3, gf_LOD, 1000, 384
+
+21436, lodfroad5, gf_LOD, 1000, 384
+
+21437, nbt_road12_gf, vcgeneric, 164, 0
+
+21438, gf_rollerjump, golf_clubhouse1, 100, 128
+
+21439, gf_mainisland3b_01, golf3, 200, 0
+
+21440, gf_golfwall, gf_hedge1, 100, 4
+
+21441, golf_gatesclosed, gf_hedge1, 100, 4
+
+21442, golf_gatesopen, gf_hedge1, 100, 4
+
+21443, lodcland13_gf, gf_LOD, 1000, 384
+
+21444, lod_road12_gf, gf_LOD, 1000, 384
+
+21445, gf_northisland1b, golf3, 200, 0
+
+21446, gf_northisland1c, golf3, 200, 0
+
+21447, gf_mainisland1m_01, golf3, 200, 0
+
+21448, gf_mainisland6n_01, golf3, 200, 0
+
+21449, gf_woodbridge1_01, golf3, 100, 0
+
+21450, gf_hedge6_01, gf_hedge1, 100, 4
+
+21451, gf_hedge4_01, gf_hedge1, 100, 4
+
+21452, nbecland13_gf, gf_nbtecland, 164, 256
+
+21453, gf_signplane01, gf_roadblock, 100, 128
+
+21454, lodgolfwall, gf_LOD, 700, 384
+
+21455, gf_flagstees42, gfflag, 150, 128
+
+21456, gf_flagstees43, gfflag, 150, 128
+
+end
+tobj
+end

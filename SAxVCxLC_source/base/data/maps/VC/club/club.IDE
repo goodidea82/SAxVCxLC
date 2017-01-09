@@ -1,0 +1,92 @@
+objs
+20725, clubceilingdome, mainclub2, 100, 161
+
+20726, cl_main_room, hi_cutmaincl, 100, 161
+
+20727, cl_recessedlights1, mainclub2, 100, 165
+
+20728, cl_curtains, hi_cutmaincl, 100, 165
+
+20729, cl_stage, hi_cutmaincl, 100, 161
+
+20730, cl_recessed_flr, mainclub2, 100, 165
+
+20731, cl_spots, mainclub2, 100, 161
+
+20732, cl_tbl_chait_tmp, mainclub2, 100, 161
+
+20733, cl_railing, mainclub2, 100, 161
+
+20734, cl_stage_roof, hi_cutmaincl, 100, 161
+
+20735, cl_mainwalls, hi_cutclwaltst, 100, 161
+
+20736, club_exterior01, cl_ext1, 150, 128
+
+20737, club_exterior02, cl_ext2, 100, 128
+
+20738, club_exterior03, cl_ext2, 100, 132
+
+20739, club_exterior04, cl_ext2, 100, 132
+
+20740, club_exterior05, cl_ext2, 100, 132
+
+20741, club_exterior06, cl_ext2, 100, 128
+
+20742, club_exterior07, cl_ext3, 100, 128
+
+20743, club_exterior08, cl_vegbits, 100, 132
+
+20744, club_exterior09, cl_vegbits, 100, 132
+
+20745, club_exterior10, cl_ext2, 100, 128
+
+20746, club_exterior11, cl_vegbits, 100, 132
+
+20747, club_exterior12, cl_vegbits, 100, 132
+
+20748, cb_clubstairs, hi_cutclubbar, 100, 161
+
+20749, cl_bckrm_tablewee, hi_cutcluboffice, 100, 161
+
+20750, cl_bckrm_couchs, hi_cutcluboffice, 100, 161
+
+20751, clubbackroom, hi_cutcluboffice, 100, 161
+
+20752, cl_of_opac, hi_cutclof_opa, 100, 165
+
+20753, cl_coolers, hi_cutclubbar, 100, 165
+
+20754, cl_bar_temp1, hi_cutclubbar, 100, 161
+
+20755, cl_ofs_props, hi_cuttblprop, 7, 165
+
+20756, cl_yachtmdl, cl_yacht, 6, 161
+
+20757, cl_lightsuprts, mainclub2, 100, 165
+
+20758, cl_light_st, hi_cutmaincl, 100, 161
+
+20759, cl_main_roomb, hi_cutmaincl, 100, 161
+
+20760, cl_mainwallsb, hi_cutclwaltst, 100, 161
+
+20761, cl_railingb, mainclub2, 100, 161
+
+20762, cl_tbl_chait_tmpb, mainclub2, 100, 161
+
+20763, cl_main_room12, hi_cutmaincl, 100, 161
+
+20764, cl_main_roomb2, hi_cutmaincl, 100, 161
+
+20765, cl_dancefloor, hi_cutmaincl, 100, 161
+
+20766, cl_tablesetlrg, hi_cuttblprop, 7, 165
+
+20767, cl_tblesetsml, hi_cuttblprop, 7, 165
+
+20768, cl_bckrm_tble, hi_cutcluboffice, 100, 161
+
+end
+tobj
+end

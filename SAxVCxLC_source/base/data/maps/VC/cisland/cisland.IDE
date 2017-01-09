@@ -1,0 +1,309 @@
+objs
+20571, ci_islandwest, ci_studionew1, 200, 0
+
+20572, ci_studiowall, ci_studionew1, 200, 0
+
+20573, vc_ci_astage, ci_studio2, 120, 128
+
+20574, ci_mansionwall1, ci_island1, 200, 128
+
+20575, vc_ci_watertank, vc_ci_studio5, 90, 128
+
+20576, ci_screening, ci_studio6, 90, 128
+
+20577, ci_screeningstairs, ci_studio6, 90, 128
+
+20578, ci_offices, ci_studio6, 90, 128
+
+20579, ci_gateway, ci_island1, 200, 128
+
+20580, ci_backdrop, ci_island1, 90, 128
+
+20581, ci_industrial1, ci_industrial, 199, 0
+
+20582, ci_screening2, ci_studio6, 90, 128
+
+20583, ci_kerb1, ci_studionew1, 90, 128
+
+20584, ci_fence2, ci_island1, 90, 128
+
+20585, ci_trees1, vcgeneric, 200, 132
+
+20586, ci_planter2, vcgeneric, 55, 132
+
+20587, ci_planter1, vcgeneric, 55, 132
+
+20588, ci_backgateopen, ci_studio4, 90, 128
+
+20589, ci_trees02, vcgeneric, 200, 132
+
+20590, ci_islandeast, ci_studionew1, 200, 0
+
+20591, ci_busht_02, vcgeneric, 80, 132
+
+20592, ci_trees03, vcgeneric, 200, 132
+
+20593, ci_busht_04, vcgeneric, 80, 132
+
+20594, ci_busht_06, vcgeneric, 80, 132
+
+20595, ci_islandnorth, ci_studionew1, 200, 0
+
+20596, ci_graf_mansion3, ci_mansion1, 45, 132
+
+20597, ci_graf_mansion1, ci_mansion1, 45, 132
+
+20598, ci_posters, ci_posters, 90, 132
+
+20599, ci_studwallgraf, ci_mansion1, 90, 132
+
+20600, ci_busht_08, vcgeneric, 150, 132
+
+20601, ci_graf_fountain, ci_mansion1, 35, 132
+
+20602, ci_boards1, ci_mansion2, 45, 128
+
+20603, ci_boards2, ci_mansion2, 45, 128
+
+20604, ci_trees04, vcgeneric, 90, 132
+
+20605, ci_manscourt, ci_island3, 45, 132
+
+20606, ci_poolhouse, ci_island3, 45, 132
+
+20607, ci_poolwall1, ci_island3, 45, 132
+
+20608, ci_poolsteps, ci_island3, 45, 132
+
+20609, ci_busht_11, vcgeneric, 80, 132
+
+20610, ci_trees05, vcgeneric, 200, 132
+
+20611, ci_jawsramp1, ci_studio3, 45, 128
+
+20612, ci_backlot3, ci_backlot, 150, 128
+
+20613, ci_backlot2, ci_backlot, 150, 128
+
+20614, ci_backlot1, ci_backlot, 150, 128
+
+20615, ci_backlotprops3, ci_pornset, 150, 128
+
+20616, ci_backlotprops2, ci_pornset, 150, 128
+
+20617, ci_backlotprops1, ci_pornset, 150, 128
+
+20618, ci_dstageext, ci_studio3, 90, 128
+
+20619, ci_dirtcorn3, ci_dirtcorn, 90, 132
+
+20620, ci_dirtcorn4, ci_dirtcorn, 90, 132
+
+20621, ci_dirtcorn1, ci_dirtcorn, 90, 132
+
+20622, ci_mans1rail, ci_mansrails, 45, 132
+
+20623, lodislandwest, ci_LOD, 900, 384
+
+20624, lodislandeast, ci_LOD, 900, 384
+
+20625, lodscreening, ci_LOD, 680, 384
+
+20626, lodislandnorth, ci_LOD, 900, 384
+
+20627, lodcstage, ci_LOD, 680, 384
+
+20628, loddstageext, ci_LOD, 680, 384
+
+20629, lodstudiowall, ci_LOD, 900, 384
+
+20630, lodbacklot1, ci_LOD, 720, 384
+
+20631, lodbstage, ci_LOD, 680, 384
+
+20632, lodmansion1, ci_LOD, 680, 384
+
+20633, lodmansion3, ci_LOD, 680, 384
+
+20634, lodoffices, ci_LOD, 680, 384
+
+20635, lodscreening2, ci_LOD, 680, 384
+
+20636, ci_mans2rail1, ci_mansrails, 45, 132
+
+20637, ci_mansion3ballust, ci_ballust, 45, 132
+
+20638, lodmansion2, ci_LOD, 680, 384
+
+20639, ci_dirtcorn2, ci_dirtcorn, 90, 132
+
+20640, ci_mans1grafint, ci_mansionint1, 45, 165
+
+20641, ci_mans1int, ci_mansionint1, 45, 161
+
+20642, ci_mans1stair1, ci_mansionint1, 45, 161
+
+20643, ci_mans1grndfl, ci_mansionint1, 45, 161
+
+20644, ci_mans1istfl, ci_mansionint1, 45, 161
+
+20645, ci_mans1stair2, ci_mansionint1, 45, 161
+
+20646, ci_mans1rail1, ci_mansionint1, 45, 165
+
+20647, ci_mans1roof, ci_mansionint1, 45, 161
+
+20648, ci_officewindows, ci_studio6, 90, 132
+
+20649, ci_dstage, ci_studio3, 100, 161
+
+20650, ci_pornobed, ci_pornset, 20, 161
+
+20651, ci_pornocarpet, ci_pornset, 45, 161
+
+20652, ci_flatprop02, ci_pornset, 45, 161
+
+20653, ci_camera1_01, ci_filmstuff1, 45, 161
+
+20654, ci_dstageshad, ci_shadcay, 45, 165
+
+20655, ci_pornset1, ci_pornset, 45, 161
+
+20656, ci_flatprop01, ci_pornset, 45, 161
+
+20657, ci_table1_01, ci_setstuff1, 45, 161
+
+20658, ci_setshad1, ci_setstuff2, 100, 165
+
+20659, ci_notice03, ci_filmstuff1, 45, 128
+
+20660, ci_lights1_01, ci_setstuff1, 45, 161
+
+20661, ci_dstudiogantry, ci_setstuff1, 35, 165
+
+20662, ci_dstudlights, ci_setstuff1, 35, 165
+
+20663, ci_lights1_02, ci_setstuff1, 45, 161
+
+20664, ci_dstudganwal, ci_setstuff1, 35, 165
+
+20665, ci_cstage, ci_studio2, 90, 128
+
+20666, ci_cstageint, ci_setstuff1, 100, 161
+
+20667, ci_acyclorama, ci_island1, 35, 161
+
+20668, ci_shipset, ci_setstuff4, 70, 161
+
+20669, ci_alights1_01, ci_setstuff1, 45, 161
+
+20670, ci_astudlights, ci_setstuff1, 35, 161
+
+20671, ci_astudganwal, ci_setstuff1, 35, 165
+
+20672, ci_astagelights, ci_setstuff4, 35, 165
+
+20673, nt_ladder_01, ci_setstuff4, 35, 161
+
+20674, nt_ladder_02, ci_setstuff4, 35, 161
+
+20675, ci_astageint, ci_studio2, 90, 161
+
+20676, ci_asteps, ci_setstuff4, 35, 161
+
+20677, ci_astudiogantry, ci_setstuff1, 35, 161
+
+20678, ci_extertank, ci_island1, 90, 128
+
+20679, ci_bcyclorama1, ci_island1, 35, 161
+
+20680, ci_blights1_01, ci_setstuff1, 45, 161
+
+20681, ci_bstudiogantry, ci_setstuff1, 35, 165
+
+20682, ci_bstudlights, ci_setstuff1, 35, 165
+
+20683, ci_bstudganwal, ci_setstuff1, 35, 165
+
+20684, vc_ci_bstage, ci_studio2, 90, 128
+
+20685, ci_bstageint, ci_island1, 100, 161
+
+20686, ci_moonsurface, ci_island1, 100, 128
+
+20687, ci_spaceflag, ci_island1, 35, 165
+
+20688, ci_lander, ci_island1, 35, 161
+
+20689, ci_windmach, vc_ci_studio5, 90, 128
+
+20690, vc_ci_guardhouse1, ci_island1, 90, 132
+
+20691, lodextertank, ci_LOD, 900, 384
+
+20692, ci_fountain, ci_mansion1, 90, 128
+
+20693, props_group1, vc_ci_studio5, 90, 132
+
+20694, prop_group3, vc_ci_studio5, 90, 128
+
+20695, prop_group2, vc_ci_studio5, 90, 128
+
+20696, ci_manintstuff, ci_mansion1, 15, 132
+
+20697, ci_gatesopen, ci_studio4, 90, 132
+
+20698, ci_gatesclosed, ci_studio4, 90, 132
+
+20699, ci_backgateclose, ci_studio4, 90, 128
+
+20700, lodindustrial1, ci_LOD, 720, 384
+
+20701, ci_mansion1, ci_mansion1, 140, 128
+
+20702, ci_mansion2, ci_mansion1, 140, 128
+
+20703, ci_mansion3, ci_mansion1, 140, 128
+
+20704, ci_seajetty, ci_studio2, 90, 128
+
+20705, ci_jetygatesopen, ci_studio4, 90, 132
+
+20706, ci_jetygatesclosed, ci_studio4, 90, 132
+
+20707, lodci_watertank, ci_LOD, 680, 384
+
+20708, lodci_astage, ci_LOD, 720, 384
+
+20709, ci_palettes, ci_mansion1, 15, 132
+
+20710, ci_gobo1, ci_setstuff1, 45, 165
+
+20711, ci_pornsetxtra, ci_pornset, 20, 161
+
+20712, ci_stairsout01, ci_studionew1, 200, 4
+
+20713, ci_rdsigns, ci_island1, 90, 128
+
+20714, ci_rdsigns01, ci_island1, 75, 128
+
+20715, ci_tankship, vc_ci_studio5, 90, 128
+
+20716, ci_redhead1_01, ci_redhead, 90, 128
+
+20717, ci_clightdesk, ci_setstuff1, 45, 161
+
+20718, ci_windmach2, vc_ci_studio5, 90, 132
+
+20719, lodbstageint, ci_LOD, 400, 384
+
+20720, lodcstageint, ci_LOD, 400, 384
+
+20721, lodastageint, ci_LOD, 400, 384
+
+end
+tobj
+20722, ci_dstagelight, ci_shadnit, 45, 132, 21, 5
+20723, ci_astagelight1, ci_shadnit, 90, 132, 21, 5
+20724, ci_astagelight2, ci_shadnit, 90, 132, 21, 5
+end

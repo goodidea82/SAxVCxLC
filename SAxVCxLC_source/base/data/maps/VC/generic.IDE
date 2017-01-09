@@ -1,0 +1,72 @@
+objs
+20150, cooker1, dynjunk, 42, 128
+
+20151, rockpatch1, rocky, 299, 128
+
+20152, rockpatch03, rocky, 299, 128
+
+20153, glassfx_composh, vc_generic, 70, 1156
+
+20154, miamphon, dynphnm, 42, 128
+
+20155, miamifirehyd, firem, 35, 128
+
+20156, miamibin, miamibin, 15, 132
+
+20157, newsstand1, dynnewstnd, 42, 42
+
+20158, gardenbencha, vc_benches, 45, 45
+
+20159, pickupmusic, icons4, 100, 128
+
+20160, kb_planterbush2, vc_generic, 40, 132
+
+20161, lf_mediastage, lf_mediastage, 100, 128
+
+20162, lf_banner, lofbanner, 100, 128
+
+20163, lodxrefhirise1, vc_wshxreflod, 700, 128
+
+20164, wshxrefhirise1, wshxrefhirise, 65, 128
+
+20165, jw_coffin, jwcoffin, 35, 34
+
+20166, train, train, 240, 128
+
+20167, train_dl, train, 240, 128
+
+20168, train_dr, train, 240, 128
+
+20169, strain, train, 240, 128
+
+20170, strain_dl, train, 240, 128
+
+20171, strain_dr, train, 240, 128
+
+end
+tobj
+20172, xod_beacon_dy, xrefhotels, 100, 128, 5, 21
+20173, xod_beacon_nt, xrefhotels, 100, 128, 21, 5
+20174, xod_starlite_dy, xrefhotels, 100, 128, 5, 21
+20175, xod_starlite_nt, xrefhotels, 100, 128, 21, 5
+20176, xod_leslie_nt, xrefhotels, 100, 128, 21, 5
+20177, xod_leslie_dy, xrefhotels, 100, 128, 5, 21
+20178, xod_majestic_dy, xrefhotels, 100, 128, 5, 21
+20179, xod_majestic_nt, xrefhotels, 100, 128, 21, 5
+20180, xod_macalpin_dy, xrefhotels, 100, 128, 5, 21
+20181, xod_macalpin_nt, xrefhotels, 100, 128, 21, 5
+20182, lod_macalpin_dy, LODxrefhot, 900, 128, 5, 21
+20183, xod_tides_dy, xrefhotels, 100, 128, 5, 21
+20184, xod_tides_nt, xrefhotels, 301, 128, 21, 5
+20185, lod_tides_dy, LODxrefhot, 900, 128, 5, 21
+20186, lod_majestic_dy, LODxrefhot, 900, 128, 5, 21
+20187, lod_starlite_dy, LODxrefhot, 900, 128, 5, 21
+20188, lod_leslie_dy, LODxrefhot, 900, 128, 5, 21
+20189, lod_beacon_dy, LODxrefhot, 900, 128, 5, 21
+20190, lod_beacon_nt, LODxrefhot, 900, 128, 21, 5
+20191, lod_starlite_nt, LODxrefhot, 900, 128, 21, 5
+20192, lod_macalpin_nt, LODxrefhot, 900, 128, 21, 5
+20193, lod_leslie_nt, LODxrefhot, 900, 128, 21, 5
+20194, lod_majestic_nt, LODxrefhot, 900, 128, 21, 5
+20195, lod_tides_nt, LODxrefhot, 900, 128, 21, 5
+end

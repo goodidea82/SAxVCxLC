@@ -1,0 +1,378 @@
+objs
+20196, ap_tower, ap_buildings2, 299, 0
+
+20197, ap_terminachek1_01, ap_terminAint, 90, 0
+
+20198, ap_terminachek1_02, ap_terminAint, 90, 0
+
+20199, ap_gatesa, ap_terminal1boards, 150, 4
+
+20200, ap_gatesb, ap_terminal1boards, 150, 4
+
+20201, ap_termina_01, ap_terminal1, 299, 0
+
+20202, jump_box108, jumpbox, 200, 0
+
+20203, jump_box112, jumpbox, 200, 0
+
+20204, ap_hangar1_01, airport, 290, 4
+
+20205, apairprtbits01, airport, 150, 4
+
+20206, apairprtbits05, airport, 150, 4
+
+20207, helipad0, helipad, 180, 4
+
+20208, ap_screens1_01, ap_airstuff1, 90, 0
+
+20209, ap_runsign3_01, ap_runsigns1, 299, 0
+
+20210, ap_termsign1_01, ap_airstuff1, 90, 0
+
+20211, ap_termsign2_01, ap_airstuff1, 90, 0
+
+20212, ap_gatedisp1_01, ap_airstuff1, 90, 0
+
+20213, ap_booth1_01, ap_airstuff1, 90, 0
+
+20214, ap_booth2_01, ap_airstuff1, 90, 0
+
+20215, ap_booth3_01, ap_airstuff1, 90, 0
+
+20216, ap_booth1_02, ap_airstuff1, 90, 0
+
+20217, ap_runsign6_02, ap_runsigns1, 299, 0
+
+20218, ap_runsign7_03, ap_runsigns1, 299, 0
+
+20219, ap_subfraightback04, subcrates, 165, 0
+
+20220, ap_subfraightback02, subcrates, 165, 0
+
+20221, ap_subfraightback01, subcrates, 165, 0
+
+20222, ap_screens2_01, ap_airstuff1, 90, 0
+
+20223, ap_gatedisp1_02, ap_airstuff1, 90, 0
+
+20224, jump_box113, jumpbox, 200, 0
+
+20225, jump_box_02, jumpbox, 200, 0
+
+20226, ap_firetrucks, ap_build2, 299, 0
+
+20227, airport_carpark0, ap_carpark3, 299, 0
+
+20228, carparkfence0, ap_roads, 299, 4
+
+20229, ap_freight1_01, subcrates, 160, 0
+
+20230, ap_roadsigns1_02, ap_build2, 125, 4
+
+20231, ap_freight2_01, subcrates, 165, 0
+
+20232, ap_steps1_01, airstuff2, 200, 0
+
+20233, ap_freight3_01, subcrates, 165, 0
+
+20234, ap_runsign10_03, ap_runsigns1, 299, 0
+
+20235, ap_roadsigns1_03, ap_build2, 125, 4
+
+20236, ap_concwall1, ap_misc1, 78, 0
+
+20237, ap_freightterminal1, ap_build3, 180, 0
+
+20238, ap_flyingschool1, ap_build3, 180, 0
+
+20239, ap_smallradar1, ap_build4, 299, 4
+
+20240, ap_fuelbay1, ap_fuel1, 160, 0
+
+20241, ap_oiltank1_01, ap_fuel1, 160, 0
+
+20242, ap_oilpipes1, ap_fuel1, 160, 0
+
+20243, ap_flargetank1, ap_fuel2, 160, 0
+
+20244, ap_midtank1, ap_fuel2, 160, 0
+
+20245, ap_fuelshad1, ap_fuel3, 299, 4
+
+20246, jump_box114, jumpbox, 200, 0
+
+20247, jump_box115, jumpbox, 200, 0
+
+20248, ap_hland_01, ap_ground1, 299, 0
+
+20249, ap_hookerinn1, ap_build3, 145, 0
+
+20250, ap_planters1_01, vcgeneric, 70, 4
+
+20251, ap_planters2_01, vcgeneric, 70, 4
+
+20252, ap_hotroadsect1, ap_roadsect1, 299, 0
+
+20253, ap_treesfw1_01, vcgeneric, 299, 4
+
+20254, ap_treeshot1_02, vcgeneric, 299, 4
+
+20255, ap_boardshad1, ap_terminal1boards, 299, 4
+
+20256, ap_smallhangars1_01, airport, 290, 4
+
+20257, ap_smahangar2_01, airport, 290, 4
+
+20258, apairprtbits07, airport, 290, 4
+
+20259, ap_booth2_03, ap_airstuff1, 90, 0
+
+20260, ap_seaplaland1, ap_seasplane, 180, 0
+
+20261, ap_seaplanehanger1, ap_seasplane, 170, 0
+
+20262, ap_termwindows1, ap_termwindows, 299, 4
+
+20263, ap_blastdef_01, ap_newprops1opac, 299, 4
+
+20264, ap_blastdef_03, ap_newprops1opac, 299, 4
+
+20265, air_brway_030, airgrndb, 299, 0
+
+20266, air_brway_31, airgrndb, 299, 0
+
+20267, air_brway_32, airgrndb, 299, 0
+
+20268, air_brway_33, airgrndb, 299, 0
+
+20269, air_brway_34, airgrndb, 299, 0
+
+20270, ap_seahangstuft, ap_seaplanprop, 180, 0
+
+20271, ap_dockstairs1, ap_seaplanprop, 299, 0
+
+20272, ap_seaplanedock1, ap_seaplanprop, 299, 0
+
+20273, ap_transpol1, ap_misc1, 150, 0
+
+20274, ap_kerb1, ap_ci_indus2, 78, 0
+
+20275, ap_smahangar2_02, airport, 180, 4
+
+20276, ap_smahangar2_03, airport, 180, 4
+
+20277, ap_smahangar2_04, airport, 180, 4
+
+20278, ap_smahangar2_05, airport, 150, 4
+
+20279, ap_smahangar2_06, airport, 150, 4
+
+20280, ap_seaplanfence1, ap_seasplane, 180, 4
+
+20281, apairprtbits08, airport, 299, 4
+
+20282, ap_runsigns5_01, ap_runsigns1, 299, 0
+
+20283, ap_hotelpool, ap_build3, 145, 4
+
+20284, ap_seafences, ap_seasplane, 180, 4
+
+20285, ap_rland08, ap_ground1, 299, 0
+
+20286, ap_roadsect1, ap_roadsect1, 299, 0
+
+20287, ap_rland03, ap_viceairport, 299, 0
+
+20288, ap_rland04, ap_viceairport, 299, 0
+
+20289, ap_rland06, ap_viceairport, 299, 0
+
+20290, ap_rland05, ap_viceairport, 299, 0
+
+20291, ap_rland07, ap_viceairport, 299, 0
+
+20292, ap_rland02, ap_viceairport, 299, 0
+
+20293, ap_rland01, ap_viceairport, 299, 0
+
+20294, ap_roadsect2a, ap_roads, 299, 0
+
+20295, ap_wallfence1, ap_roads, 299, 4
+
+20296, ap_wallfence2, ap_roads, 299, 4
+
+20297, ap_wallfence6, ap_roads, 299, 4
+
+20298, ap_barriergate1, ap_checkpoints, 150, 4
+
+20299, ap_barriergate4, ap_checkpoints, 150, 4
+
+20300, ap_barriergate2, ap_checkpoints, 150, 4
+
+20301, ap_wallfence7, ap_roads, 299, 4
+
+20302, ap_gsecurity1, ap_airstuff1, 30, 0
+
+20303, ap_gsecurity2, ap_airstuff1, 30, 0
+
+20304, ap_security1, ap_airstuff1, 90, 0
+
+20305, ap_security2, ap_airstuff1, 90, 0
+
+20306, lodipad0, ap_LOD, 700, 0
+
+20307, lodflyingschool1, ap_LOD, 900, 0
+
+20308, lodtranspol1, ap_LOD, 900, 0
+
+20309, lodtower, ap_LOD, 1200, 4
+
+20310, lodport_carpark0, ap_LOD, 1700, 0
+
+20311, lodfiretrucks, ap_LOD, 900, 0
+
+20312, lodsmallhangars1_01, ap_LOD, 700, 4
+
+20313, lodsmahangar2_01, ap_LOD, 700, 0
+
+20314, lodsmahangar2_02, ap_LOD, 700, 0
+
+20315, lodsmahangar2_03, ap_LOD, 700, 0
+
+20316, lodsmahangar2_04, ap_LOD, 700, 0
+
+20317, lodsmahangar2_05, ap_LOD, 700, 0
+
+20318, lodsmahangar2_06, ap_LOD, 700, 0
+
+20319, lodhland_01, ap_LOD, 1700, 0
+
+20320, lodhookerinn1, ap_LOD, 900, 0
+
+20321, lodfreightterminal1, ap_LOD, 1200, 0
+
+20322, lodseaplanehanger1, ap_LOD, 1200, 0
+
+20323, lodseaplaland1, ap_LOD, 1700, 0
+
+20324, lodgatesa, ap_LOD, 900, 0
+
+20325, lodflargetank1, ap_LOD, 900, 0
+
+20326, lodgatesb, ap_LOD, 900, 0
+
+20327, lodrland01, ap_LOD, 1700, 0
+
+20328, lodrland03, ap_LOD, 1700, 0
+
+20329, lodrland04, ap_LOD, 1700, 0
+
+20330, lodrland05, ap_LOD, 1700, 0
+
+20331, lodrland07, ap_LOD, 1700, 0
+
+20332, lodrland08, ap_LOD, 1700, 0
+
+20333, lodrland02, ap_LOD, 1700, 0
+
+20334, lodrland06, ap_LOD, 1700, 0
+
+20335, lodroadsect2a, ap_LOD, 1000, 0
+
+20336, lodroadsect1, ap_LOD, 1000, 0
+
+20337, lodsmallradar1, ap_LOD, 700, 0
+
+20338, ap_stairsout04, ap_build2, 175, 4
+
+20339, ap_pots1_01, ap_airstuff1, 90, 0
+
+20340, ap_pots2_01, ap_airstuff1, 90, 0
+
+20341, ap_windowstruts, ap_termwindows, 299, 0
+
+20342, ap_termaintfloor1, ap_terminal1, 135, 0
+
+20343, lodtermaintfloor1, ap_LOD, 700, 0
+
+20344, lodtermina_01, ap_LOD, 1700, 0
+
+20345, lodtermina2_01, ap_LOD, 1700, 0
+
+20346, lodconcwall1, ap_LOD, 700, 0
+
+20347, ap_dockwall1, ap_roadsect1, 130, 0
+
+20348, loddockwall1, ap_LOD, 700, 0
+
+20349, ap_hangar1_04, airport, 290, 4
+
+20350, lodhangar1_01, ap_LOD, 700, 0
+
+20351, lodhangar1_04, ap_LOD, 700, 0
+
+20352, ap_termina_roof1, ap_terminal1, 299, 0
+
+20353, ap_terminagatesa, ap_terminal1, 90, 0
+
+20354, ap_terminagrflo1, ap_terminal1, 280, 0
+
+20355, ap_terminagatesb, ap_terminal1, 90, 0
+
+20356, ap_terminagrflo2, ap_terminal1, 280, 0
+
+20357, ap_termina_roof2, ap_terminal1, 299, 0
+
+20358, ap_termaintfloor2, ap_terminal1, 135, 0
+
+20359, ap_termina2_01, ap_terminal1, 299, 0
+
+20360, ap_termaintfloor2b, ap_terminal1, 135, 0
+
+20361, ap_termaintfloor1b, ap_terminal1, 135, 0
+
+20362, ap_newesca_01, ap_clothes, 160, 0
+
+20363, ap_boxjunct1, ap_roads, 135, 4
+
+20364, lodroadsigns1_02, ap_LOD, 700, 0
+
+20365, lodroadsigns1_03, ap_LOD, 700, 0
+
+20366, ap_roadsect2b, ap_roads, 299, 0
+
+20367, lodroadsect2b, ap_LOD, 1000, 0
+
+20368, ap_newescaglas_01, ap_clothes, 160, 4
+
+20369, ap_newesca_02, ap_clothes, 160, 0
+
+20370, ap_newescaglas_02, ap_clothes, 160, 4
+
+20371, ap_steps1_02, airstuff2, 200, 0
+
+20372, ap_steps1_03, airstuff2, 200, 0
+
+20373, ap_steps1_04, airstuff2, 200, 0
+
+20374, ap_steps1_05, airstuff2, 200, 0
+
+20375, ap_steps1_06, airstuff2, 200, 0
+
+20376, ap_steps1_07, airstuff2, 200, 0
+
+20377, ap_steps1_08, airstuff2, 200, 0
+
+20378, ap_freight3_01a, subcrates, 165, 4
+
+20379, ap_freight2_01a, subcrates, 165, 4
+
+20380, ap_freight1_01b, subcrates, 160, 4
+
+20381, ap_termwindows1b, ap_termwindows, 299, 4
+
+end
+tobj
+20382, ap_termsign1_dy, ap_termwindows, 299, 4, 6, 20
+20383, ap_termsign1_nt, ap_termwindows, 299, 4, 20, 6
+end

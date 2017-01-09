@@ -1,0 +1,264 @@
+objs
+22391, nbmiamiland048, nbeachgen, 149, 0
+
+22392, nbmiamiland049, nbeachgen, 149, 0
+
+22393, nbmiamiland050, nbeachgen, 149, 0
+
+22394, nbmiamiland051, nbeachgen, 149, 0
+
+22395, nbmiamiland052, nbeachgen, 149, 0
+
+22396, nbmiamiland053, nbeachgen, 149, 0
+
+22397, nbmiamiland054, nbeachgen, 149, 0
+
+22398, nbmiamiland055, nbeachgen, 149, 0
+
+22399, nbmiamiland057, nbeachgen, 149, 0
+
+22400, nbmiamiland059, nbeachgen, 149, 0
+
+22401, nbmiamiland061, nbeachgen, 149, 0
+
+22402, nbmiamiland068, nbeachgen, 149, 0
+
+22403, nbsavehotel, nbsavehotel, 149, 128
+
+22404, nbhotel02, nbhotel02, 149, 128
+
+22405, nbhotel01, nbhotel01, 149, 128
+
+22406, nbhotel03, nbhotel03, 149, 128
+
+22407, nbdecoshop02, nbdecoshop02, 149, 128
+
+22408, nbdecoshop01, nbdecoshop01, 169, 128
+
+22409, nbdecoshop03, nbdecoshop03, 149, 128
+
+22410, nbhotel05, nbhotel05, 149, 128
+
+22411, nbhotel06, nbhotel06, 125, 128
+
+22412, nbhotel04, nbhotel04, 125, 128
+
+22413, nbhotel07, nbhotel07, 149, 128
+
+22414, nbhotel08, nbhotel08, 149, 128
+
+22415, vc_nb_road15, vcgeneric, 149, 0
+
+22416, nbmiamiland065, nbeachgen, 149, 0
+
+22417, nbmiamiland063, nbeachgen, 149, 0
+
+22418, hoteltrees01, vcgeneric, 50, 132
+
+22419, hoteltrees02, vcgeneric, 50, 132
+
+22420, hoteltrees03, vcgeneric, 50, 132
+
+22421, nbdecopromnd, nbdecopromnd, 149, 0
+
+22422, nbdecoshplants, nbdecoshop02, 50, 132
+
+22423, malltrees01, vcgeneric, 100, 132
+
+22424, mallseats01, nbdecopromnd, 100, 128
+
+22425, lodiamiland048, nbeach_lod, 800, 256
+
+22426, lodiamiland049, nbeach_lod, 1500, 0
+
+22427, lodiamiland050, nbeach_lod, 1500, 0
+
+22428, lodiamiland051, nbeach_lod, 800, 0
+
+22429, lodiamiland052, nbeach_lod, 800, 0
+
+22430, lodiamiland053, nbeach_lod, 800, 0
+
+22431, lodiamiland054, nbeach_lod, 800, 0
+
+22432, lodiamiland055, nbeach_lod, 800, 0
+
+22433, lodiamiland057, nbeach_lod, 1500, 0
+
+22434, lodiamiland059, nbeach_lod, 800, 0
+
+22435, lodiamiland061, nbeach_lod, 800, 0
+
+22436, lodiamiland068, nbeach_lod, 800, 0
+
+22437, lodnb_road15, nbeach_lod, 800, 0
+
+22438, lodiamiland065, nbeach_lod, 800, 0
+
+22439, lodiamiland063, nbeach_lod, 800, 0
+
+22440, lodecopromnd, nbeach_lod, 800, 128
+
+22441, lodotel04, nbeach_lod, 800, 0
+
+22442, lodotel05, nbeach_lod, 800, 0
+
+22443, lodotel01, nbeach_lod, 1500, 0
+
+22444, lodotel02, nbeach_lod, 1500, 0
+
+22445, lodotel03, nbeach_lod, 1500, 0
+
+22446, lodotel06, nbeach_lod, 800, 0
+
+22447, lodotel07, nbeach_lod, 800, 0
+
+22448, lodotel08, nbeach_lod, 800, 0
+
+22449, lodavehotel, nbeach_lod, 1500, 0
+
+22450, lodecoshop02, nbeach_lod, 800, 0
+
+22451, lodecoshop01, nbeach_lod, 800, 0
+
+22452, lodecoshop03, nbeach_lod, 800, 0
+
+22453, nbdcprmndfnc2, nbdcprmndfnc, 100, 132
+
+22454, nbdcprmndfnc1, nbdecopromnd, 100, 132
+
+22455, nbsavhtlglass, nbsavehotel, 100, 132
+
+22456, nbdcoshp01glss, nbdecoshop01, 100, 132
+
+22457, 4x4signstop, nbchdrtrack, 250, 0
+
+22458, 4x4rockstop, nbchdrtrack, 200, 0
+
+22459, seveneleven, seveneleven, 90, 33
+
+22460, pharmacy_kb1, pharmacyint, 70, 33
+
+22461, shopfronts03, shopfronts03, 169, 128
+
+22462, shpfrnts03rail02, shopfronts03, 100, 132
+
+22463, shpfrnts03rail01, shopfronts03, 100, 132
+
+22464, lodpfronts03, nbeach_lod, 800, 0
+
+22465, nbhotel02glss, nbhotel02, 110, 4
+
+22466, vc_nb_road01, vcgeneric, 189, 0
+
+22467, vc_nb_road02, vcgeneric, 149, 0
+
+22468, vc_nb_road03, vcgeneric, 149, 0
+
+22469, vc_nb_road04, vcgeneric, 149, 0
+
+22470, vc_nb_road05, vcgeneric, 149, 0
+
+22471, vc_nb_road06, vcgeneric, 149, 0
+
+22472, vc_nb_road07, vcgeneric, 149, 0
+
+22473, vc_nb_road08, vcgeneric, 149, 0
+
+22474, vc_nb_road09, vcgeneric, 149, 0
+
+22475, vc_nb_road10, vcgeneric, 149, 0
+
+22476, vc_nb_road11, vcgeneric, 149, 0
+
+22477, vc_nb_road12, vcgeneric, 170, 0
+
+22478, vc_nb_road13, vcgeneric, 149, 0
+
+22479, vc_nb_road14, vcgeneric, 149, 0
+
+22480, lodnb_road01, nbeach_lod, 800, 0
+
+22481, lodnb_road02, nbeach_lod, 800, 0
+
+22482, lodnb_road03, nbeach_lod, 800, 0
+
+22483, lodnb_road04, nbeach_lod, 800, 0
+
+22484, lodnb_road05, nbeach_lod, 800, 0
+
+22485, lodnb_road06, nbeach_lod, 800, 0
+
+22486, lodnb_road07, nbeach_lod, 800, 0
+
+22487, lodnb_road08, nbeach_lod, 800, 0
+
+22488, lodnb_road09, nbeach_lod, 800, 0
+
+22489, lodnb_road10, nbeach_lod, 800, 0
+
+22490, lodnb_road11, nbeach_lod, 800, 0
+
+22491, lodnb_road12, nbeach_lod, 800, 0
+
+22492, lodnb_road13, nbeach_lod, 800, 0
+
+22493, lodnb_road14, nbeach_lod, 800, 0
+
+22494, nbroadnew1, vcgeneric, 149, 0
+
+22495, 4x4racecotop, nbchdrtrack, 240, 0
+
+22496, nbeachb, shared_beach, 220, 0
+
+22497, nbeachb1, shared_beach, 220, 0
+
+22498, 4x4racecotop2, nbchdrtrack, 260, 0
+
+22499, beachblend01, shared_beach, 300, 132
+
+22500, beachblend02, shared_beach, 150, 132
+
+22501, beachblend03, shared_beach, 150, 132
+
+22502, beachblend04, shared_beach, 150, 132
+
+22503, lodachb1, nbeach_lod, 1200, 0
+
+22504, lodachb, nbeach_lod, 1200, 0
+
+22505, lodracecotop, nbeach_lod, 1200, 0
+
+22506, lodracecotop2, nbeach_lod, 1200, 0
+
+22507, nbdecopromnd2, nbdecopromnd, 149, 0
+
+22508, lodoadnew1, nbeach_lod, 800, 0
+
+22509, lodecopromnd2, nbeach_lod, 800, 128
+
+22510, lodnbbridge1, nbeach_lod, 1530, 256
+
+22511, ci_nbbridge1, nb_bridge1, 190, 0
+
+22512, ci_nbbridge1fn3, nb_bridge1, 70, 132
+
+22513, ci_nbbridge1fn2, nb_bridge1, 70, 132
+
+22514, nbhtel06shdw, nbhotel06, 100, 4
+
+22515, nbeachrdsign, nbeachrdsign, 70, 0
+
+22516, hoteltrees05, vcgeneric, 300, 132
+
+22517, hoteltrees06, vcgeneric, 300, 132
+
+22518, nbchflw01, nbchflw, 250, 4
+
+22519, nbchflw02, nbchflw, 250, 4
+
+22520, 4x4finishline, nbchdrtrack, 50, 0
+
+end
+tobj
+end

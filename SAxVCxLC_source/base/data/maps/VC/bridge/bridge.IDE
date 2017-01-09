@@ -1,0 +1,44 @@
+objs
+end
+tobj
+20531, roosbridge_dt, bwidge, 100, 0, 5, 23
+20532, roosbrgestartf_dt, bwidge, 100, 0, 5, 23
+20533, roosbridge1_dt, bwidge, 100, 0, 5, 23
+20534, roosbridge2_dt, bwidge, 100, 0, 5, 23
+20535, roosbridge3_dt, bwidge, 100, 0, 5, 23
+20536, roosbridge4_dt, bwidge, 100, 0, 5, 23
+20537, roosbridge5_dt, bwidge, 100, 0, 5, 23
+20538, roosbridge6_dt, bwidge, 100, 0, 5, 23
+20539, roosbridge07_dt, bwidge, 100, 0, 5, 23
+20540, lodsbridge6_dt, LODbridge, 3000, 0, 5, 23
+20541, lodsbridge3_dt, LODbridge, 3000, 0, 5, 23
+20542, lodsbridge2_dt, LODbridge, 3000, 0, 5, 23
+20543, lodsbridge1_dt, LODbridge, 3000, 0, 5, 23
+20544, lodsbridge_dt, LODbridge, 3000, 0, 5, 23
+20545, lodsbridge4_dt, LODbridge, 3000, 0, 5, 23
+20546, lodsbridge5_dt, LODbridge, 3000, 0, 5, 23
+20547, lodsbridge07_dt, LODbridge, 3000, 0, 5, 23
+20548, lodsbrgestartf_dt, LODbridge, 3000, 0, 5, 23
+20549, roosbridge_nt, bwidge, 100, 0, 23, 5
+20550, roosbrgestartf_nt, bwidge, 100, 0, 23, 5
+20551, roosbridge1_nt, bwidge, 100, 0, 23, 5
+20552, roosbridge2_nt, bwidge, 100, 0, 23, 5
+20553, roosbridge3_nt, bwidge, 100, 0, 23, 5
+20554, roosbridge4_nt, bwidge, 100, 0, 23, 5
+20555, roosbridge5_nt, bwidge, 100, 0, 23, 5
+20556, roosbridge6_nt, bwidge, 100, 0, 23, 5
+20557, roosbridge07_nt, bwidge, 100, 0, 23, 5
+20558, lodsbridge6_nt, LODbridge, 3000, 0, 23, 5
+20559, lodsbridge3_nt, LODbridge, 3000, 0, 23, 5
+20560, lodsbridge2_nt, LODbridge, 3000, 0, 23, 5
+20561, lodsbridge1_nt, LODbridge, 3000, 0, 23, 5
+20562, lodsbridge_nt, LODbridge, 3000, 0, 23, 5
+20563, lodsbridge4_nt, LODbridge, 3000, 0, 23, 5
+20564, lodsbridge5_nt, LODbridge, 3000, 0, 23, 5
+20565, lodsbridge07_nt, LODbridge, 3000, 0, 23, 5
+20566, lodsbrgestartf_nt, LODbridge, 3000, 0, 23, 5
+20567, roosbrgestart_r_dt, bwidge, 100, 0, 5, 23
+20568, roosbrgestart_r_nt, bwidge, 100, 0, 23, 5
+20569, lodsbrgestart_r_nt, LODbridge, 3000, 0, 23, 5
+20570, lodsbrgestart_r_dt, LODbridge, 3000, 0, 5, 23
+end

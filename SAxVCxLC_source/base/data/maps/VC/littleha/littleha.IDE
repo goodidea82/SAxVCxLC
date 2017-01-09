@@ -1,0 +1,506 @@
+objs
+21885, miamiland037, littlhab1, 150, 128
+
+21886, lhroadc4, lh_roads, 149, 0
+
+21887, miamiland039, vcgeneric, 149, 0
+
+21888, littlehacoast02, lithablk4, 150, 0
+
+21889, lh_buildingg1, lithablk9, 140, 128
+
+21890, miamiland170, littlehab2, 100, 128
+
+21891, miamiland171, lithahouse, 100, 128
+
+21892, miamiland172, litthabg1, 130, 128
+
+21893, miamiland173, litthabg1, 130, 128
+
+21894, miamiland174, littlhablk7, 149, 128
+
+21895, miamiland175, litthablk6, 149, 0
+
+21896, miamiland176, vcgeneric, 149, 0
+
+21897, miamiland177, vcgeneric, 149, 0
+
+21898, miamiland178, vcgeneric, 149, 0
+
+21899, miamiland179, lithablk12, 149, 128
+
+21900, miamiland180, lithablk12, 130, 128
+
+21901, havanahouse01, lithahouse, 70, 128
+
+21902, lithavabit01, lithahouse, 70, 128
+
+21903, havanahouse02, lithahouse, 70, 128
+
+21904, havanahouse03, lithahouse, 70, 128
+
+21905, havanahouse04, lithahouse, 70, 128
+
+21906, lithavabit03, lhgardens, 149, 128
+
+21907, havanahouse06, lithahouse, 70, 128
+
+21908, lithavabit04, lhgardens, 149, 4
+
+21909, lithavabit05, lithahouse, 70, 128
+
+21910, lithavabit06, lithahouse, 70, 128
+
+21911, vegetationb, vcgeneric, 149, 132
+
+21912, lithavabit07, lithahouse, 70, 128
+
+21913, lithavabit08, lithahouse, 70, 128
+
+21914, havanahouse07, lithahouse, 70, 128
+
+21915, havbit01, lhgardens, 149, 128
+
+21916, fuckedcars03, lhfuckercars, 50, 128
+
+21917, fuckedcars01, lhfuckercars, 50, 128
+
+21918, fuckedcars04, lhfuckercars, 50, 128
+
+21919, fuckedcars02, lhfuckercars, 50, 128
+
+21920, car_fucko03, lhfuckercars, 50, 128
+
+21921, havanahouse09, lithahouse, 70, 128
+
+21922, lithavabit09, lithahouse, 70, 128
+
+21923, lithavabit10, lithahouse, 70, 128
+
+21924, lithavabit11, lithahouse, 70, 128
+
+21925, havbit02, lhgardens, 149, 128
+
+21926, havbit03, littlehab2, 100, 128
+
+21927, veged, vcgeneric, 149, 132
+
+21928, veged01, vcgeneric, 149, 132
+
+21929, veged02, vcgeneric, 300, 132
+
+21930, deli_exterior_front, deliext, 80, 132
+
+21931, deli_interior, deliint, 30, 128
+
+21932, drycleaners, drycleaners, 22, 128
+
+21933, vegetationb03, vcgeneric, 320, 132
+
+21934, lh_icedoor, lh_taxi, 50, 165
+
+21935, lh_icecream02, lh_taxi, 60, 161
+
+21936, lh_icecream01, lh_taxi, 149, 128
+
+21937, havgangshop, lhgangshop, 80, 132
+
+21938, littleha_hardware, wa_tool2, 120, 128
+
+21939, littleha_police, hav_police, 149, 128
+
+21940, glue_straight01, lhglue, 25, 132
+
+21941, glue_corner01, lhglue, 25, 132
+
+21942, telewire04, wire, 149, 132
+
+21943, telewire03, wire, 149, 132
+
+21944, telewire02, wire, 149, 132
+
+21945, littlehabroad, lh_roads, 170, 0
+
+21946, lithavroad3, lh_roads, 149, 0
+
+21947, littlharoadgg2, lh_roads, 149, 0
+
+21948, lhwallbit, hav_health, 149, 0
+
+21949, lhavnew_bush, vcgeneric, 149, 132
+
+21950, vc_vchospital, hahospital, 160, 128
+
+21951, lhcoastsky1, habuildblok, 149, 128
+
+21952, havhotel, lhhotelbg, 149, 128
+
+21953, havbuild, lithahotel, 149, 128
+
+21954, lithahousebk2, lithablk22, 120, 128
+
+21955, cof_intfloor, cofshopint, 80, 161
+
+21956, cofsho_ext1, coffeshpext, 100, 128
+
+21957, cof_seat, cofshopintdet, 15, 161
+
+21958, cof_extwindw, cofshopwind, 50, 165
+
+21959, cof_shpdetail1, cofshopintdet, 15, 161
+
+21960, cof_bardetail, cofshopintdet, 15, 161
+
+21961, cof_xtremedet, cofshopintdet, 12, 161
+
+21962, cof_shad1, cofshad, 10, 165
+
+21963, cof_shad2, cofshad, 12, 229
+
+21964, cof_shad4, cofshad, 10, 165
+
+21965, lithawaste1, lithawaste, 149, 0
+
+21966, lithawaste2, lithawaste, 149, 0
+
+21967, glue_straight02, lhglue, 25, 132
+
+21968, lhbasket, havbasketball, 149, 4
+
+21969, fuckedcars05, lhfuckercars, 50, 128
+
+21970, fuckedcars06, lhfuckercars, 50, 128
+
+21971, lhbuild034, lhbuild3, 150, 128
+
+21972, lhgrnda1, lithawaste, 149, 0
+
+21973, lhroofst01, lhrooft, 100, 132
+
+21974, lhparkline2, lhparkline, 50, 132
+
+21975, lodoastsky1, lodhavbig, 2000, 0
+
+21976, lodvchospital, LODhavana, 800, 0
+
+21977, lodmiland175, LODhavana, 800, 0
+
+21978, lodmiland037, LODhavana, 800, 0
+
+21979, lodbuildingg1, LODhavana, 800, 0
+
+21980, lodtlehacoast02, LODhavana, 800, 0
+
+21981, lodicecream01, LODhavana, 800, 0
+
+21982, lodtleha_police, LODhavana, 800, 0
+
+21983, lodhotel, lodhavbig, 2000, 0
+
+21984, loduild034, lodhavbig, 2000, 0
+
+21985, lihawasteb2, lithawaste, 149, 0
+
+21986, lodmiland170, LODhavana, 800, 0
+
+21987, lodmiland179, LODhavana, 800, 0
+
+21988, lodmiland180, LODhavana, 800, 0
+
+21989, lodmiland173, LODhavana, 800, 0
+
+21990, lodmiland174, LODhavana, 800, 0
+
+21991, lhavroad1, vcgeneric, 149, 0
+
+21992, lhavroad2, vcgeneric, 149, 0
+
+21993, lodvroad1, LODhavana, 800, 0
+
+21994, lodvroad2, LODhavana, 800, 0
+
+21995, lodhahousebk2, LODhavana, 800, 0
+
+21996, lodmiland178, LODhavana, 800, 0
+
+21997, lodmiland177, LODhavana, 800, 0
+
+21998, lodmiland176, LODhavana, 800, 0
+
+21999, lodmiland039, LODhavana, 800, 0
+
+22000, lodtlharoadgg2, lodhavbig, 2000, 0
+
+22001, lodhavroad3, lodhavbig, 2000, 0
+
+22002, lhcoastsky2, habuildblok, 149, 128
+
+22003, lodoastsky2, lodhavbig, 2000, 0
+
+22004, lhroofst02, lhrooft, 100, 128
+
+22005, lhroofst03, lhrooft, 100, 128
+
+22006, lhroofst04, lhrooft, 100, 128
+
+22007, lhroofst07, lhrooft, 100, 128
+
+22008, lhroofst08, lhrooft, 100, 128
+
+22009, lhroofst09, lhrooft, 100, 128
+
+22010, lhroofst10, lhrooft, 100, 128
+
+22011, lhroofst11, lhrooft, 100, 128
+
+22012, lhroofst12, lhrooft, 100, 128
+
+22013, lhroadc1, lh_roads, 149, 0
+
+22014, lhroadc2, lh_roads, 149, 0
+
+22015, lhroadc3, lh_roads, 149, 0
+
+22016, lodoadc1, LODhavana, 800, 0
+
+22017, lodoadc3, LODhavana, 800, 0
+
+22018, lodoadc4, LODhavana, 800, 0
+
+22019, lodoadc2, LODhavana, 800, 0
+
+22020, lh_buildingw1, littlhab1, 100, 128
+
+22021, lodbuildingw1, LODhavana, 800, 0
+
+22022, lh_buildingg2, lithablk9, 150, 128
+
+22023, lh_buildingg3, lithablk9, 180, 128
+
+22024, lodbuildingg2, lodhavbig, 2000, 0
+
+22025, lodbuildingg3, LODhavana, 800, 0
+
+22026, lhdirtpass1, lhglue, 25, 165
+
+22027, lh2glue, lhglue, 25, 132
+
+22028, grasspatch, grasspatch, 55, 196
+
+22029, lhglue3, lhglue, 25, 132
+
+22030, lhdirtpassz, lhglue, 25, 165
+
+22031, lhddirt, lhglue, 25, 165
+
+22032, lhgrasspatchg, grasspatch, 55, 196
+
+22033, havanahouse10, lithahouse, 70, 128
+
+22034, lithavabit12, lithahouse, 70, 128
+
+22035, havanahouse11, lithahouse, 70, 128
+
+22036, lh2glue01, lhglue, 45, 132
+
+22037, lhdirtpassax1, lhglue, 25, 165
+
+22038, lhglue01, lhglue, 45, 132
+
+22039, lhroofst16, lhrooft, 100, 128
+
+22040, billbd04, littlhab1, 100, 128
+
+22041, lodhavabit11, LODhavana, 800, 0
+
+22042, lodanahouse01, LODhavana, 800, 0
+
+22043, lodhavabit06, LODhavana, 800, 0
+
+22044, lodmiland171, LODhavana, 800, 0
+
+22045, lodhavabit05, LODhavana, 800, 0
+
+22046, lodhavabit01, LODhavana, 800, 0
+
+22047, lodhavabit12, LODhavana, 800, 0
+
+22048, lodanahouse09, LODhavana, 800, 0
+
+22049, lodanahouse11, LODhavana, 800, 0
+
+22050, lodanahouse10, LODhavana, 800, 0
+
+22051, lodanahouse02, LODhavana, 800, 0
+
+22052, lodanahouse07, LODhavana, 800, 0
+
+22053, lodanahouse03, LODhavana, 800, 0
+
+22054, lodanahouse04, LODhavana, 800, 0
+
+22055, lodanahouse06, LODhavana, 800, 0
+
+22056, lodhavabit09, LODhavana, 800, 0
+
+22057, lodhavabit10, LODhavana, 800, 0
+
+22058, lodhavabit07, LODhavana, 800, 0
+
+22059, lodhavabit08, LODhavana, 800, 0
+
+22060, lodmiland172, LODhavana, 800, 0
+
+22061, hav_car_show_out, air_carshow, 149, 0
+
+22062, hav_garagedoor1, lh_garagebits, 50, 2176
+
+22063, hav_car_show_int, hai_carshowint, 75, 161
+
+22064, hav_car_show_out2, lh_garagebits, 50, 128
+
+22065, lhbillboard05xx, lhbillbrd, 100, 128
+
+22066, lh_showdoor1, lh_garagebits, 100, 2048
+
+22067, lh_showdoor03, lh_garagebits, 50, 2176
+
+22068, carshowflags, air_carshow, 100, 132
+
+22069, hav_garagedoor02, lh_garagebits, 50, 2176
+
+22070, hav_garagedoor03, lh_garagebits, 50, 2176
+
+22071, hav_garagedoor04, lh_garagebits, 50, 2176
+
+22072, lh_carshow_windows, hai_carshowint, 100, 132
+
+22073, lh_groundstains, lh_garagebits, 100, 132
+
+22074, lod_car_show_out, LODhavana, 800, 128
+
+22075, lha_carfence, air_carshow, 70, 4
+
+22076, lodawasteb2, lodhavbig, 2000, 0
+
+22077, lodhawaste1, lodhavbig, 2000, 0
+
+22078, lodhavabit04, LODhavana, 800, 0
+
+22079, lodbit03, LODhavana, 800, 0
+
+22080, lodbuild, LODhavana, 800, 0
+
+22081, lhroofstuffg, lhrooft, 100, 128
+
+22082, lhbacknbit, litthablk6, 149, 128
+
+22083, vrates, lh_taxi, 60, 128
+
+22084, lhsbackbit, lh_taxi, 60, 128
+
+22085, lhroofst17, lhrooft, 100, 132
+
+22086, lhroofst18, lhrooft, 100, 132
+
+22087, lhsteps3, lhrooft, 100, 132
+
+22088, lodasket, LODhavana, 800, 128
+
+22089, lodbit02, LODhavana, 800, 128
+
+22090, lodsho_ext1, LODhavana, 800, 128
+
+22091, lodtleha_hardware, LODhavana, 800, 128
+
+22092, lodrnda1, LODhavana, 800, 0
+
+22093, lodhawaste2, LODhavana, 800, 0
+
+22094, lodi_exterior_front, LODhavana, 800, 0
+
+22095, lhcargo, lhalleysect, 65, 0
+
+22096, lhstairs7, lhrooft, 100, 132
+
+22097, lhdirt2s, lhglue, 100, 132
+
+22098, lhblbrd8, lhblbrd8, 100, 0
+
+22099, lhblbrd2, lhblbrd2, 100, 4
+
+22100, lhblbrd1, bilbrd1, 100, 4
+
+22101, lhblbrd3, lhblbrd3, 100, 4
+
+22102, lhtankdoor, lithablk9, 100, 128
+
+22103, lhroofwee, lhrooft, 100, 128
+
+22104, lodtlehabroad, lodhavbig, 2000, 0
+
+22105, lhjetty, lhjetty, 100, 0
+
+22106, lharoadab, vcgeneric, 149, 0
+
+22107, lh_race01, lhrace1, 15, 132
+
+22108, lh_race02, lhrace2, 15, 132
+
+22109, lh_race03, lhrace3, 15, 132
+
+22110, lh_race04, lhrace4, 15, 132
+
+22111, lh_race05, lhrace5, 15, 132
+
+22112, lh_race06, lhrace6, 15, 132
+
+22113, lh_racemap, lh_racemap, 22, 128
+
+22114, lhbuild1b, littlhablk7, 149, 128
+
+22115, loduild1b, LODhavana, 800, 0
+
+22116, lodallbit, LODhavana, 800, 0
+
+22117, lodroadab, LODhavana, 800, 0
+
+22118, lh_imp_exp01, lh_imp_exp1, 30, 128
+
+22119, lh_strikethrough, lh_imp_exp1, 30, 132
+
+22120, lh_imp_exp02, lh_imp_exp2, 30, 128
+
+22121, lh_imp_exp03, lh_imp_exp3, 30, 128
+
+22122, lh_imp_exp04, lh_imp_exp4, 30, 128
+
+22123, miamiland041, lh_roads, 149, 0
+
+22124, lodmiland041, LODhavanabrg, 1200, 256
+
+22125, havbackbit, littlehab2, 150, 0
+
+22126, lodbackbit, LODhavana, 800, 0
+
+22127, labiggrass, sharedbiggrass, 50, 4
+
+22128, vegeha1, vcgeneric, 320, 132
+
+22129, labiggrass01, sharedbiggrass, 50, 4
+
+22130, labiggrass02, sharedbiggrass, 50, 4
+
+22131, icedoor, lh_taxi, 149, 128
+
+22132, signagelh, lhroadsign, 100, 128
+
+22133, lhroofst19, lhrooft2, 150, 128
+
+22134, cofbarbothint, cofintout, 20, 0
+
+22135, littleha_hardwareb, wa_tool2, 120, 132
+
+end
+tobj
+end

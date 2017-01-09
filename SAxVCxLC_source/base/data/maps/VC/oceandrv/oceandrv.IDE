@@ -1,0 +1,242 @@
+objs
+23131, deco_buildkb09, oceanstrip2, 100, 128
+
+23132, deco_polgrnda12, ocmiamistrip9, 160, 128
+
+23133, deco_polgrnda13, ocmiamistrip9, 140, 132
+
+23134, deco_polgrnda14, ocmiamistrip9, 140, 128
+
+23135, deco_polgrnda16, ocmiamistrip9X, 140, 128
+
+23136, deco_polgrnda17, ocmiamistrip16, 140, 128
+
+23137, od_walkway2, od_lighthouse, 200, 0
+
+23138, od_walkway3, od_lighthouse, 125, 0
+
+23139, plants04, vcgeneric, 200, 132
+
+23140, plants05, vcgeneric, 150, 132
+
+23141, od_lightext, od_lighthouse, 150, 132
+
+23142, od_northstar, od_bigshops2, 100, 132
+
+23143, od_bphq, od_bphq, 100, 128
+
+23144, od_acne, od_bigshops2, 130, 128
+
+23145, od_bigshops2, od_bigshops2, 140, 128
+
+23146, od_bigshops1, od_bigshops2, 110, 128
+
+23147, lodo_polgrnda12, LODodrive, 900, 128
+
+23148, lodo_polgrnda13, LODodrive, 900, 128
+
+23149, lodo_polgrnda14, LODodrive, 900, 128
+
+23150, lodo_polgrnda16, LODodrive, 900, 128
+
+23151, lodo_polgrnda17, LODodrive, 900, 128
+
+23152, lodlightext, LODodrive, 2000, 128
+
+23153, lodacne, LODodrive, 900, 128
+
+23154, lodbigshops1, LODodrive, 900, 128
+
+23155, lodbigshops2, LODodrive, 900, 128
+
+23156, lodbphq, LODodrive, 900, 128
+
+23157, od_clevelfence, od_fence, 100, 128
+
+23158, oddoorways1, sharedalleyod, 250, 128
+
+23159, odrv_bushes, vcgeneric, 301, 132
+
+23160, od_cornercrap1, sharedalleyod, 50, 132
+
+23161, od_cornercrap2, sharedalleyod, 50, 132
+
+23162, od_cornercrap3, sharedalleyod, 50, 132
+
+23163, od_tracks08, shared_beach, 100, 196
+
+23164, od_tracks10, shared_beach, 100, 196
+
+23165, od_tracks12, shared_beach, 100, 196
+
+23166, od_tracks14, shared_beach, 100, 196
+
+23167, lodo_buildkb09, LODodrive, 900, 128
+
+23168, miamiland_kb03, shared_beach, 300, 0
+
+23169, miamiland_kb04, shared_beach, 200, 0
+
+23170, beach_bush08s, shared_beach, 200, 4
+
+23171, beach_bush06s, shared_beach, 200, 4
+
+23172, miamiland_ws04, shared_beach, 200, 0
+
+23173, miamiland_ws04b, shared_beach, 300, 0
+
+23174, miamiland_kb02, shared_beach, 300, 0
+
+23175, od_lhland, shared_beach, 300, 4
+
+23176, beachlo1, shared_beach, 300, 0
+
+23177, miamiland_kb01_dy, shared_beach, 200, 0
+
+23178, lodmiland_ws04, LODodrive, 900, 128
+
+23179, lodmiland_kb04, LODodrive, 2000, 128
+
+23180, lodmiland_kb03, LODodrive, 2000, 128
+
+23181, lodmiland_ws04b, LODodrive, 2000, 128
+
+23182, lodlhland, LODodrive, 1000, 128
+
+23183, lodchlo1, LODodrive, 2000, 128
+
+23184, lodmiland_kb02, LODodrive, 2000, 128
+
+23185, miamiland_kb01_nt, shared_beach, 200, 0
+
+23186, lodoceanrdn1_dy, LODodrive, 900, 0
+
+23187, lodoceanrdn1_nt, LODodrive, 900, 0
+
+23188, lodwalkway2, LODodrive, 2000, 0
+
+23189, odlowsand2, shared_beach, 300, 0
+
+23190, odlowsand1, shared_beach, 300, 0
+
+23191, odhighsandgrs1, shared_beach, 300, 0
+
+23192, lodowsand1, LODodrive, 2000, 128
+
+23193, lodighsandgrs1, LODodrive, 2000, 128
+
+23194, lodowsand2, LODodrive, 2000, 128
+
+23195, oddoorways02, sharedalleyod, 100, 128
+
+23196, odrv_bushes01, vcgeneric, 301, 132
+
+23197, beachblend15, ocmiamistrip, 150, 132
+
+23198, beachblend12, ocmiamistrip, 150, 132
+
+23199, beachblend13, ocmiamistrip, 150, 132
+
+23200, beachblend14, ocmiamistrip, 150, 132
+
+23201, beachblend16, ocmiamistrip, 150, 132
+
+23202, vc_plants05b, vcgeneric, 150, 132
+
+23203, od_lightint, od_lighthousein, 66, 128
+
+23204, lodnorthstar, LODodrive, 900, 128
+
+end
+tobj
+23205, oceanrda06_dy, vcgeneric, 200, 0, 5, 20
+23206, oceanrda05_dy, vcgeneric, 200, 0, 5, 20
+23207, oceanrda04_dy, vcgeneric, 200, 0, 5, 20
+23208, oceanrda03_dy, vcgeneric, 200, 0, 5, 20
+23209, od_lightbeam, LODodrive, 2000, 173, 20, 5
+23210, od_clevelander_dy, od_hotels1, 110, 128, 5, 20
+23211, od_clevelander_nt, od_hotels1, 110, 128, 20, 5
+23212, od_alleys1_01_dy, sharedalleyod, 150, 4, 5, 21
+23213, od_majestic2c_dy, od_hotels1, 100, 128, 5, 20
+23214, od_majestic2c_nt, od_hotels1, 100, 128, 20, 5
+23215, lodanrda06_dy, LODodrive, 900, 128, 5, 20
+23216, lodanrda05_dy, LODodrive, 900, 128, 5, 20
+23217, lodanrda04_dy, LODodrive, 900, 128, 5, 20
+23218, lodanrda03_dy, LODodrive, 900, 128, 5, 20
+23219, od_neons3b_nt, od_neons1, 200, 173, 21, 5
+23220, od_neons2b_nt, od_neons1, 200, 173, 21, 5
+23221, od_casagrande_dy, od_hotels1, 100, 128, 5, 20
+23222, od_casagrande_nt, od_hotels1, 100, 128, 20, 5
+23223, lodcasagrande_dy, LODodrive, 900, 128, 5, 20
+23224, od_pelican_dy, od_hotels1, 100, 128, 5, 20
+23225, od_pelican_nt, od_hotels1, 100, 128, 20, 5
+23226, od_pelican2_dy, od_hotels1, 100, 128, 5, 20
+23227, od_pelican2_nt, od_hotels1, 100, 128, 20, 5
+23228, lodpelican_dy, LODodrive, 900, 128, 5, 20
+23229, od_colony_dy, od_hotels1, 100, 128, 5, 20
+23230, od_colony_nt, od_hotels1, 100, 128, 20, 5
+23231, od_colony2_nt, od_hotels1, 100, 128, 20, 5
+23232, od_colony2_dy, od_hotels1, 100, 128, 5, 20
+23233, lodcolony_dy, LODodrive, 900, 128, 5, 20
+23234, lodcolony2_dy, LODodrive, 900, 128, 5, 20
+23235, od_tides3_dy, od_hotels1, 100, 128, 5, 20
+23236, od_tides3_nt, od_hotels1, 100, 132, 20, 5
+23237, lodclevelander_dy, LODodrive, 900, 128, 5, 20
+23238, od_dirtshad1, od_neons1, 100, 132, 5, 20
+23239, od_dirtshad3, od_neons1, 100, 132, 5, 20
+23240, od_dirtshad4, od_neons1, 100, 132, 5, 20
+23241, od_alleys3_01_nt, sharedalleyod, 150, 0, 21, 5
+23242, lodalleys2_01_dy, LODodrive, 900, 128, 5, 21
+23243, od_alleys3b_01_dy, sharedalleyod, 150, 4, 5, 21
+23244, oceanrda04_nt, vcgeneric, 200, 0, 20, 5
+23245, oceanrda06_nt, vcgeneric, 200, 0, 20, 5
+23246, ocdneona_nt, od_neons1, 200, 173, 21, 5
+23247, ocdneonb_nt, od_neons1, 200, 173, 21, 5
+23248, od_dirty1, od_neons1, 100, 132, 5, 20
+23249, od_dirty2, od_neons1, 100, 132, 5, 20
+23250, od_dirty4, od_neons1, 100, 132, 5, 20
+23251, od_neonx1, od_neons1, 200, 173, 21, 5
+23252, od_neonn, od_neons1, 200, 173, 21, 5
+23253, lodmajestic2c_dy, LODodrive, 900, 128, 5, 20
+23254, lodtides3_dy, LODodrive, 900, 128, 5, 20
+23255, lodpelican2_dy, LODodrive, 900, 128, 5, 20
+23256, lodanrda06_nt, LODodrive, 900, 128, 20, 5
+23257, lodanrda05_nt, LODodrive, 900, 128, 20, 5
+23258, lodanrda04_nt, LODodrive, 900, 128, 20, 5
+23259, lodanrda03_nt, LODodrive, 900, 128, 20, 5
+23260, lodclevelander_nt, LODodrive, 900, 128, 20, 5
+23261, lodcasagrande_nt, LODodrive, 900, 128, 20, 5
+23262, lodpelican2_nt, LODodrive, 900, 128, 20, 5
+23263, lodcolony_nt, LODodrive, 900, 128, 20, 5
+23264, lodtides3_nt, LODodrive, 900, 128, 20, 5
+23265, lodpelican_nt, LODodrive, 900, 128, 20, 5
+23266, lodcolony2_nt, LODodrive, 900, 128, 20, 5
+23267, lodmajestic2c_nt, LODodrive, 900, 128, 20, 5
+23268, od_alleys2_01_dy, sharedalleyod, 180, 4, 5, 21
+23269, od_newscafe_dy, od_hotels1, 100, 0, 5, 20
+23270, od_newscafe_nt, od_hotels1, 100, 0, 20, 5
+23271, lodnewscafe_nt, LODodrive, 900, 128, 20, 5
+23272, lodnewscafe_dy, LODodrive, 900, 128, 5, 20
+23273, od_oceanrdn1_nt, vcgeneric, 200, 0, 20, 5
+23274, od_oceanrdn1_dy, vcgeneric, 200, 0, 5, 20
+23275, oceanrda03_nt, vcgeneric, 200, 0, 20, 5
+23276, oceanrda05_nt, vcgeneric, 200, 0, 20, 5
+23277, od_fpbarsign, od_hotels1, 100, 165, 20, 5
+23278, lodmiland_kb01_nt, LODodrive, 1000, 128, 20, 5
+23279, lodmiland_kb01_dy, LODodrive, 1000, 128, 5, 20
+23280, lodalleys1_01_dy, LODodrive, 900, 128, 5, 21
+23281, od_alleys1_01_nt, sharedalleyod, 150, 4, 21, 5
+23282, od_alleys2_01_nt, sharedalleyod, 180, 4, 21, 5
+23283, od_alleys3b_01_nt, sharedalleyod, 150, 4, 21, 5
+23284, od_alleys3_01_dy, sharedalleyod, 150, 4, 5, 21
+23285, lodalleys2_01_nt, LODodrive, 900, 128, 21, 5
+23286, lodalleys3_01_nt, LODodrive, 900, 0, 21, 5
+23287, lodalleys3b_01_nt, LODodrive, 900, 4, 21, 5
+23288, lodalleys3_01_dy, LODodrive, 900, 4, 5, 21
+23289, lodalleys3b_01_dy, LODodrive, 900, 4, 5, 21
+23290, lodalleys1_01_nt, LODodrive, 900, 128, 21, 5
+23291, od_alleys1b_01_nt, sharedalleyod, 150, 4, 21, 5
+23292, lodalleys1b_01_nt, LODodrive, 900, 128, 21, 5
+23293, od_alleys1b_01_dy, sharedalleyod, 150, 4, 5, 21
+23294, lodalleys1b_01_dy, LODodrive, 900, 128, 5, 21
+end

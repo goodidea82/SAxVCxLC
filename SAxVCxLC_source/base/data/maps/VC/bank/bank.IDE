@@ -1,0 +1,102 @@
+objs
+20482, bank_table1, vc_hi_cutbnkcoch, 80, 33
+
+20483, bank_palms02, vegetation, 80, 37
+
+20484, bank_table4, vc_hi_cutbnkcoch, 80, 37
+
+20485, chairthings, vc_hi_cutbnkcoch, 80, 33
+
+20486, bank_vault, hi_cutbnkvault, 80, 33
+
+20487, bank_palms09, vegetation, 80, 37
+
+20488, bank_other_strctr, hi_cutbnkmainnw, 80, 33
+
+20489, bank_table05, vc_hi_cutbnkcoch, 80, 37
+
+20490, kb_couch09, vc_hi_cutbnkcoch, 80, 37
+
+20491, bankstructure4, hi_cutbnkmain3, 80, 33
+
+20492, bank_palms21, vegetation, 80, 37
+
+20493, bank_palms23, vegetation, 80, 37
+
+20494, bankrecept, hi_cutbnkrecpt, 80, 33
+
+20495, bnk_main_rework, hi_cutbnkmainnw, 80, 33
+
+20496, bnk_mainnewref, hi_cutbnkmainnw, 80, 33
+
+20497, bankrecept01, hi_cutbnkrecpt, 80, 33
+
+20498, bank_table10, vc_hi_cutbnkcoch, 80, 37
+
+20499, bank_palms28, vegetation, 80, 37
+
+20500, kb_couch15, vc_hi_cutbnkcoch, 80, 37
+
+20501, bnk_man_ofc, hi_cutmngof, 80, 33
+
+20502, bank_palms32, vegetation, 80, 37
+
+20503, bnk_maindr1, hi_cutbnkrecpt, 80, 33
+
+20504, bnk_lft_door2, hi_cutbnkrecpt, 80, 33
+
+20505, bnk_lft_door1, hi_cutbnkrecpt, 80, 33
+
+20506, bnk_maindr2, hi_cutbnkrecpt, 80, 33
+
+20507, chairthings2, vc_hi_cutbnkcoch, 80, 37
+
+20508, bank_officedesks1, vc_hi_cutbnkcoch, 80, 33
+
+20509, elevator, hi_cutbnkrecpt, 80, 33
+
+20510, bnk_main_rooflights, hi_cutbnk_alp, 100, 37
+
+20511, bnk_lightsmain, hi_cutbnk_alp, 100, 37
+
+20512, bnk_recp_lites, hi_cutbnk_alp, 100, 37
+
+20513, man_monitors02, vc_hi_cutbnkcoch, 80, 37
+
+20514, bnk_scrty_tbl, vc_hi_cutbnkcoch, 80, 37
+
+20515, bnk_mngr_rf_lights, hi_cutbnk_alp, 100, 37
+
+20516, bnk_main_glass, hi_cutbnk_alp, 100, 37
+
+20517, bnk_mngr_chr, hi_cutbnkchr, 10, 33
+
+20518, bnk_man_ofc01, hi_cutmngof, 80, 33
+
+20519, bank_palms33, vegetation, 80, 37
+
+20520, bnk_grill01, hi_cutbnkmainnw, 80, 33
+
+20521, bnk_valt_door, hi_cutbnkvault, 80, 33
+
+20522, bnk_ext_int, bank_ext_int, 80, 0
+
+20523, bank_props2, bnk_propy, 100, 33
+
+20524, rocketed_win1, hi_cutpropy, 100, 37
+
+20525, unrocketed_win1, hi_cutpropy, 100, 37
+
+20526, bnk_shado_2, hi_cutpropy, 30, 37
+
+20527, bnk_dsk_acses, hi_cutpropy, 30, 37
+
+20528, plnt_ref_bnk01, vegetation, 80, 33
+
+20529, plnt_ref_bnk02, vegetation, 80, 33
+
+20530, bnk_dsk_acsesno2, hi_cutpropy, 30, 37
+
+end
+tobj
+end

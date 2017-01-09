@@ -1,0 +1,444 @@
+objs
+21009, doontoon03, dt_cube_build, 140, 0
+
+21010, doontoon04, dt_topshops, 200, 0
+
+21011, doontoon09, dtn_ground, 250, 0
+
+21012, doontoon11, dtn_ground, 250, 0
+
+21013, doontoon18, dt_shops14, 150, 0
+
+21014, doontoon19, dt_shops14, 140, 0
+
+21015, doontoon20, dt_modern1, 130, 0
+
+21016, doontoon21, dt_shops1, 130, 0
+
+21017, doontoon22, dt_shops1, 200, 0
+
+21018, doontoon24, dt_shops18, 220, 0
+
+21019, doontoon25, dt_shops182, 100, 128
+
+21020, doontoon27, dt_shops188, 120, 0
+
+21021, doontoon28, dt_shops180, 120, 0
+
+21022, doontoon29, dt_shops13, 100, 0
+
+21023, doontoon30, dt_topshops1, 150, 0
+
+21024, doontoon31, dt_topshops1100, 100, 0
+
+21025, doontoon32, dt_shops13, 110, 0
+
+21026, doontoon34, dt_hospital, 150, 0
+
+21027, doontoon35, dt_shops130, 250, 0
+
+21028, doontoon36, dt_topshops130, 120, 0
+
+21029, doontoon37, dt_topshops6, 100, 0
+
+21030, doontoon38, dt_topshops5, 100, 0
+
+21031, doontoon39, dt_qbert, 150, 0
+
+21032, doontoon47, dt_shops3, 120, 0
+
+21033, doontoon49, dt_shops2, 100, 0
+
+21034, doontoon50, dt_shops3, 100, 0
+
+21035, doontoon51, dt_shops3, 100, 0
+
+21036, doontoon53, dt_VCnews, 150, 128
+
+21037, doontoon54, dt_egg1, 150, 0
+
+21038, doontoon55, dt_shops2, 250, 0
+
+21039, doontoon59, dtn_ground, 250, 0
+
+21040, doontoon61, dtn_ground2, 250, 0
+
+21041, doontoon62, dtn_ground, 250, 0
+
+21042, dt_hotel_waldt, dtn_ground, 250, 0
+
+21043, doontoon67, dtn_ground, 250, 0
+
+21044, doontoon70, dtn_ground, 250, 0
+
+21045, newbuild01, dt_bluebuild, 220, 0
+
+21046, lodntoon_newbit, dt_LOD, 2000, 0
+
+21047, lodntoon39, dt_qbert, 2000, 0
+
+21048, ammu_windows1, dt_ammu, 40, 4
+
+21049, hogans_alley, dt_ammu3, 100, 0
+
+21050, recordingstudio, recstudio, 30, 37
+
+21051, instruments, recstudio2, 100, 37
+
+21052, compound_bits, dt_shops14, 100, 0
+
+21053, dt_compound_esc, dt_shops13, 100, 0
+
+21054, compound_fence, compound_fence, 30, 4
+
+21055, dt_compound_roof, dt_compoundroof, 150, 0
+
+21056, lodcompound_roof, dt_LOD2, 700, 0
+
+21057, gluetest03, dt_shops3, 50, 4
+
+21058, lodntoon_04_bit2, dt_LOD2, 700, 0
+
+21059, dt_tracktyres_04, dt_ntrack, 40, 0
+
+21060, dt_tracktyres_02, dt_ntrack, 40, 0
+
+21061, dt_tracktyres_05, dt_ntrack, 40, 0
+
+21062, dt_tracktyres_03, dt_ntrack, 40, 0
+
+21063, dt_tracktyres_01, dt_ntrack, 40, 0
+
+21064, dt_tracktyres_06, dt_ntrack, 40, 0
+
+21065, dt_track_flags01, dt_ntrack, 200, 4
+
+21066, test_track, dt_ntrack, 250, 0
+
+21067, dt_carpsaces13, dtn_ground, 70, 4
+
+21068, doontoon_22_b, dt_hole_build, 110, 0
+
+21069, dt_carpsaces14, dtn_ground, 70, 4
+
+21070, veg_gaz, dtn_veg, 250, 4
+
+21071, lodntoon55, dt_LOD, 2000, 0
+
+21072, doontoon63, dtn_ground, 190, 0
+
+21073, doontoon56, dt_scyscrap2, 200, 0
+
+21074, dt_nbeach02, dt_nbeach, 250, 0
+
+21075, lodd_downtown12, dt_LOD2, 700, 0
+
+21076, lodd_downtown14, dt_LOD2, 700, 0
+
+21077, lodd_downtown13, dt_LOD2, 700, 0
+
+21078, lodd_downtown04, dt_LOD2, 700, 0
+
+21079, lodd_downtown03, dt_LOD2, 700, 0
+
+21080, lodd_downtown16, dt_brij_LOD, 700, 256
+
+21081, lodd_downtown02, dt_LOD2, 700, 0
+
+21082, lodntoon22, dt_LOD, 2000, 0
+
+21083, lodntoon56, dt_LOD, 2000, 0
+
+21084, lodntoon53, dt_LOD, 2000, 0
+
+21085, lodntoon54, dt_LOD, 2000, 0
+
+21086, lodntoon50, dt_LOD2, 700, 0
+
+21087, lodntoon49, dt_LOD, 2000, 0
+
+21088, lodntoon21, dt_LOD, 2000, 0
+
+21089, lodntoon51, dt_LOD2, 700, 0
+
+21090, lodntoon03, dt_LOD, 2000, 0
+
+21091, lodntoon34, dt_LOD, 2000, 0
+
+21092, lodntoon47, dt_LOD2, 700, 0
+
+21093, lodntoon35, dt_LOD2, 700, 0
+
+21094, lodntoon_top09, dt_LOD2, 700, 0
+
+21095, lodntoon_top10, dt_LOD, 2000, 0
+
+21096, lodbuild01, dt_LOD, 2000, 0
+
+21097, lodbuild02, dt_LOD2, 700, 0
+
+21098, lodntoon18, dt_LOD, 2000, 0
+
+21099, lodpound_bits, dt_LOD2, 700, 0
+
+21100, doontoon_04_bit2, dt_topshops4, 210, 0
+
+21101, lodntoon38, dt_LOD2, 700, 0
+
+21102, lodntoon37, dt_LOD2, 700, 0
+
+21103, lodntoon36, dt_LOD2, 700, 0
+
+21104, lodntoon19, dt_LOD2, 700, 0
+
+21105, lodntoon30, dt_LOD2, 700, 0
+
+21106, lodntoon29, dt_LOD2, 700, 0
+
+21107, lodntoon32, dt_LOD, 2000, 0
+
+21108, lodntoon27, dt_LOD2, 700, 0
+
+21109, lodntoon28, dt_LOD2, 700, 0
+
+21110, lodntoon31, dt_LOD2, 700, 0
+
+21111, lodntoon24, dt_LOD2, 700, 0
+
+21112, lodntoon25, dt_LOD2, 700, 0
+
+21113, lodntoon_top06, dt_LOD2, 700, 0
+
+21114, lodcompound_esc, dt_LOD2, 700, 0
+
+21115, dt_nbeach01, dt_nbeach, 250, 0
+
+21116, dt_nbeach06, dt_nbeach, 250, 0
+
+21117, lodhotel_waldt, dt_LOD2, 700, 0
+
+21118, lodntoon11, dt_LOD2, 700, 0
+
+21119, lodntoon09, dt_LOD2, 700, 0
+
+21120, lodnbeach01, dt_LOD2, 700, 0
+
+21121, lodnbeach02, dt_LOD2, 700, 0
+
+21122, lodnbeach03, dt_LOD2, 700, 0
+
+21123, lodnbeach05, dt_LOD2, 700, 0
+
+21124, lodnbeach06, dt_LOD2, 700, 0
+
+21125, lodntoon67, dt_LOD, 800, 0
+
+21126, lodntoon04, dt_LOD, 2000, 0
+
+21127, lodntoon20, dt_LOD, 2000, 0
+
+21128, dt_20_holewall, dt_modern1, 60, 4
+
+21129, lodntoon76, dt_brij_LOD, 1000, 256
+
+21130, lodunation_dt, dt_LOD2, 700, 0
+
+21131, newbuild02, dt_modern2, 90, 0
+
+21132, dt_bowlsign, dt_topshops1, 15, 0
+
+21133, dt_marscafe, dt_shops13, 50, 0
+
+21134, dt_carpsaces15, dt_topshops, 25, 4
+
+21135, lodntoon70, dt_LOD, 2000, 0
+
+21136, lodntoon63, dt_LOD2, 700, 0
+
+21137, lodntoon59, dt_LOD2, 700, 0
+
+21138, lodntoon62, dt_LOD2, 700, 0
+
+21139, doontoon58, dt_hospital, 150, 0
+
+21140, ammunation_dt, dt_ammu, 60, 0
+
+21141, doontoon76, dt_bridges, 250, 384
+
+21142, doontoon_newbit, dt_topshops50, 190, 0
+
+21143, xpolytrees1_dt, dtn_veg, 250, 4
+
+21144, lodbowlsign, dt_LOD2, 700, 0
+
+21145, lodmarscafe, dt_LOD2, 700, 0
+
+21146, xpolytrees3_dt, dtn_veg, 250, 4
+
+21147, xpolytrees2_dt, dtn_veg, 60, 4
+
+21148, xpolytrees4_dt, dtn_veg, 150, 4
+
+21149, dt_vaj, dt_cube_build, 60, 0
+
+21150, lodntoon61, dt_LOD2, 700, 0
+
+21151, dtn_hospital_fence, dt_hospital, 100, 4
+
+21152, lodntoon58, dt_LOD2, 700, 0
+
+21153, dt_stadium_entrance, dt_stadium, 120, 0
+
+21154, lodstadium_entrance, dt_LOD2, 700, 0
+
+21155, lodstadiumland_c, dt_LOD, 2000, 0
+
+21156, doontoon_top09, dt_bluebuild, 200, 0
+
+21157, dt_stadiumland_c, dt_stadium, 260, 0
+
+21158, dt_stadium_start, dt_stadium, 190, 0
+
+21159, dt_stadiumland_a, dt_stadium, 260, 0
+
+21160, dt_nbeach03, dt_nbeach, 250, 0
+
+21161, doontoon_top10, dt_modern2, 160, 0
+
+21162, dt_stadiumland_b, dt_stadium, 260, 0
+
+21163, doontoon26, dt_shops6, 130, 0
+
+21164, doontoon_top06, dt_shops5, 220, 0
+
+21165, dt_nbeach05, dt_nbeach, 250, 0
+
+21166, doontoon_top_bb, dt_bluebuild, 200, 0
+
+21167, lodd_downtown17, dt_LOD2, 700, 0
+
+21168, dt_gspot_stairs, dt_topshops4, 100, 4
+
+21169, dt_stadiumland_d, dt_stadium, 260, 0
+
+21170, lodstadium_start, dt_LOD2, 700, 0
+
+21171, dtn_stadspacesa, dt_stadium, 260, 4
+
+21172, lodd_downtown15, dt_LOD2, 700, 0
+
+21173, dt_savedrb, dt_shops13, 80, 0
+
+21174, dt_savedra, dt_shops13, 80, 0
+
+21175, dtn_staddoora, dt_stadium, 100, 0
+
+21176, lodstadiumland_b, dt_LOD, 2000, 0
+
+21177, lodstadiumland_a, dt_LOD, 2000, 0
+
+21178, lodstadiumland_d, dt_LOD, 2000, 0
+
+21179, lodd_downtown_new2, dt_LOD2, 700, 0
+
+21180, lodd_downtown11, dt_LOD2, 700, 0
+
+21181, lodntoon26, dt_LOD2, 700, 0
+
+21182, lodd_stadiuma, dt_LOD2, 700, 0
+
+21183, dtbloodring_a, dt_bloodring, 250, 0
+
+21184, dthotring_a, dt_hotring, 250, 0
+
+21185, dtdirtring_a, dt_dirtrng, 250, 0
+
+21186, dtn_staddoorb, dt_stadium, 100, 0
+
+21187, dtn_comp_polysa, dt_shops130, 100, 4
+
+21188, dtoon62_spaces, dtn_ground, 120, 4
+
+21189, dt_savedrc, dt_shops13, 100, 0
+
+21190, dt_savedrd, dt_shops13, 100, 0
+
+21191, lodntoon_top_bb, dt_LOD2, 700, 0
+
+21192, dt_roofshit1, dt_shops13, 80, 0
+
+21193, hogans_alley_b, dt_ammu3, 100, 0
+
+21194, dtn_stadspacesb, dt_stadium, 260, 4
+
+21195, road_downtown13, dtn_roads, 250, 0
+
+21196, road_downtown04, dtn_roads, 250, 0
+
+21197, road_downtown02, dtn_roads, 150, 0
+
+21198, road_downtown16, dtn_roads, 280, 256
+
+21199, road_downtown03, dtn_roads, 250, 0
+
+21200, road_downtown12, dtn_roads, 250, 0
+
+21201, road_downtown15, dtn_roads, 250, 0
+
+21202, road_downtown17, dtn_roads, 250, 0
+
+21203, road_downtown_new2, dtn_roads, 150, 0
+
+21204, road_stadiuma, dtn_roads, 250, 0
+
+21205, road_downtown11, dtn_roads, 210, 0
+
+21206, dtn_cablesa, dtn_cables, 250, 4
+
+21207, dtn_cablesc, dtn_cables, 250, 4
+
+21208, dtn_cablesb, dtn_cables2, 250, 4
+
+21209, road_downtown14, dtn_roads, 250, 0
+
+21210, dtn_cablesd, dtn_cables, 200, 4
+
+21211, dtn_cablesf, dtn_cables, 250, 4
+
+21212, dtn_cablese, dtn_cables, 250, 4
+
+21213, stad_roadb, dt_stadium, 250, 0
+
+21214, stad_roadc, dt_stadium, 250, 0
+
+21215, stad_roadd, dt_stadium, 250, 0
+
+21216, stad_roada, dt_stadium, 250, 0
+
+21217, dtn_veg3, dtn_veg, 150, 4
+
+21218, dtn_veg4, dtn_veg, 250, 4
+
+21219, dt_stadium__alfa1, dt_stadium, 100, 4
+
+21220, dt_stadiumalfa2, dt_stadium, 250, 4
+
+21221, doontoon25_alfas, dt_shops182, 100, 132
+
+21222, doontoon32_alfa, dt_shops13, 110, 4
+
+21223, dt_compound_alfas, dt_compoundroof, 120, 4
+
+21224, ammu_trannies, dt_ammu3, 100, 4
+
+end
+tobj
+21225, dt_nitelites1, dt_lites, 1000, 12, 18, 8
+21226, dt_nitelites2, dt_lites, 1000, 12, 19, 5
+21227, dt_nitelites3, dt_lites, 1000, 12, 18, 8
+21228, dt_nitelites4, dt_lites, 1000, 12, 18, 8
+21229, dt_nitelites5, dt_lites, 1000, 12, 18, 8
+21230, dt_nitelites6, dt_lites, 1000, 12, 18, 8
+21231, dt_nitelites7, dt_lites, 1000, 12, 18, 8
+21232, dt_nitelites8, dt_lites, 1000, 12, 18, 8
+end

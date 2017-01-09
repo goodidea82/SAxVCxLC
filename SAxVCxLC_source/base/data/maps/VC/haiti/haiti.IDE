@@ -1,0 +1,287 @@
+objs
+21457, littlehacoast05, sjmh1haitiroad, 199, 0
+
+21458, sjmgrass, vcgeneric, 150, 132
+
+21459, sjmtionb02, vcgeneric, 299, 132
+
+21460, sjmnd04, lhaith9, 145, 128
+
+21461, drugstoreint, chem2, 200, 128
+
+21462, drugstoreext, chem, 200, 132
+
+21463, bed_shop, bed, 85, 128
+
+21464, litharoada6, sjmh1haitiroad, 199, 0
+
+21465, litharoada9, sjmh1haitiroad, 199, 0
+
+21466, litharoada8, sjmh1haitiroad, 199, 0
+
+21467, lh_haiblockc1, lh_haiblockc1, 144, 128
+
+21468, litlhaitibuilding02, lhaitiblk6f, 144, 128
+
+21469, lh_crushers15, crusherb, 150, 128
+
+21470, lh_hitbuild1a, lhaitiblk6f, 144, 128
+
+21471, pw_printworks, lh_PWbuild1, 200, 128
+
+21472, pw_stairs, lh_PWbuild2, 75, 128
+
+21473, pw_stairbarrier, lh_PWbuild2, 75, 128
+
+21474, pw_backfence1, lh_PWbuild2, 145, 128
+
+21475, pw_bayfence2_01, lh_PWbuild2, 75, 128
+
+21476, pw_staffpark01, lh_PWbuild2, 75, 132
+
+21477, pw_paperroll_01, lh_PWbuild2, 75, 128
+
+21478, litlhaitibuilding09, lhaitiblk6k, 165, 128
+
+21479, haiticent, h_haibloce, 120, 0
+
+21480, lithit14, hai_hoj, 100, 128
+
+21481, hai_houses27, hai_hoj, 100, 128
+
+21482, hibita1, lhaitiblk4sj, 300, 0
+
+21483, sewer2, lhaitiblk4sj, 300, 0
+
+21484, haitiskyt, haitbuildb, 190, 0
+
+21485, haitiroadbuild, haitrdbuilf, 150, 0
+
+21486, haicoast1, sjmhahaitiground, 150, 132
+
+21487, lodlhaitibuilding02, LODhaitibig, 1000, 128
+
+21488, lodhitbuild1a, LODhaiti, 700, 128
+
+21489, loditsnip, LODhaiti, 900, 128
+
+21490, lodti1rd, LODhaiti, 850, 128
+
+21491, lodticent, LODhaiti, 700, 128
+
+21492, ihaitsnip, ihsnidxc, 144, 128
+
+21493, lodprintworks, LODhaitibig, 1000, 128
+
+21494, lodnd04, LODhaiti, 700, 128
+
+21495, lodhoose, LODhaiti, 700, 128
+
+21496, lodharoada6, LODhaiti, 700, 128
+
+21497, lodharoada9, LODhaiti, 700, 128
+
+21498, lodita1, LODhaiti, 1000, 128
+
+21499, lod_houses27, LODhaiti, 700, 128
+
+21500, loder2, LODhaiti, 1000, 0
+
+21501, lodroadnew, LODhaiti, 700, 128
+
+21502, lodtiskyt, LODhaitibig, 1200, 128
+
+21503, lodtlehacoast05, LODhaitibig, 1000, 128
+
+21504, lodcoast1, LODhaitibig, 1000, 128
+
+21505, lodhaiblockc1, LODhaiti, 700, 128
+
+21506, lodtiroadbuild, LODhaiti, 950, 128
+
+21507, lodcrushbn, LODhaiti, 700, 128
+
+21508, lh-hitbuild1aa, lhaitiblk6f, 144, 128
+
+21509, sjmhoose, hai_hoj, 100, 128
+
+21510, sjmfsthus, hai_hoj, 100, 128
+
+21511, sjmkhus, hai_hoj, 100, 128
+
+21512, lithitsjm, hai_hoj, 122, 128
+
+21513, sjmcrushbn, sjmbncrusher5, 150, 0
+
+21514, tesad06, telephait, 150, 132
+
+21515, lodworksramps, LODhaiti, 700, 128
+
+21516, lodtistation, LODhaiti, 700, 128
+
+21517, stationfence, h_haibloce, 100, 132
+
+21518, lodhitbuild1aa, LODhaiti, 700, 128
+
+21519, lodlhaitibuilding09, LODhaiti, 1000, 128
+
+21520, lodfsthus, LODhaiti, 700, 128
+
+21521, lodkhus, LODhaiti, 700, 128
+
+21522, lodgstoreext, LODhaiti, 900, 132
+
+21523, lod_shop, LODhaiti, 700, 128
+
+21524, lodhitsjm, LODhaiti, 700, 128
+
+21525, lodhit14, LODhaiti, 700, 128
+
+21526, haiti1rd, sjmh1haitiroad, 200, 0
+
+21527, lh_crushers09, crusher2, 150, 128
+
+21528, haicoast2, sjmhahaitiground, 150, 132
+
+21529, lodcoast2, LODhaitibig, 1000, 128
+
+21530, lodcrushju, LODhaiti, 700, 128
+
+21531, sjmcrushju, crusher3, 150, 0
+
+21532, sjmcrushlpo, crusherb, 150, 128
+
+21533, lh_crushers13, crusherb, 150, 128
+
+21534, lh_crushers14, sjmjcrusher4, 150, 0
+
+21535, lodcrushers14, LODhaiti, 700, 128
+
+21536, lodcrushmnf, LODhaiti, 700, 128
+
+21537, sjmcrushmnf, ssjmcrusher5, 150, 0
+
+21538, sjmcrushtankr, bitcrusher5, 150, 128
+
+21539, fence01, lh_haiblockc2, 50, 132
+
+21540, haititag, haititag, 100, 132
+
+21541, lodtistation01, LODhaiti, 700, 128
+
+21542, haitistation01, h_haibloce, 100, 128
+
+21543, htnroadnew, sjmh1haitiroad, 199, 0
+
+21544, lh_crushefuck, crusher1, 150, 128
+
+21545, haiticar08, carwreck, 50, 128
+
+21546, haiticar09, carwreck, 150, 128
+
+21547, haiticar10, carwreck, 50, 128
+
+21548, haiticar12, carwreck, 50, 128
+
+21549, sjmbigsig, sjmspray, 100, 128
+
+21550, sjmbigsig2, sjmspray, 100, 128
+
+21551, lodharoada8, LODhaiti, 700, 128
+
+21552, haicoastfirst, sjmhbghaitiground, 150, 132
+
+21553, lodcoastfirst, LODhaitibig, 1000, 128
+
+21554, sjmcoast04, sjmh1haitiroad, 200, 0
+
+21555, litlhaitibuilding07, sjmh5haitiroad, 145, 128
+
+21556, pw_groundplane, lh_PWbuild1grnd, 145, 0
+
+21557, lodgroundplane, LODhaitibig, 1000, 128
+
+21558, lodcoast04, LODhaitibig, 1000, 128
+
+21559, haiwashpaynspray, haiwash, 70, 128
+
+21560, haiwshpnsdoor, haiwash, 70, 2176
+
+21561, roofbit2, roofbit, 60, 0
+
+21562, roofbit07, roofbit, 60, 0
+
+21563, lodwashpaynspray, LODhaitibig, 1000, 128
+
+21564, biggrass2, haitplnt, 200, 4
+
+21565, sjmhafinrd, sjmh1haitiroad, 150, 0
+
+21566, grassbitsjm, lhaitiblk4sj, 199, 0
+
+21567, lodhafinrd, LODhaiti, 900, 128
+
+21568, lodlhaitibuilding07, LODhaitibig, 1000, 128
+
+21569, pw_priint, LH_PWInterior, 60, 33
+
+21570, pw_press1_03, LH_PWInterior, 30, 33
+
+21571, pw_presrommshad, LH_PWInterior2, 60, 37
+
+21572, scrapgate, crusher3, 150, 132
+
+21573, tesad06ss, telephait, 150, 132
+
+21574, tesad06sas, telephait, 150, 132
+
+21575, haiticar13, carwreck, 50, 128
+
+21576, lodcrushefuck, LODhaiti, 900, 0
+
+21577, lh_crushers08, lhmachine1m, 100, 128
+
+21578, lodcrushers08, LODhaiti, 700, 128
+
+21579, lh_boxgirdbridge, lh_dockstuff1, 144, 132
+
+21580, lh_dockposts1, lh_dockstuff1, 144, 132
+
+21581, lh_dockposts2, lh_dockstuff1, 144, 132
+
+21582, lh_dockposts3, lh_dockstuff1, 144, 132
+
+21583, lh_pianoshop, sjmhbghaitiground, 150, 132
+
+21584, lodboxgirdbridge, LODhaiti, 700, 132
+
+21585, pw_paperroll_02, lh_PWbuild2, 75, 128
+
+21586, pw_paperroll_03, lh_PWbuild2, 75, 128
+
+21587, sjmgrass2, vcgeneric, 100, 132
+
+21588, printdooor, lh_PWbuild1, 100, 0
+
+21589, lithitsjm1, hai_hoj, 122, 128
+
+21590, lithitsjm2, hai_hoj, 122, 128
+
+21591, lithitsjm3, hai_hoj, 122, 128
+
+21592, lithitsjm4, hai_hoj, 122, 128
+
+21593, lithitsjm5, hai_hoj, 122, 128
+
+21594, lithitsjm6, hai_hoj, 122, 128
+
+21595, sjmkhus1, hai_hoj, 100, 128
+
+21596, sjmkhus2, hai_hoj, 100, 128
+
+end
+tobj
+21597, haiwshpspryneon1, haiwash, 290, 173, 22, 5
+21598, haiwsignday_dy, haiwash, 70, 128, 5, 22
+21599, haiwsignight_nt, haiwash, 70, 128, 22, 5
+end

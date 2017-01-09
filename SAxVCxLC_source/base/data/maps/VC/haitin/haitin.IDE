@@ -1,0 +1,256 @@
+objs
+21600, sjmcoast, sjmroadhaitiN, 299, 0
+
+21601, sjmsection, sjmroadhaitiN, 299, 0
+
+21602, sjmcoast08, sjmroadhaitiN, 299, 0
+
+21603, sjmcoast06, sjmroadhaitiN, 299, 0
+
+21604, sjmuilding01, lhaitiblkhuty, 199, 0
+
+21605, lh_phils, philss, 200, 0
+
+21606, litharoada2, sjmroadhaitiN, 299, 0
+
+21607, litharoada3, sjmroadhaitiN, 299, 0
+
+21608, litharoada4, sjmroadhaitiN, 299, 0
+
+21609, lh_crushers10, lhmachine1mn, 100, 128
+
+21610, lh_philsext, philss, 70, 128
+
+21611, lh_misc02, philss, 70, 128
+
+21612, lh_philsint, philinter, 20, 161
+
+21613, litlhaitibuilding06, lhaitiblkplat, 250, 128
+
+21614, lh_crushers11, crusherbn, 100, 128
+
+21615, lh_taxifirm02, lhcabbyext, 155, 128
+
+21616, lh_taxifirm01, lhcabby, 120, 161
+
+21617, lh_haiblockc2, lh_haibljki, 188, 128
+
+21618, haitgangshop, gangshop, 199, 132
+
+21619, haitgangshopdoor, gangshop, 199, 128
+
+21620, haitihut3, lhaithutn, 100, 128
+
+21621, lodanahouse12, LODhaitin, 800, 128
+
+21622, haitimall, lhaitiblk1fg, 170, 128
+
+21623, mall2, lhaitiblk1fg, 176, 128
+
+21624, billboard, haitisig, 70, 128
+
+21625, hatsog, lhaiths, 100, 128
+
+21626, haitihut1, lhaithutn, 100, 128
+
+21627, haitihut2, lhaithutn, 100, 128
+
+21628, haitibuilds, haitbuildsea1, 200, 128
+
+21629, haitiskyg, haitbuildsea2, 180, 128
+
+21630, haicoasta2, sjmahaitiground, 199, 132
+
+21631, haitbuildws14, haitbuild41, 200, 128
+
+21632, haicoast3, sjmahaitiground, 199, 0
+
+21633, haicoast4, sjmahaitiground, 199, 0
+
+21634, haicoast5, sjmahaitiground, 199, 0
+
+21635, haigrnda1, sjmahaitiground, 199, 4
+
+21636, lodharoada2, LODhaitinbig, 1000, 128
+
+21637, lodhaiblockc2, LODhaitinbig, 1000, 128
+
+21638, lodhaiblockc3, LODhaitinbig, 1000, 128
+
+21639, loditcut, LODhaitinbig, 1000, 128
+
+21640, lodsection, LODhaitinbig, 1000, 128
+
+21641, lodcoast06, LODhaitinbig, 1000, 128
+
+21642, lodmiland027a, LODhaitinbig, 1000, 128
+
+21643, loduilding01, LODhaitin, 800, 128
+
+21644, lodtiskyg, LODhaitinbig, 1000, 128
+
+21645, lodcoast3, LODhaitinbig, 1000, 128
+
+21646, lodld1, LODhaitinbig, 1000, 128
+
+21647, lodcoast4, LODhaitinbig, 1000, 128
+
+21648, lodharoada3, LODhaitinbig, 1000, 128
+
+21649, loduilding05, LODhaitinbig, 1000, 128
+
+21650, loditnewbt, LODhaitinbig, 1500, 128
+
+21651, lodharoada4, LODhaitinbig, 1000, 128
+
+21652, lodlhaitibuilding06, LODhaitinbig, 1000, 128
+
+21653, lodtimall, LODhaitinbig, 1000, 128
+
+21654, lodl2, LODhaitinbig, 1000, 128
+
+21655, havanahouse12, haitiblk1sj, 120, 128
+
+21656, lodcoast5, LODhaitinbig, 1000, 128
+
+21657, loditwarhus, LODhaitinbig, 1000, 128
+
+21658, lodcoasta2, LODhaitinbig, 1000, 128
+
+21659, lodtbuildws14, LODhaitinbig, 1000, 128
+
+21660, lodgrnda1, LODhaitinbig, 1000, 128
+
+21661, lodcoast, LODhaitinbig, 1000, 128
+
+21662, lodtibuilds, LODhaitinbig, 1000, 128
+
+21663, lodcoast08, LODhaitinbig, 1000, 128
+
+21664, lodtihut1, LODhaitin, 750, 128
+
+21665, lodtihut2, LODhaitin, 750, 128
+
+21666, lodtihut3, LODhaitin, 750, 128
+
+21667, lodcrushers12, LODhaitinbig, 1000, 128
+
+21668, lodsjmcrush, LODhaitinbig, 1000, 128
+
+21669, lodcrushers10, LODhaitinbig, 1000, 128
+
+21670, ih-sjmcrush, crusherbn, 100, 0
+
+21671, ih-sjmphil, philss, 70, 128
+
+21672, sjmcrushgate, philss, 70, 128
+
+21673, hdrugfactoryint, drugfactint, 50, 161
+
+21674, lodphils, LODhaitin, 1000, 128
+
+21675, lodpizzaplace, LODhaitinbig, 1000, 128
+
+21676, lodtaxifirm02, LODhaitinbig, 1000, 128
+
+21677, build1, buildinghan, 100, 128
+
+21678, buildblown, buildinghan, 100, 128
+
+21679, lodldblown, LODhaitinbig, 1000, 128
+
+21680, lh_haiblockc3, funhiati, 90, 0
+
+21681, nhaitiplnt14, haitplntn, 250, 132
+
+21682, crocneon, lh_haibljki, 100, 132
+
+21683, hvood01, chairsnstufh, 20, 128
+
+21684, nhvood, chairsnstufh, 20, 128
+
+21685, fffinhaiti, fffinhaiti, 90, 128
+
+21686, lodinhaiti, LODhaitinbig, 1000, 128
+
+21687, sjmmet, lhaiths, 100, 128
+
+21688, sjmmet2, lh_haibljki, 100, 128
+
+21689, miamiland027a, lhaiths, 199, 128
+
+21690, newramp2, newrampn, 100, 128
+
+21691, haitinwire11, haitinwire, 100, 4
+
+21692, haitinwire22, haitinwire, 100, 4
+
+21693, nhaitplatdr, lhaitiblksick, 100, 128
+
+21694, nhaitplatdrr, lhaitiblksick, 100, 128
+
+21695, npw_press1_02, lh_PWbuild3, 100, 128
+
+21696, haitroadb, sjmroadhaitiN, 299, 0
+
+21697, haitroada, sjmroadhaitiN, 299, 0
+
+21698, haitroadc, sjmroadhaitiN, 299, 0
+
+21699, hdrugfactorypol, drugfactint, 50, 161
+
+21700, lh_crushers12, crusherbn, 100, 0
+
+21701, lodtroadb, LODhaitinbig, 1000, 128
+
+21702, lodtroada, LODhaitinbig, 1000, 128
+
+21703, nhaitiplnt15, haitplntn, 200, 132
+
+21704, lh_pizzaplace, nbtshops, 199, 128
+
+21705, sjmuilding05, lhaitiblk2, 220, 128
+
+21706, lhaitnewbt, lhaitiblksick, 100, 0
+
+21707, lhaitcut, ihaitcutmf, 199, 0
+
+21708, ihaitwarhus, lhaitiblkplt2, 100, 128
+
+21709, haitinwire23, haitinwire, 100, 4
+
+21710, sjmbigsign, sjmsprayn, 100, 128
+
+21711, hvood, haitcont, 80, 165
+
+21712, haitaxidr, lhcabbyext, 155, 128
+
+21713, hvoodext, haitcontext, 80, 132
+
+21714, sjmbigsign01, sjmsprayn, 100, 128
+
+21715, hai_roadsigns, lhaiths, 120, 256
+
+21716, sjmbigsign02, sjmsprayn, 100, 128
+
+21717, arcadesjm, nbtshops, 199, 132
+
+21718, nhaiticar13, ncarwreck, 50, 128
+
+21719, lh_dockpostsn1, lh_dockstuffN1, 164, 132
+
+21720, lh_dockpostsn2, lh_dockstuffN1, 164, 132
+
+21721, lh_dockpostsn3, lh_dockstuffN1, 164, 132
+
+21722, arcadesjm02, nbtshops, 199, 132
+
+21723, havanahouse12b, haitiblk1sj, 120, 132
+
+21724, hdrugfactoryintb, drugfactint, 50, 165
+
+21725, lh_pizzaplaceb, nbtshops, 199, 132
+
+end
+tobj
+end

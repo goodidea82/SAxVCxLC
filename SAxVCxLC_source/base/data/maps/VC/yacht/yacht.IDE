@@ -1,0 +1,22 @@
+objs
+23997, lodmain_body, yacht_lod, 2000, 0
+
+23998, yt_main_body2, yacht, 70, 0
+
+23999, yt_gangplnk_tmp, yacht_kb, 200, 0
+
+24000, yt_doors14, yacht, 20, 0
+
+24001, big_poly_tings, yachttings, 30, 4
+
+24002, yt_main_body, yacht, 70, 0
+
+24003, yacht_chunk_kb, yacht, 70, 0
+
+24004, yt_tmp_boat, yt_launch, 60, 0
+
+24005, big_poly_tings_b, yachttings, 30, 4
+
+end
+tobj
+end
