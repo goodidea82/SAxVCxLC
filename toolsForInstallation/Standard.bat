@@ -15,6 +15,7 @@ set toDir=%3
 set toDir=%toDir:"=%
 echo fromDir=%fromDir%
 echo toDir=%toDir%
+set exclude=/EXCLUDE:%CD%\toolsForInstallation\xcopy_exclude.txt
 
 REM Some xcopy options.
 REM S= Use this option to copy directories, subdirectories, and the files contained within them, in addition to the files in the root of source. Empty folders will not be recreated.
@@ -24,11 +25,11 @@ REM D=  Use the xcopy command with /d option and a specific date, in MM-DD-YYYY 
 
 if "%useModLoader%"=="1" (
 	REM echo ModLoader version is not implemented yet. TODO update Standard.bat.
-	xcopy /SI %XCPYOptions% "%fromDir%\extras\*" "%toDir%\modloader\SAxVCxLC\*"
-	xcopy /SI %XCPYOptions% "%fromDir%\music\*" "%toDir%\modloader\SAxVCxLC\*"	
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\extras\*" "%toDir%\modloader\SAxVCxLC\*"
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\music\*" "%toDir%\modloader\SAxVCxLC\*"	
 ) else (
-	xcopy /SI %XCPYOptions% "%fromDir%\extras\*" "%toDir%\*"
-	xcopy /SI %XCPYOptions% "%fromDir%\music\*" "%toDir%\*"	
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\extras\*" "%toDir%\*"
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\music\*" "%toDir%\*"	
 )
 
 REM SET /P a=Press a key...

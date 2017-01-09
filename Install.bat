@@ -41,13 +41,15 @@ choice /M "Use ModLoader"
 SET useModLoader=%ERRORLEVEL%
 echo SET useModLoader=%useModLoader% >> InstallSettings.bat 
 echo   Added ModLoader decision to InstallSettings.bat
-if not exist %GTASAroot%\modloader.asi (
-	echo.
-	echo %GTASAroot%\modloader.asi DOES NOT EXIST. You must install ModLoader first, then try again.
-	echo See http://www.gtagarage.com/mods/show.php?id=25377
-	REM May be we should provide ModLoader in the otherMods folder?
-	echo.
-	goto :repeatML
+if "%ERRORLEVEL%"=="1" (
+	if not exist %GTASAroot%\modloader.asi (
+		echo.
+		echo %GTASAroot%\modloader.asi DOES NOT EXIST. You must install ModLoader first, then try again.
+		echo See http://www.gtagarage.com/mods/show.php?id=25377
+		REM May be we should provide ModLoader in the otherMods folder?
+		echo.
+		goto :repeatML
+	)
 )
 
 REM --------------------------------------
@@ -75,6 +77,7 @@ REM -------------------------------------
 echo -------------------------------------
 REM update models\gta3.img
 REM The script file gta3_img_changes.txt is located in SAxVCxLC_source\basic\models. It should have been copied to GTASAroot by the scripts above. 
+
 goto :finish
 
 echo update models\gta3.img

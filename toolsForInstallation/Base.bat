@@ -12,6 +12,7 @@ set toDir=%3
 set toDir=%toDir:"=%
 echo fromDir=%fromDir%
 echo toDir=%toDir%
+set exclude=/EXCLUDE:%CD%\toolsForInstallation\xcopy_exclude.txt
 
 REM Some xcopy options.
 REM S= Use this option to copy directories, subdirectories, and the files contained within them, in addition to the files in the root of source. Empty folders will not be recreated.
@@ -26,11 +27,11 @@ if "%useModLoader%"=="1" (
 	mkdir "%toDir%\modloader\SAxVCxLC\models"
 	mkdir "%toDir%\modloader\SAxVCxLC\data"
 	 copy     %XCPYOptions% "%fromDir%\base\models\gta3_img_changes.txt" "%toDir%\models\gta3_img_changes.txt"	
-	xcopy     %XCPYOptions% "%fromDir%\base\*"        "%toDir%\*"
-	xcopy /SI %XCPYOptions% "%fromDir%\base\models\*" "%toDir%\modloader\SAxVCxLC\models\*"	
-	xcopy /SI %XCPYOptions% "%fromDir%\base\data\*"   "%toDir%\modloader\SAxVCxLC\data\*"	
+	xcopy     %XCPYOptions% %exclude% "%fromDir%\base\*"        "%toDir%\*"
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\models\*" "%toDir%\modloader\SAxVCxLC\models\*"	
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\data\*"   "%toDir%\modloader\SAxVCxLC\data\*"	
 ) else (
-	xcopy /SI %XCPYOptions% "%fromDir%\base\*" "%toDir%\*"
+	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\*" "%toDir%\*"
 )
 
 REM SET /P a=Press a key...
