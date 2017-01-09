@@ -1,0 +1,266 @@
+objs
+24006, lc_landswrd1, gtaiii, 300, 1
+
+24007, lc_landswrd2, gtaiii, 300, 1
+
+24008, lc_landswrd3, gtaiii, 300, 1
+
+24009, lc_landswrd4, gtaiii, 300, 1
+
+24010, lc_landswrd5, gtaiii, 300, 1
+
+24011, lc_landswrd6, gtaiii, 300, 1
+
+24012, lc_landnerd1, gtaiii, 300, 1
+
+24013, lc_landnerd2, gtaiii, 300, 1
+
+24014, lc_landnerd3, gtaiii, 300, 1
+
+24015, lc_landnerd4, gtaiii, 300, 1
+
+24016, lc_landnerd5, gtaiii, 300, 1
+
+24017, lc_landnerd6, gtaiii, 300, 1
+
+24018, lc_landnerd7, gtaiii, 300, 1
+
+24019, lc_landnerd8, gtaiii, 300, 1
+
+24020, lc_comnbtmrd1, gtaiii, 300, 1
+
+24021, lc_comnbtmrd2, gtaiii, 300, 1
+
+24022, lc_comnbtmrd3, gtaiii, 300, 1
+
+24023, lc_comnbtmrd4, gtaiii, 300, 1
+
+24024, lc_comnbtmrd5, gtaiii, 300, 1
+
+24025, lc_comnbtmrd6, gtaiii, 300, 1
+
+24026, lc_comntoprd1, gtaiii, 300, 1
+
+24027, lc_comntoprd2, gtaiii, 300, 1
+
+24028, lc_comntoprd3, gtaiii, 300, 1
+
+24029, lc_comntoprd4, gtaiii, 300, 1
+
+24030, lc_comntoprd5, gtaiii, 300, 1
+
+24031, lc_comntoprd6, gtaiii, 300, 1
+
+24032, lc_comntoprd7, gtaiii, 300, 1
+
+24033, lc_comserd1, gtaiii, 300, 1
+
+24034, lc_comserd2, gtaiii, 300, 1
+
+24035, lc_comserd3, gtaiii, 300, 1
+
+24036, lc_comserd4, gtaiii, 300, 1
+
+24037, lc_comswrd1a, gtaiii, 300, 1
+
+24038, lc_comswrd1b, gtaiii, 300, 1
+
+24039, lc_comswrd2, gtaiii, 300, 1
+
+24040, lc_comswrd3, gtaiii, 300, 1
+
+24041, lc_comswrd4, gtaiii, 300, 1
+
+24042, lc_comswrd5, combroadwyrd, 300, 1
+
+24043, lc_comswrd6, combroadwyrd, 300, 1
+
+24044, lc_indrds1, gtaiii, 300, 1
+
+24045, lc_indrds2, gtaiii, 300, 1
+
+24046, lc_indrds3, gtaiii, 300, 1
+
+24047, lc_indrds4, gtaiii, 300, 1
+
+24048, lc_indrds5, gtaiii, 300, 1
+
+24049, lc_indrds6, gtaiii, 300, 1
+
+24050, lc_indrds7, gtaiii, 300, 1
+
+24051, lc_indrds8, gtaiii, 300, 1
+
+24052, lc_indrds9, gtaiii, 300, 1
+
+24053, lc_indrds10, gtaiii, 300, 1
+
+24054, lc_indrds11, gtaiii, 300, 1
+
+24055, lc_indrds12, gtaiii, 300, 1
+
+24056, lc_indrds13, gtaiii, 300, 1
+
+24057, lc_indrds14, gtaiii, 300, 1
+
+24058, lc_indrds15, gtaiii, 300, 1
+
+24059, lc_indrds16, gtaiii, 300, 1
+
+24060, lc_indrds17, gtaiii, 300, 1
+
+24061, lc_indrds18, gtaiii, 300, 1
+
+24062, lc_airportrd1, lc_airgrndb, 300, 1
+
+24063, lc_airportrd2, lc_airgrndb, 300, 1
+
+24064, lc_airportrd3, lc_airgrndb, 300, 1
+
+24065, lc_airportrd4, lc_airgrndb, 300, 1
+
+24066, lc_airportrd5, lc_airgrndb, 300, 1
+
+24067, lc_bridgerd1, firstbridge, 300, 1
+
+24068, lc_bridgerd2, vertbridge, 300, 1
+
+24069, lc_bridgerd3, vertbridge, 300, 1
+
+24070, lc_airportrd2b, lc_airgrndb, 300, 1
+
+24071, lodlandswrd1, gtaiii, 2000, 1
+
+24072, lodlandswrd2, gtaiii, 2000, 1
+
+24073, lodlandswrd3, gtaiii, 2000, 1
+
+24074, lodlandswrd4, gtaiii, 2000, 1
+
+24075, lodlandswrd5, gtaiii, 2000, 1
+
+24076, lodlandswrd6, gtaiii, 2000, 1
+
+24077, lodlandnerd1, gtaiii, 2000, 1
+
+24078, lodlandnerd2, gtaiii, 2000, 1
+
+24079, lodlandnerd3, gtaiii, 2000, 1
+
+24080, lodlandnerd4, gtaiii, 2000, 1
+
+24081, lodlandnerd5, gtaiii, 2000, 1
+
+24082, lodlandnerd6, gtaiii, 2000, 1
+
+24083, lodlandnerd7, gtaiii, 2000, 1
+
+24084, lodlandnerd8, gtaiii, 2000, 1
+
+24085, lodcomnbtmrd1, gtaiii, 2000, 1
+
+24086, lodcomnbtmrd2, gtaiii, 2000, 1
+
+24087, lodcomnbtmrd3, gtaiii, 2000, 1
+
+24088, lodcomnbtmrd4, gtaiii, 2000, 1
+
+24089, lodcomnbtmrd5, gtaiii, 2000, 1
+
+24090, lodcomnbtmrd6, gtaiii, 2000, 1
+
+24091, lodcomntoprd1, gtaiii, 2000, 1
+
+24092, lodcomntoprd2, gtaiii, 2000, 1
+
+24093, lodcomntoprd3, gtaiii, 2000, 1
+
+24094, lodcomntoprd4, gtaiii, 2000, 1
+
+24095, lodcomntoprd5, gtaiii, 2000, 1
+
+24096, lodcomntoprd6, gtaiii, 2000, 1
+
+24097, lodcomntoprd7, gtaiii, 2000, 1
+
+24098, lodcomserd1, gtaiii, 2000, 1
+
+24099, lodcomserd2, gtaiii, 2000, 1
+
+24100, lodcomserd3, gtaiii, 2000, 1
+
+24101, lodcomserd4, gtaiii, 2000, 1
+
+24102, lodcomswrd1a, gtaiii, 2000, 1
+
+24103, lodcomswrd1b, gtaiii, 2000, 1
+
+24104, lodcomswrd2, gtaiii, 2000, 1
+
+24105, lodcomswrd3, gtaiii, 2000, 1
+
+24106, lodcomswrd4, gtaiii, 2000, 1
+
+24107, lodcomswrd5, combroadwyrd, 2000, 1
+
+24108, lodcomswrd6, combroadwyrd, 2000, 1
+
+24109, lodindrds1, gtaiii, 2000, 1
+
+24110, lodindrds2, gtaiii, 2000, 1
+
+24111, lodindrds3, gtaiii, 2000, 1
+
+24112, lodindrds4, gtaiii, 2000, 1
+
+24113, lodindrds5, gtaiii, 2000, 1
+
+24114, lodindrds6, gtaiii, 2000, 1
+
+24115, lodindrds7, gtaiii, 2000, 1
+
+24116, lodindrds8, gtaiii, 2000, 1
+
+24117, lodindrds9, gtaiii, 2000, 1
+
+24118, lodindrds10, gtaiii, 2000, 1
+
+24119, lodindrds11, gtaiii, 2000, 1
+
+24120, lodindrds12, gtaiii, 2000, 1
+
+24121, lodindrds13, gtaiii, 2000, 1
+
+24122, lodindrds14, gtaiii, 2000, 1
+
+24123, lodindrds15, gtaiii, 2000, 1
+
+24124, lodindrds16, gtaiii, 2000, 1
+
+24125, lodindrds17, gtaiii, 2000, 1
+
+24126, lodindrds18, gtaiii, 2000, 1
+
+24127, lodairportrd1, lc_airgrndb, 2000, 1
+
+24128, lodairportrd2, lc_airgrndb, 2000, 1
+
+24129, lodairportrd3, lc_airgrndb, 2000, 1
+
+24130, lodairportrd4, lc_airgrndb, 2000, 1
+
+24131, lodairportrd5, lc_airgrndb, 2000, 1
+
+24132, lodbridgerd1, firstbridge, 2000, 1
+
+24133, lodbridgerd2, vertbridge, 2000, 1
+
+24134, lodbridgerd3, vertbridge, 2000, 1
+
+24135, lodairportrd2b, lc_airgrndb, 2000, 1
+
+24136, lodbridge_lift, vertbridge, 2000, 1
+
+end
+tobj
+end

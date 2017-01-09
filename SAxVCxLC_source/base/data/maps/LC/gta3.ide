@@ -1,0 +1,22 @@
+objs
+26339, lodmill, lc_indust1, 800, 0
+
+26341, lodehouse1z1, comlod1, 600, 0
+
+26342, lodders01, comlod1, 600, 0
+
+26343, special_thing_for_path, lc_generic, 1, 0
+
+26344, lod_subroads44, suburb1, 1000, 0
+
+26345, lod_subroads75, suburb1, 2000, 0
+
+26346, lod_subroads97, suburb1, 1000, 0
+
+26347, lod_subroads98, suburb1, 1000, 0
+
+26348, lod_subroads96, suburb1, 1000, 0
+
+end
+tobj
+end

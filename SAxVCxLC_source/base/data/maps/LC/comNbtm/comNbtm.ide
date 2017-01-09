@@ -1,0 +1,434 @@
+objs
+24335, jetty, compark, 163, 0
+
+24336, tenmnt6ad, comtenblock6b, 120, 0
+
+24337, tenament1ad, tenblock6aa, 152, 4
+
+24338, tenament3ad, tenblock6a, 144, 0
+
+24339, plyrsv_htl, tenblock6a, 150, 0
+
+24340, tenement2ad, tenblock6a, 120, 0
+
+24341, hotel_tenemant1, tenblock6a, 127, 0
+
+24342, bsemnt_cprk, basmntcrpark, 90, 0
+
+24343, underground_over9, comtunel, 195, 0
+
+24344, underground_over12, comtunel, 192, 0
+
+24345, underground_over13, comtunel, 192, 0
+
+24346, underground_over14, comtunel, 192, 0
+
+24347, underground_over8, comtunel, 192, 0
+
+24348, underground_over10, comtunel, 192, 0
+
+24349, underground_over11, comtunel, 160, 0
+
+24350, undrd_bit_side4, comtunel, 164, 0
+
+24351, undgd_bit_side3, comtunel, 160, 0
+
+24352, com_landnew25, gtaiii, 200, 0
+
+24353, lodnhallbig, newtownhall, 750, 0
+
+24354, com_park2, compark, 200, 1
+
+24355, tenkb_builds06, comhilo3b, 120, 4
+
+24356, tenkb_builds04, comhilo3b, 150, 4
+
+24357, tenkb_builds05, comhilo3b, 112, 4
+
+24358, tenkb_builds11, comhilo3b, 150, 4
+
+24359, door2_garage, tenblocknrcp, 160, 0
+
+24360, door_bombshop, tenblocknrcp, 160, 0
+
+24361, bombshop_kb, combomb, 160, 0
+
+24362, toilet, comtoilet, 24, 0
+
+24363, toilet_door01, toilet, 160, 0
+
+24364, toilet_cubicle_dr, toilet, 160, 0
+
+24365, com_park3, compark, 200, 1
+
+24366, lod_kb3_scrap6, comlod2, 750, 0
+
+24367, lodck4_scraperl0, block4grn, 2000, 0
+
+24368, lod_land045, comshopinc, 750, 0
+
+24369, lodrpasscom06, gtaiii, 2000, 0
+
+24370, lodscrap_6, avery, 2000, 0
+
+24371, lod_park3, compark, 2000, 0
+
+24372, lodkb_builds04, comhilo3b, 2000, 0
+
+24373, lodkb_builds03, tenblocknrcp, 2000, 0
+
+24374, lodel2, hotelkb, 2000, 0
+
+24375, lodck4_ten2, tenblk4, 2000, 0
+
+24376, lodck4_ten3, tenblk4, 2000, 0
+
+24377, lodck4_ten1, tenblk4, 2000, 0
+
+24378, lodlnd1, compark, 750, 0
+
+24379, lodnd2, gtaiii, 750, 0
+
+24380, lod_park2, compark, 750, 0
+
+24381, lod_park1, compark, 750, 0
+
+24382, lodrd_bit_side4, comtunel, 2000, 0
+
+24383, lodgd_bit_side3, comtunel, 2000, 0
+
+24384, loderadam, tenblock6a, 750, 0
+
+24385, lodament3ad, tenblock6a, 2000, 0
+
+24386, lodmnt6ad, comtenblock6b, 2000, 0
+
+24387, lodnt5ad, comtenblock6b, 750, 0
+
+24388, lodmnt4ad, comtenblock6b, 750, 0
+
+24389, lodament1ad, tenblock6aa, 750, 0
+
+24390, mallgroundb, mallab, 180, 0
+
+24391, flatiron1b, flatiron1b, 135, 0
+
+24392, flatiron1, comshopinc, 135, 0
+
+24393, flatiron1c, flatironew, 150, 0
+
+24394, firestation, tenblock6aa, 135, 0
+
+24395, cmlnd2, gtaiii, 160, 0
+
+24396, block4_groundbits1, tenblk4, 273, 0
+
+24397, block4_curstair, block4grn, 80, 0
+
+24398, block4_ten2, tenblk4, 150, 0
+
+24399, door3_garage, door, 160, 0
+
+24400, garage_kb, combomb, 160, 0
+
+24401, block4_scraperl0, block4grn, 150, 0
+
+24402, mallground02, mallab, 160, 0
+
+24403, malla, mallab, 135, 0
+
+24404, mallcanopy, mallab, 190, 4
+
+24405, com_land045, comshopinc, 140, 0
+
+24406, townhallbig, newtownhall, 160, 0
+
+24407, lodtiron1b, flatiron1b, 2000, 0
+
+24408, kmricndo02, kmricndo, 120, 0
+
+24409, lodestation, tenblock6aa, 750, 0
+
+24410, lodck4_ground01, block4grn, 750, 0
+
+24411, lodkb_builds01, tenblocknrcp, 750, 0
+
+24412, lodlground03, mallab, 750, 0
+
+24413, lodlground02, mallab, 750, 0
+
+24414, lodlgroundb, mallab, 750, 0
+
+24415, lodicndo01, kmricndo, 750, 0
+
+24416, lodkb_ground, lc_carpark, 700, 0
+
+24417, lodkb_raised, lc_carpark, 700, 0
+
+24418, safehouse, safe, 100, 0
+
+24419, sfhousegrge_kb, comhilo3b, 100, 0
+
+24420, door_sfehousegrge, comhilo3b, 100, 0
+
+24421, door_jmsgrage, comhilo3b, 200, 0
+
+24422, jamesgrge_kb, comhilo3b, 100, 0
+
+24423, lodicndo02, kmricndo, 750, 0
+
+24424, comtreepatchprk, lc_trees2, 150, 4
+
+24425, treencom2, lc_trees2, 200, 4
+
+24426, door4_garage, tenblocknrcp, 100, 0
+
+24427, kmricndo01, kmricndo, 120, 0
+
+24428, condo_ivy, condo, 40, 4
+
+24429, com_landnew221, block4grn, 180, 0
+
+24430, block4_ground01, block4grn, 297, 0
+
+24431, block4_ten1, tenblk4, 120, 0
+
+24432, hotel4, hotelkb, 120, 0
+
+24433, hotel, hotelkb, 120, 0
+
+24434, hotel2, hotelkb, 135, 0
+
+24435, hotel3, hotelkb, 135, 0
+
+24436, dineradam, tenblock6a, 112, 0
+
+24437, underground_over15, comtunel, 160, 0
+
+24438, comlnd1, compark, 264, 0
+
+24439, com_park1, compark, 264, 1
+
+24440, hotel5, hotelkb, 188, 0
+
+24441, helix_road4, helixroad, 200, 1
+
+24442, grd_overpass18kb, landsectioncomn, 160, 0
+
+24443, road_under, compier, 200, 1
+
+24444, grd_overpass19kb, landsectioncomn, 160, 0
+
+24445, lod_overpass19kb, landsectioncomn, 750, 0
+
+24446, lod_overpass19bkb, landsectioncomn, 750, 0
+
+24447, grd_overpass19bkb, landsectioncomn, 160, 0
+
+24448, lod_overpass19kbc, landsectioncomn, 750, 0
+
+24449, grd_overpass19kbc, landsectioncomn, 160, 0
+
+24450, helix_road1, helixroad, 200, 1
+
+24451, helix_road2, helixroad, 200, 1
+
+24452, helix_road3, helixroad, 200, 1
+
+24453, lodix_road1, helixroad, 800, 0
+
+24454, treepatchttwrs, lc_trees2, 299, 4
+
+24455, lodepatchttwrs, lc_trees2, 1000, 4
+
+24456, loddotree1, trees2, 1000, 4
+
+24457, condotree1, lc_trees2, 150, 4
+
+24458, lodel, hotelkb, 2000, 0
+
+24459, mscp_grndfloor, lc_carpark, 200, 0
+
+24460, newblokb, tenblock6aa, 150, 0
+
+24461, plysve_gragedoor, comtenblock6b, 60, 0
+
+24462, block4_alley1, block4grn, 160, 0
+
+24463, block4_alley2, block4grn, 160, 0
+
+24464, block4_ten3, tenblk4, 135, 0
+
+24465, lodblokb, tenblock6aa, 2000, 0
+
+24466, lodkb_builds05, comhilo3b, 2000, 0
+
+24467, lodkb_builds11, comhilo3b, 2000, 0
+
+24468, lodkb_builds06, comhilo3b, 2000, 0
+
+24469, tenkb_raised, lc_carpark, 120, 0
+
+24470, tenkb_ground, lc_carpark, 160, 1
+
+24471, loderground_over12, comtunel, 2000, 0
+
+24472, loderground_over9, comtunel, 2000, 0
+
+24473, com_docksaa, compier, 299, 0
+
+24474, lod_docksb, compier, 750, 0
+
+24475, loddockbuilding2, compier, 700, 0
+
+24476, loddockbuilding, compier, 700, 0
+
+24477, com_docksb, compier, 299, 0
+
+24478, newdockbuilding, compier, 200, 0
+
+24479, newdockbuilding2, compier, 200, 0
+
+24480, lod_docksaa, compier, 750, 0
+
+24481, kb_scrap_6, avery, 157, 0
+
+24482, overpasscom04, landsectioncomn, 150, 0
+
+24483, overpasscom05, landsectioncomn, 150, 0
+
+24484, overpasscom06, gtaiii, 299, 0
+
+24485, overpasscom07, landsectioncomn, 150, 0
+
+24486, tenkb_builds01, tenblocknrcp, 120, 0
+
+24487, tenkb_builds03, tenblocknrcp, 120, 0
+
+24488, lodel3, hotelkb, 2000, 0
+
+24489, lodel4, hotelkb, 2000, 0
+
+24490, lodel5, hotelkb, 2000, 0
+
+24491, lodel_tenemant1, comlod2, 750, 0
+
+24492, lodement2ad, tenblock6a, 750, 0
+
+24493, lodix_road2, helixroad, 750, 0
+
+24494, lodix_road3, helixroad, 700, 0
+
+24495, lodix_road4, helixroad, 800, 0
+
+24496, lodla, mallab, 2000, 0
+
+24497, lodlb, mallab, 2000, 0
+
+24498, comparknewtrees, lc_trees2, 150, 4
+
+24499, lodrsv_htl, tenblock6a, 2000, 0
+
+24500, lodparknewtrees, lc_trees2, 2000, 4
+
+24501, mallground03, mallab, 150, 0
+
+24502, mallb, mallab, 135, 0
+
+24503, com_park2b, compark, 260, 0
+
+24504, com_park3b, compark, 260, 4
+
+24505, com_park1b, compark, 260, 0
+
+24506, junc_spesh, gtaiii, 200, 1
+
+24507, lodd_under, compier, 800, 0
+
+24508, lodrpasscom05, landsectioncomn, 2000, 0
+
+24509, lodrpasscom04, landsectioncomn, 2000, 0
+
+24510, toilet_cubicle_dr2, toilet, 100, 0
+
+24511, com_munation, comunation, 150, 4
+
+24512, lounger_shadows, kmricndo, 100, 4
+
+24513, nullpathpointcom1, gtaiii, 1, 0
+
+24514, nullpathpointcom2, gtaiii, 1, 0
+
+24515, nullpathpointcom3, gtaiii, 1, 0
+
+24516, nullpathpointcom4, gtaiii, 1, 0
+
+24517, nullpathpointcom5, gtaiii, 1, 0
+
+24518, nullpathpointcom6, gtaiii, 1, 0
+
+24519, nullpathpointcom7, gtaiii, 1, 0
+
+24520, nullpathpointcom8, gtaiii, 1, 0
+
+24521, nullpathpointcom9, gtaiii, 1, 0
+
+24522, planterbtm_1, block4grn, 200, 0
+
+24523, planterbtm_3, block4grn, 200, 4
+
+24524, planterbtm_2, block4grn, 200, 4
+
+24525, lodp_grndfloor, comlod2, 700, 0
+
+24526, combtm_treeshad01, treeshadow, 299, 68
+
+24527, combtm_treeshad02, treeshadow, 299, 68
+
+24528, combtm_treeshad03, treeshadow, 299, 68
+
+24529, combtm_treeshad04, treeshadow, 299, 68
+
+24530, combtm_treeshad05, treeshadow, 299, 68
+
+24531, combtm_treeshad06, treeshadow, 299, 68
+
+24532, lod_landnew221, block4grn, 700, 0
+
+24533, temnt5ad, comtenblock6b, 120, 4
+
+24534, tenmnt4ad, comtenblock6b, 120, 4
+
+24535, lod_landnew25, gtaiii, 2000, 0
+
+24536, lodtreepatchprk, lc_trees2, 2000, 4
+
+24537, sign2sub, comsigns, 150, 0
+
+24538, lodtiron1, comshopinc, 2000, 0
+
+24539, lodencom2, lc_trees2, 2000, 0
+
+24540, loderground_over15, comtunel, 2000, 0
+
+24541, loderground_over14, comtunel, 2000, 0
+
+24542, loderground_over13, comtunel, 2000, 0
+
+24543, lodtiron1c, flatironew, 2000, 0
+
+24544, lod_park1b, compark, 750, 0
+
+24545, lod_park3b, compark, 750, 0
+
+24546, lod_park2b, compark, 750, 0
+
+24547, combaskoverlay, compark, 200, 68
+
+end
+tobj
+24548, block4_scplights, comlights, 3000, 12, 18, 3
+24549, flatironlt, comlights, 3000, 12, 19, 5
+24550, flatironlt01, comlights, 3000, 12, 19, 4
+24551, flatironlt02, comlights, 3000, 0, 20, 5
+end

@@ -1,0 +1,311 @@
+objs
+24552, com_land_128, comhospital, 160, 0
+
+24553, com_cland127, comhospital, 170, 1
+
+24554, com_hospital, comhospital, 180, 0
+
+24555, com_landnew24, comjetty, 150, 0
+
+24556, arc_bridge, comjetty, 140, 4
+
+24557, com_landnew3, comjetty, 150, 1
+
+24558, com_landnew2, comjetty, 190, 1
+
+24559, com_landnew1, comjetty, 150, 1
+
+24560, com_landnew24b, comjetty, 150, 0
+
+24561, com_landnew3a, comjetty, 150, 1
+
+24562, com_shorekb, comjetty, 160, 0
+
+24563, com_shorecpark, compound, 160, 1
+
+24564, warehouse1z2, compound, 160, 0
+
+24565, warehouse1z3, compound, 160, 0
+
+24566, rd_warehsearea, gtaiii, 200, 0
+
+24567, lod_grndkb, comlod1, 600, 0
+
+24568, lod_land023, comlod1, 600, 0
+
+24569, lodunigrnd, comlod1, 600, 0
+
+24570, lod_land_128, comlod1, 600, 0
+
+24571, lod_landnew24b, comlod1, 600, 0
+
+24572, lod_hospital, comlod1, 900, 0
+
+24573, lod_shorecpark, comlod1, 600, 0
+
+24574, lod_shorekb, comlod1, 600, 0
+
+24575, lodk3_flats03, comlod1, 900, 0
+
+24576, lod_comp1, comlod1, 600, 0
+
+24577, lod_comp3, comlod1, 600, 0
+
+24578, lod_comp5, comlod1, 600, 0
+
+24579, csiteinttran, csitecutscene, 37, 4
+
+24580, lod_comp6, comlod1, 600, 0
+
+24581, com_landnew23b, comjetty, 160, 0
+
+24582, com_landnew23, comjetty, 160, 0
+
+24583, girders02, lc_buildsite, 180, 0
+
+24584, tunnelsupport1, lc_buildsite, 150, 0
+
+24585, wrckdhse01, lc_buildsite, 150, 4
+
+24586, cons_buid02, lc_buildsite, 120, 0
+
+24587, lc_girders01, lc_buildsite, 150, 0
+
+24588, wrckdhse020, lc_buildsite, 105, 4
+
+24589, tunl_206, roadtunnel, 299, 16
+
+24590, comtopuni1, comuni2, 135, 0
+
+24591, uni_grndkb, comuni2, 200, 1
+
+24592, comlandnew5, comstadium, 150, 0
+
+24593, clnm_stadium, comstadium, 230, 0
+
+24594, com_land023, colcomp4b, 299, 1
+
+24595, door1_garage, colcomp4, 160, 0
+
+24596, cons_build2base, lc_buildsite, 160, 0
+
+24597, const_woodfence, lc_buildsite, 200, 0
+
+24598, skyscrpunbuilt2, lc_buildsite, 240, 4
+
+24599, blok3_flats03, colcomp_new, 135, 0
+
+24600, blok3_flats04, colcomp_new, 150, 0
+
+24601, buildingground1, lc_buildsite, 150, 0
+
+24602, lodk3_flats04, comlod1, 600, 0
+
+24603, lodscrpunbuilt2, comlod1, 1200, 0
+
+24604, col_comp6, colcomp_new, 299, 4
+
+24605, col_comp5, colcomp_new, 299, 4
+
+24606, comparkbits, comhospital, 170, 68
+
+24607, col_comp3, colcomp_new, 299, 4
+
+24608, col_comp1, colcomp_new, 299, 4
+
+24609, lodm_stadium, comlod1, 1000, 0
+
+24610, lod_landnew24, comlod1, 600, 0
+
+24611, lod_landnew23, comlod1, 600, 0
+
+24612, lodp_land2, comlod1, 600, 0
+
+24613, lod_landnew23b, comlod1, 600, 0
+
+24614, lod_landnew23a, comlod1, 600, 0
+
+24615, lodehouse1z3, comlod1, 600, 0
+
+24616, lodehouse1z4, comlod1, 600, 0
+
+24617, lodehouse1z2, comlod1, 600, 0
+
+24618, lod_landnew3a, comlod1, 600, 0
+
+24619, lod_landnew3, comlod1, 600, 0
+
+24620, lod_landnew2, comlod1, 1200, 0
+
+24621, subntrnce_n, subway_comtop, 100, 0
+
+24622, subntrnce_n2, subway_comtop, 100, 0
+
+24623, subplatform_n, subway, 50, 16
+
+24624, lod_landnew1, comlod1, 1200, 0
+
+24625, lodgirders01, comlod1, 600, 0
+
+24626, lodders02, comlod1, 600, 0
+
+24627, lods_buid02, comlod1, 600, 0
+
+24628, lodkdhse01, comlod1, 500, 0
+
+24629, lod_bridge, comlod1, 600, 0
+
+24630, lodkdhse020, comlod1, 500, 0
+
+24631, comlandnew7, comstadium, 150, 0
+
+24632, comlandnew6, comstadium, 180, 0
+
+24633, door_col_compnd_01, colcomp4, 100, 0
+
+24634, door_col_compnd_02, colcomp4b, 100, 0
+
+24635, door_col_compnd_03, colcomp4, 100, 0
+
+24636, door_col_compnd_04, colcomp4, 100, 0
+
+24637, door_col_compnd_05, colcomp4, 100, 0
+
+24638, comlandnew8, comstadium, 150, 0
+
+24639, treepatchcomtop1, lc_trees2, 150, 4
+
+24640, blok3_flats02, comuni2, 135, 0
+
+24641, scaffoldlift, lc_buildsite, 100, 0
+
+24642, lodk3_flats02, comlod1, 900, 0
+
+24643, phil_crates, compound, 100, 0
+
+24644, sandbag, compound, 100, 0
+
+24645, camo_netting, compound, 100, 0
+
+24646, camo_sups, compound, 100, 0
+
+24647, warehouse1z4, compound, 160, 0
+
+24648, philsbox, warehousesc, 100, 0
+
+24649, phils_lockers, compound, 100, 0
+
+24650, csitecutscene, csitecutscene, 37, 0
+
+24651, comlandnew4, comstadium, 180, 0
+
+24652, newcoasttrees1, lc_trees2, 160, 4
+
+24653, newcoasttrees2, lc_trees2, 160, 4
+
+24654, newcoasttrees3, lc_trees2, 160, 4
+
+24655, new_carprktrees, lc_trees2, 160, 4
+
+24656, new_carprktrees4, lc_trees2, 160, 4
+
+24657, treesuni1, lc_trees2, 150, 4
+
+24658, newunigrnd, comuni2, 250, 1
+
+24659, com_landnew23a, comjetty, 250, 0
+
+24660, newuni_gz, comuni2, 299, 0
+
+24661, loduni_gz, comlod1, 600, 0
+
+24662, newunitrepatch, lc_trees2, 160, 4
+
+24663, colcomp4bits01, colcomp4, 100, 0
+
+24664, const_woodfence3, lc_buildsite, 150, 0
+
+24665, lodst_woodfence, comlod1, 700, 0
+
+24666, lodst_woodfence3, comlod1, 700, 0
+
+24667, coast_treepatch, lc_trees2, 200, 4
+
+24668, lodlandnew4, comlod1, 700, 0
+
+24669, lodst_treepatch, comlod1, 600, 4
+
+24670, lodcoasttrees1, comlod1, 600, 4
+
+24671, lodcoasttrees3, comlod1, 1000, 4
+
+24672, lodepatchcomtop1, comlod1, 600, 4
+
+24673, lodcoasttrees2, comlod1, 600, 4
+
+24674, lod_carprktrees4, comlod1, 600, 4
+
+24675, lod_carprktrees, comlod1, 600, 4
+
+24676, lodtopuni1, comlod1, 800, 0
+
+24677, pipe_start_box, compound, 160, 0
+
+24678, lode_start_box, comlod1, 500, 0
+
+24679, custom_meshfence, lc_buildsite, 150, 0
+
+24680, buildingground4, lc_buildsite, 150, 0
+
+24681, buildingground3, lc_buildsite, 150, 0
+
+24682, buildingground2, lc_buildsite, 150, 0
+
+24683, buildingground5, lc_buildsite, 170, 0
+
+24684, buildingground6, lc_buildsite, 150, 0
+
+24685, hosp_land2, comhospital, 170, 0
+
+24686, comtop_tshad6, treeshadow, 299, 68
+
+24687, comtop_tshad5, treeshadow, 299, 68
+
+24688, comtop_tshad4, treeshadow, 299, 68
+
+24689, comtop_tshad3, treeshadow, 299, 68
+
+24690, lodldingground1, comlod1, 600, 0
+
+24691, lodldingground2, comlod1, 600, 0
+
+24692, lodldingground3, comlod1, 600, 0
+
+24693, lodldingground4, comlod1, 600, 0
+
+24694, lodldingground5, comlod1, 600, 0
+
+24695, lodldingground6, comlod1, 600, 0
+
+24696, lod_cland127, comlod1, 600, 0
+
+24697, lodlandnew7, comlod1, 600, 0
+
+24698, lodlandnew5, comlod1, 600, 0
+
+24699, lodlandnew6, comlod1, 600, 0
+
+24700, lodlandnew8, comlod1, 600, 0
+
+24701, lodesuni1, comlod1, 600, 4
+
+24702, lodunitrepatch, comlod1, 600, 4
+
+end
+tobj
+24703, comlights_top03, comlights, 3000, 12, 19, 6
+24704, comlights_top01, comlights, 3000, 12, 19, 6
+24705, comlights_top02, comlights, 3000, 12, 19, 6
+24706, comlights_top05, comlights, 3000, 12, 20, 6
+24707, comlights_top04, comlights, 3000, 12, 19, 6
+end

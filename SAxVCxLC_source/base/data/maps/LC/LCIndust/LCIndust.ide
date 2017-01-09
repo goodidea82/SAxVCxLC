@@ -1,0 +1,1398 @@
+objs
+25012, iten_block07, inditaly1, 110, 0
+
+25013, iten_club01, Italynrth, 113, 0
+
+25014, iten_baker01, inditaly1, 100, 0
+
+25015, iten_singbuild02, Italynrth, 105, 0
+
+25016, indhibuild1, Italynrth, 200, 0
+
+25017, ind_mainten2, maindragn, 110, 0
+
+25018, ind_newbuilds07, inditaly1, 100, 0
+
+25019, ind_newbuilds06, inditaly1, 120, 0
+
+25020, ind_newbuilds03, inditaly1, 80, 0
+
+25021, ind_newbuilds02, Italynrth, 100, 0
+
+25022, ind_newtenement08, inditaly1, 115, 0
+
+25023, ind_newtenement05, inditaly1, 110, 0
+
+25024, ind_newtenement06, italymisc, 100, 0
+
+25025, building_fucked, italymisc, 125, 4
+
+25026, ind_land154, italyeast, 156, 0
+
+25027, ind_land120, gtaiii, 116, 0
+
+25028, ind_land116, inditaly1, 90, 0
+
+25029, ind_land111, gtaiii, 180, 0
+
+25030, ind_land100, Italynrth, 135, 0
+
+25031, ind_land097, italymisc, 125, 4
+
+25032, ind_land068, inditaly1, 113, 0
+
+25033, ind_land067, gtaiii, 133, 0
+
+25034, ind_land065, Italynrth, 150, 0
+
+25035, ind_land063i, italyeast, 150, 0
+
+25036, ind_land059, italyeast, 175, 0
+
+25037, ind_land058, indbeach, 179, 0
+
+25038, ind_land057, indbeach, 173, 0
+
+25039, ind_land054, indjunk, 171, 0
+
+25040, ind_land037, 8balls, 134, 4
+
+25041, ind_land033, beach, 161, 0
+
+25042, ind_land025, gtaiii, 156, 0
+
+25043, ind_land034, Italynrth, 130, 0
+
+25044, fire_platform, petrollc, 125, 0
+
+25045, firegrass, gtaiii, 123, 0
+
+25046, petrolstation, petrollc, 130, 0
+
+25047, ind_land155, italyeast, 180, 0
+
+25048, factoryf_walls1, petrollc, 100, 0
+
+25049, ind_mainten1, inditaly1, 87, 0
+
+25050, ind_mainten3, maindragn, 125, 4
+
+25051, junk_tyre_cubeteeny, indjunk, 100, 0
+
+25052, wire_shed, indjunk, 100, 0
+
+25053, back_box, indjunk, 120, 0
+
+25054, railtracks_join, 8balls, 112, 0
+
+25055, ind_newtenementx, inditaly1, 80, 4
+
+25056, ind_mainten2b, inditaly1, 90, 0
+
+25057, indbigbuild, inditaly1, 100, 0
+
+25058, iten_alleygun, indalley, 90, 1
+
+25059, iten3block, inditaly1, 200, 0
+
+25060, lod_tendragblk2, lc_inditaly, 750, 0
+
+25061, lod_newbuilds02, Italynrth, 750, 0
+
+25062, lod_newbuilds01, Italynrth, 1800, 0
+
+25063, lod_land037, 8balls, 750, 0
+
+25064, lod_land089c, 8balls, 1000, 0
+
+25065, lod_land111, gtaiii, 1800, 0
+
+25066, lod_land025, gtaiii, 750, 0
+
+25067, lod_land154, lc_indust2, 1800, 0
+
+25068, lod_land054, indjunk, 1000, 0
+
+25069, lod_land038, 8balls, 1000, 0
+
+25070, lod_newbuilds03, inditaly1, 750, 0
+
+25071, lod_mainten3, maindragn, 750, 0
+
+25072, lod_mainten2, maindragn, 750, 0
+
+25073, lod_mainten1, inditaly1, 750, 0
+
+25074, lod_newbuilds06, inditaly1, 1800, 0
+
+25075, lod_newbuilds07, inditaly1, 750, 0
+
+25076, lod_newtenement05, inditaly1, 750, 0
+
+25077, lod_mainten2b, inditaly1, 750, 0
+
+25078, lodtoryf_walls1, petrollc, 750, 0
+
+25079, crushertop, indjunk, 120, 68
+
+25080, crushercrush, indjunk, 120, 0
+
+25081, ind_land038, 8balls, 145, 0
+
+25082, lodn_baker01, inditaly1, 750, 0
+
+25083, lodrolstation, petrollc, 750, 0
+
+25084, lod_land069, lc_indust2, 750, 0
+
+25085, indncoast1, gtaiii, 143, 0
+
+25086, indncoast2, gtaiii, 166, 0
+
+25087, indncoast3, gtaiii, 134, 0
+
+25088, lodncoast3, gtaiii, 1800, 0
+
+25089, lodncoast2, gtaiii, 1800, 0
+
+25090, lodncoast1, gtaiii, 1800, 0
+
+25091, lod_land155, lc_indust2, 1800, 0
+
+25092, lodnksclbase, frankiesbase, 1800, 0
+
+25093, indhibuild4, Italynrth, 100, 0
+
+25094, indhibuild5, Italynrth, 100, 0
+
+25095, ser_firetower, petrollc, 100, 0
+
+25096, usdcrdlrbuild01, 8balls, 100, 0
+
+25097, lodlding_fucked, italymisc, 750, 0
+
+25098, ind_land131, lighthouse, 200, 0
+
+25099, mak_semtech, 8balls, 100, 0
+
+25100, lod_semtech, 8balls, 755, 0
+
+25101, mak_bomb01, 8balls, 100, 0
+
+25102, lod_bomb01, 8balls, 755, 0
+
+25103, toplandit, italymisc, 150, 0
+
+25104, indbakland, italymisc, 130, 0
+
+25105, ind_newrizzos, tonys, 150, 4
+
+25106, cs8_door, 8balls, 50, 0
+
+25107, franksclbase, frankiesbase, 100, 0
+
+25108, swank_inside, sal_inside, 30, 0
+
+25109, franksclb02, frankiesbase, 100, 0
+
+25110, salvsdetail, sal_inside, 30, 4
+
+25111, salvgarage, frankiesbase, 100, 0
+
+25112, trackshad07, trackshad, 200, 68
+
+25113, trackshad02, trackshad, 200, 68
+
+25114, trackshad03, trackshad, 200, 68
+
+25115, trackshad04, trackshad, 200, 68
+
+25116, lc_trackshad05, trackshad, 200, 68
+
+25117, trackshad06, trackshad, 200, 68
+
+25118, trackshad01, trackshad, 200, 68
+
+25119, trackshad08, trackshad, 200, 68
+
+25120, trackshad09, trackshad, 200, 68
+
+25121, trackshad10, trackshad, 200, 68
+
+25122, trackshad11, trackshad, 200, 68
+
+25123, trackshad12, trackshad, 200, 68
+
+25124, trackshad13, trackshad, 200, 68
+
+25125, diortpass, dirtpass, 300, 68
+
+25126, lodhibuild1, Italynrth, 1800, 0
+
+25127, lod_newtenement08, inditaly1, 700, 0
+
+25128, lodhibuild4, Italynrth, 1800, 0
+
+25129, lodhibuild5, Italynrth, 1800, 0
+
+25130, lod_newtenementx, inditaly1, 750, 0
+
+25131, lod_land131, lighthouse, 1800, 0
+
+25132, lodn_singbuild02, Italynrth, 700, 0
+
+25133, ind_land141, indbeach, 150, 0
+
+25134, ind_land030, indbeach, 140, 0
+
+25135, lod_land141, indbeach, 700, 0
+
+25136, ind_land049, indbeach, 170, 0
+
+25137, lod_land049, indbeach, 750, 0
+
+25138, lod_land057, indbeach, 750, 0
+
+25139, lod_land058, indbeach, 750, 0
+
+25140, lod_land033, beach, 750, 0
+
+25141, lod_land030, indbeach, 750, 0
+
+25142, ammupoly, gtaiii, 2, 0
+
+25143, lod_firetower, petrollc, 750, 0
+
+25144, lode_platform, petrollc, 750, 0
+
+25145, lodn_alleygun, indalley, 750, 0
+
+25146, lodbakland, italymisc, 750, 0
+
+25147, lodn_block07, inditaly1, 750, 0
+
+25148, lod_land068, inditaly1, 750, 0
+
+25149, lod_land116, inditaly1, 750, 0
+
+25150, ind_newbuilds01, Italynrth, 120, 0
+
+25151, lodn3block, inditaly1, 750, 0
+
+25152, lod_land034, Italynrth, 750, 0
+
+25153, lodbigbuild, inditaly1, 1800, 0
+
+25154, treeshads05, trackshad, 200, 68
+
+25155, treeshads01, trackshad, 200, 68
+
+25156, treeshads02, trackshad, 200, 68
+
+25157, treeshads03, trackshad, 200, 68
+
+25158, treeshads04, trackshad, 200, 68
+
+25159, lod_newrizzos, tonys, 750, 0
+
+25160, lod_newtenement06, italymisc, 750, 0
+
+25161, trackshad06b, trackshad, 200, 68
+
+25162, trackshad04b, trackshad, 200, 68
+
+25163, trackshad05a, trackshad, 200, 68
+
+25164, trackshad05b, trackshad, 200, 68
+
+25165, trackshad05cc, trackshad, 200, 68
+
+25166, lod_land063i, lc_indust2, 800, 0
+
+25167, lod_land100, Italynrth, 700, 0
+
+25168, lodn_club01, Italynrth, 780, 0
+
+25169, ind_land089a, gtaiii, 165, 0
+
+25170, ind_land089b, 8balls, 150, 0
+
+25171, ind_land089c, 8balls, 165, 0
+
+25172, lod_land089a, gtaiii, 1000, 0
+
+25173, lod_land089b, 8balls, 1000, 0
+
+25174, lodcrdlrbuild01, 8balls, 1000, 0
+
+25175, trackshad14, trackshad, 250, 68
+
+25176, lod_land097, italymisc, 750, 0
+
+25177, salvstrans, sal_inside, 65, 4
+
+25178, ind_maintglas, maindragn, 110, 4
+
+25179, indalleytransd, indalley, 90, 68
+
+25180, ind_land101, pjs, 127, 0
+
+25181, ind_land053, gtaiii, 180, 0
+
+25182, ind_land041, gtaiii, 189, 0
+
+25183, ind_land014, gtaiii, 136, 1
+
+25184, ind_land010, gtaiii, 157, 1
+
+25185, ind_land029, gtaiii, 120, 0
+
+25186, ind_land148, gtaiii, 120, 0
+
+25187, lodhibuild2, indhibuildns, 1800, 0
+
+25188, lod_land028, gtaiii, 1800, 0
+
+25189, lod_land029, gtaiii, 1800, 0
+
+25190, lod_land052, gtaiii, 1800, 0
+
+25191, lod_land147, gtaiii, 1800, 0
+
+25192, lod_land148, gtaiii, 1800, 0
+
+25193, lod_land149, gtaiii, 1800, 0
+
+25194, lod_land039, gtaiii, 750, 0
+
+25195, lod_land053, gtaiii, 1000, 0
+
+25196, lod_land040, gtaiii, 750, 0
+
+25197, lod_land015, gtaiii, 750, 0
+
+25198, lod_land014, gtaiii, 750, 0
+
+25199, lodlightbuild12, indredlitgrey, 750, 0
+
+25200, lodlightbuild08a, indredlitblk1b, 750, 0
+
+25201, lodlightbuild06v, indredlitblk4, 750, 0
+
+25202, lodlightbuild06e, indredlitblk4, 1800, 0
+
+25203, lodlightbuild03, lc_indust1, 1800, 0
+
+25204, lodlightfront, indredlitblk1b, 750, 0
+
+25205, lodhibuild3, lc_indust1, 1800, 0
+
+25206, lodgiclubout, luigiclub, 500, 0
+
+25207, lodlightbuild06b, indredlitblk4, 750, 0
+
+25208, lodhibuild10, indhibuildns, 750, 0
+
+25209, lodhibuild9, indhibuildns, 750, 0
+
+25210, lodercenter, lc_indust1, 1800, 0
+
+25211, lod_land101, pjs, 750, 0
+
+25212, redlightbuild13, indredlitgrey, 100, 0
+
+25213, towercenter, indpj, 110, 0
+
+25214, roadtun_entrance, roadtunnelent, 240, 1
+
+25215, lod_land150, gtaiii, 2000, 0
+
+25216, indncoast5, gtaiii, 148, 0
+
+25217, lod_inland667, gtaiii, 1000, 0
+
+25218, lodncoast6, gtaiii, 750, 0
+
+25219, lodncoast5, gtaiii, 750, 0
+
+25220, lodlightbuild11, indredlitblk1b, 750, 0
+
+25221, luigiineerclub, luigiclub, 30, 6
+
+25222, lod_newradio, indradio, 750, 0
+
+25223, treepatchindnew, lc_trees2, 250, 4
+
+25224, dirtpass3, dirtpass, 100, 68
+
+25225, lod_land118, gtaiii, 800, 0
+
+25226, indhibuild9, indhibuildns, 100, 0
+
+25227, redlightbuild06e, indredlitblk4, 100, 0
+
+25228, redlightbuild06v, indredlitblk4, 100, 0
+
+25229, redlightbuild06b, indredlitblk4, 120, 0
+
+25230, redlightbuild11, indredlitblk1b, 140, 0
+
+25231, redlightbuild10, indredlitblk1b, 120, 0
+
+25232, redlightbuild09, indredlitgrey, 100, 0
+
+25233, luigiclubout, luigiclub, 90, 0
+
+25234, indhibuild3, luigiclub, 90, 0
+
+25235, indhibuild10, indhibuildns, 123, 0
+
+25236, redlightbuild12, indredlitgrey, 100, 1
+
+25237, redlightbuild08a, indredlitblk1b, 115, 0
+
+25238, redlightfront, indredlitblk1b, 130, 0
+
+25239, redlightbuild03, indredlitblk1b, 123, 0
+
+25240, ind_land150, gtaiii, 175, 0
+
+25241, indtrainshad, trainstair, 100, 68
+
+25242, ind_land040, gtaiii, 130, 0
+
+25243, ind_land012, gtaiii, 205, 0
+
+25244, ind_land052, gtaiii, 220, 0
+
+25245, ind_inland667, gtaiii, 117, 0
+
+25246, ind_newradio, indradio, 200, 0
+
+25247, rdsign18bk, rdsign18bk, 100, 0
+
+25248, nrailsteps, trainstair, 100, 4
+
+25249, indsubway03, subwayind, 80, 16
+
+25250, dirtpass2, dirtpass, 100, 68
+
+25251, ind_land118, gtaiii, 170, 1
+
+25252, ind_land043, bridgewee, 299, 0
+
+25253, ind_land092, gtaiii, 112, 0
+
+25254, ind_land149, gtaiii, 220, 0
+
+25255, ind_land039, gtaiii, 141, 0
+
+25256, treepatch, lc_trees2, 150, 4
+
+25257, treepatchindnew2, lc_trees2, 250, 4
+
+25258, ind_land095, indredlitblk1b, 150, 0
+
+25259, indncoast6, gtaiii, 148, 0
+
+25260, treepatch2, lc_trees2, 250, 4
+
+25261, ind_land028, gtaiii, 120, 0
+
+25262, ind_land015, gtaiii, 134, 1
+
+25263, ind_land044, weebridge2, 190, 0
+
+25264, playerwarehouseint, playerint, 45, 0
+
+25265, isubntrnce_b, subwayindt, 110, 1
+
+25266, ind_slidedoor, indredlitblk2, 58, 0
+
+25267, ind_land147, gtaiii, 121, 0
+
+25268, lodlightbuild10, indredlitblk1b, 600, 0
+
+25269, lodlightbuild09, indredlitgrey, 500, 0
+
+25270, lodlightbuild13, indredlitgrey, 600, 0
+
+25271, lod_land041, gtaiii, 750, 0
+
+25272, indhibuild2, indhibuildns, 123, 0
+
+25273, ind_plyrwoor, indredlitblk1b, 80, 0
+
+25274, indnwpath, gtaiii, 2, 0
+
+25275, indnwpath01, gtaiii, 2, 0
+
+25276, indnwpath02, gtaiii, 2, 0
+
+25277, indnwpath03, gtaiii, 2, 0
+
+25278, loddtun_entrance, roadtunnelent, 1000, 0
+
+25279, lodepatchindnew2, lc_trees2, 1000, 4
+
+25280, lodepatch2, lc_trees2, 1000, 4
+
+25281, lodepatchindnew, lc_trees2, 1000, 4
+
+25282, lodepatch, lc_trees2, 1000, 4
+
+25283, lodbntrnce_b, subwayindt, 750, 0
+
+25284, lodilsteps, trainstair, 750, 0
+
+25285, treepatchindaa2, lc_trees2, 299, 4
+
+25286, trepatchindaa1, lc_trees2, 299, 4
+
+25287, lodepatchindaa2, lc_trees2, 1000, 4
+
+25288, lodpatchindaa1, lc_trees2, 1000, 4
+
+25289, fratehuge, frate, 200, 0
+
+25290, tunnel_section, railway, 200, 0
+
+25291, fshgtsbx_dstryd, fishfactory, 100, 0
+
+25292, fshgutsbox, fishfactory, 200, 0
+
+25293, railtracks, railwayg, 100, 0
+
+25294, shp_wlkway, boats, 60, 0
+
+25295, shp_boats2, boats, 60, 0
+
+25296, rail_platform, railway, 200, 4
+
+25297, billboard01, bigsign, 140, 0
+
+25298, billboard02, bigsign, 140, 4
+
+25299, carlift02, lc_carpark, 80, 0
+
+25300, dumpster01, junk, 80, 0
+
+25301, vegcrate04, cardbox, 40, 0
+
+25302, vegcrate06, cardbox, 40, 0
+
+25303, vegcrate07, cardbox, 40, 0
+
+25304, carlift01, lc_carpark, 80, 0
+
+25305, fishoildrum, fishfactory, 200, 0
+
+25306, scffldng02top, bigsign, 100, 0
+
+25307, towerflat, pjects, 110, 0
+
+25308, chimney01, metal, 80, 0
+
+25309, lodtowerflat, lc_indust1, 750, 0
+
+25310, iten_block01, italysht, 100, 0
+
+25311, iten_hoteltop, italysht, 100, 0
+
+25312, iten_block09, italysht, 100, 0
+
+25313, iten_urn01, indclub, 100, 4
+
+25314, ind_newtenement03, italysht, 110, 0
+
+25315, ind_newtenement02, italysht, 110, 0
+
+25316, ind_newtenement04, italysht, 110, 0
+
+25317, ind_newtenement01, italysht, 110, 0
+
+25318, door_fucked, wood, 100, 0
+
+25319, bombdoor, bombdoor, 100, 0
+
+25320, ind_newtenement07, italysht, 160, 0
+
+25321, lod_newtenement03, italysht, 750, 0
+
+25322, lod_newtenement02, italysht, 750, 0
+
+25323, spraydoor, indredlitblk2, 100, 0
+
+25324, salvatorpatiodr, salvatory, 100, 4
+
+25325, lod_newtenement04, italysht, 750, 0
+
+25326, lod_newtenement01, italysht, 750, 0
+
+25327, iten_details7, firescape, 40, 4
+
+25328, iten_chinatown2, chinabanner, 100, 0
+
+25329, iten_chinatown4, chinabanner, 100, 0
+
+25330, iten_chinatown38, indchinassrt, 100, 0
+
+25331, iten_garage01, garagewood, 100, 0
+
+25332, chinaledge2, indchinaredgreen, 100, 0
+
+25333, ch_pil_kb, indchinabuild, 100, 0
+
+25334, ch_btmflr_3_kb, indchinabuild, 100, 0
+
+25335, canopy_wht_kb, indchinabuild, 100, 0
+
+25336, canopy_grn_kb, indchinabuild, 100, 0
+
+25337, canopy_red_kb, indchinabuild, 100, 0
+
+25338, canopy_whtlrg_kb, indchinabuild, 100, 0
+
+25339, firescapa1, indchinablocks, 100, 4
+
+25340, f_escape_side1, fire_esc, 40, 4
+
+25341, grassyknoll2, gtaiii, 100, 0
+
+25342, plnt_chimgrad, chimney, 100, 0
+
+25343, iten_windowbox, lititly, 100, 0
+
+25344, iten_balcony, lititly, 100, 0
+
+25345, iten_alleysteps, gtaiii, 100, 0
+
+25346, iten_alleysteps03, gtaiii, 100, 0
+
+25347, iten_washline01, washin, 100, 4
+
+25348, iten_washline02, washin, 100, 4
+
+25349, iten_box01, wall, 100, 0
+
+25350, iten_wall03, wall, 100, 0
+
+25351, iten_wall04, wall, 100, 0
+
+25352, iten_washline03, washin, 100, 4
+
+25353, iten_fern01, vege, 100, 0
+
+25354, flagsitaly, italyfalg, 100, 0
+
+25355, mistydoor, pjs, 100, 0
+
+25356, lodn_block01, italysht, 750, 0
+
+25357, lodn_hoteltop, italysht, 750, 0
+
+25358, joeysdoor, door, 100, 0
+
+25359, eitballsdoor, door, 100, 0
+
+25360, glassfx4, gtaiii, 100, 0
+
+25361, glassfx3, gtaiii, 100, 0
+
+25362, glassfx2, gtaiii, 100, 0
+
+25363, glassfx1, gtaiii, 100, 0
+
+25364, bankjobdoor, door, 100, 0
+
+25365, hghwysgn01, lc_roadsign, 120, 4
+
+25366, hghwysgn02, lc_roadsign, 100, 0
+
+25367, glassfx55, gtaiii, 100, 1028
+
+25368, bankdoor, door, 100, 0
+
+25369, chinabanner3, chinabanner, 100, 0
+
+25370, chinabanner4, chinabanner, 100, 0
+
+25371, chinabanner1, chinabanner, 100, 0
+
+25372, chinabanner2, chinabanner, 100, 0
+
+25373, convstre_dmge01, unclebj, 160, 0
+
+25374, salvatordoor, door, 100, 0
+
+25375, islandlodsubcom, islandLODsubCOM, 3000, 0
+
+25376, islandlodsubind, islandcomind, 3000, 0
+
+25377, islandlodcomsub, islandcomsub, 3000, 0
+
+25378, islandlodind, islandlodind, 3000, 0
+
+25379, policeballdoor, fuzzball, 100, 0
+
+25380, dogfoodoor01, dogfood, 100, 0
+
+25381, convstore01, unclebj, 160, 0
+
+25382, iten_block06, italysht, 130, 0
+
+25383, lodn_block06, lc_indust2, 750, 0
+
+25384, lod_newtenement07, italysht, 750, 0
+
+25385, chinalanterns, chinabanner, 100, 0
+
+25386, lodn_garage01, garagewood, 750, 0
+
+25387, lodn_block09, italysht, 750, 0
+
+25388, convstore01_door, unclebj, 100, 0
+
+25389, islandlodcomind, islandcomind, 3000, 2
+
+25390, ind_jetnoside02, indpier, 160, 1
+
+25391, fshfctry_dstryd, fishfactory, 200, 400
+
+25392, fishfctory, fishfactory, 200, 400
+
+25393, railtrax_straight, railway, 300, 400
+
+25394, railtrax_bentl, railway, 300, 400
+
+25395, railtrax_skew, railway, 300, 400
+
+25396, railtrax_strtshort, railway, 300, 400
+
+25397, railtrax_2b, railway, 300, 400
+
+25398, railtrax_straightss, railway, 300, 400
+
+25399, railtrax_bentr, railway, 300, 400
+
+25400, railtrax_skew5, railway, 300, 400
+
+25401, railtrax_bentrb, railway, 300, 400
+
+25402, railtrax_skewp, railway, 300, 400
+
+25403, railtrax_ske2b, railway, 300, 400
+
+25404, railtrax_lo4b, railway, 300, 400
+
+25405, com_bridgesign, combridgesign, 100, 0
+
+25406, supasave, lc_indsupasave, 159, 0
+
+25407, ind_maindrag2, maindragsb2, 210, 0
+
+25408, ind_maindrag1, maindragsb1, 210, 0
+
+25409, ind_land091, gtaiii, 159, 0
+
+25410, busdepottar, gtaiii, 100, 0
+
+25411, doc_tar2, inddockland, 147, 0
+
+25412, doc_tar5, inddockland, 154, 1
+
+25413, doc_tar3, inddockland, 177, 4
+
+25414, doc_tar4, inddockland, 163, 0
+
+25415, doc_tar7, inddockland, 214, 1
+
+25416, doc_tar1, inddockland, 147, 0
+
+25417, ind_land160, gtaiii, 100, 0
+
+25418, ind_land159, gtaiii, 170, 0
+
+25419, ind_land158, gtaiii, 100, 0
+
+25420, ind_land157, gtaiii, 148, 1
+
+25421, ind_land156, sawmillground, 165, 0
+
+25422, ind_land139, indtunlrail, 112, 0
+
+25423, ind_land137, indpolice, 210, 0
+
+25424, ind_land124, indland124, 117, 0
+
+25425, ind_land122, gtaiii, 125, 0
+
+25426, ind_land090, gtaiii, 100, 0
+
+25427, ind_land086, gtaiii, 120, 0
+
+25428, ind_land085, gtaiii, 180, 0
+
+25429, ind_land031, gtaiii, 125, 0
+
+25430, ind_land021, sawmill, 110, 0
+
+25431, ind_spaces5, indamcooffc, 119, 0
+
+25432, ind_land020, dogfact, 100, 1
+
+25433, ind_land048, gtaiii, 100, 0
+
+25434, ind_land082, maindragsb1, 130, 0
+
+25435, ind_land123, gtaiii, 300, 0
+
+25436, ind_land161, gtaiii, 100, 0
+
+25437, ind_land098, lc_indsupasave, 200, 0
+
+25438, ind_land084, gtaiii, 180, 0
+
+25439, hospitaland, lc_indhospital, 130, 0
+
+25440, jogarageext, joeysext, 100, 0
+
+25441, ind_land099, gtaiii, 100, 0
+
+25442, petfoodfactory, dogfact, 100, 0
+
+25443, stepsmidbb, lc_indsupasave, 104, 0
+
+25444, factorye_roof1, factory, 123, 0
+
+25445, amcoheadqrts, amco, 125, 0
+
+25446, doc_shedbig4, lc_docks, 122, 1
+
+25447, doc_shedbig2, docksbuild, 210, 0
+
+25448, doc_shedbig1, docksbuild, 130, 0
+
+25449, busdepot_cover, factory, 126, 0
+
+25450, doc_shedbig3, lc_docks, 118, 1
+
+25451, ind_mainten5, buildmainten5, 210, 0
+
+25452, boatcranelg, ships, 116, 0
+
+25453, rustship_structure, ships, 299, 0
+
+25454, crgoshp01, ships, 206, 0
+
+25455, factorym_box, factorym, 100, 0
+
+25456, warehouse3z, factory, 115, 0
+
+25457, warehouse2z, factory, 175, 0
+
+25458, westpostsign, sawmillground, 100, 0
+
+25459, cranebaseb, lc_cranes, 299, 0
+
+25460, cranebasea, lc_cranes, 299, 0
+
+25461, busdepot, busdepot, 117, 0
+
+25462, block_maindrag, maindrag, 210, 0
+
+25463, doc_rave, lc_docfactories, 100, 0
+
+25464, ind_tendragblk, lc_inditaly, 120, 0
+
+25465, ind_tendragblk2, lc_inditaly, 210, 0
+
+25466, indhibuild3b, maindragsb1, 130, 0
+
+25467, lod_maindrag2, maindragsb2, 600, 0
+
+25468, lodhibuild3b, maindragsb1, 750, 0
+
+25469, lod_mainten5, buildmainten5, 750, 0
+
+25470, lodck_maindrag, maindrag, 750, 0
+
+25471, lod_tendragblk, lc_inditaly, 750, 0
+
+25472, lod_tar1, inddockland, 750, 0
+
+25473, lod_land098, lc_indsupasave, 900, 0
+
+25474, lod_land085, gtaiii, 1800, 0
+
+25475, lod_land084, gtaiii, 1800, 0
+
+25476, lod_land048, gtaiii, 750, 0
+
+25477, lod_land156, sawmillground, 750, 0
+
+25478, loddepottar, gtaiii, 750, 0
+
+25479, lod_land160, gtaiii, 750, 0
+
+25480, lod_land159, gtaiii, 750, 0
+
+25481, lod_land158, gtaiii, 750, 0
+
+25482, lod_land082, maindragsb1, 750, 0
+
+25483, lod_land137, indpolice, 750, 0
+
+25484, doc_tar6, inddockland, 100, 1
+
+25485, lod_tar6, inddockland, 750, 0
+
+25486, lod_shedbig3, lc_docks, 750, 0
+
+25487, lod_shedbig1, docksbuild, 1800, 0
+
+25488, lodnebaseb, lc_cranes, 1800, 0
+
+25489, lodnebasea, lc_cranes, 1800, 0
+
+25490, lod_shedbig4, lc_docks, 750, 0
+
+25491, lodpitaland, lc_indhospital, 750, 0
+
+25492, lodarageext, lc_indust1, 750, 0
+
+25493, doc_rave2, lc_docfactories, 100, 0
+
+25494, lod_land020, dogfact, 750, 0
+
+25495, lodasave, lc_indsupasave, 750, 0
+
+25496, loddepot_cover, factory, 750, 0
+
+25497, lodtorye_roof1, factory, 750, 0
+
+25498, lodoheadqrts, amco, 750, 0
+
+25499, doc_tar9, inddockland, 140, 4
+
+25500, doc_tar8, inddockland, 140, 1
+
+25501, lod_land055, gtaiii, 750, 0
+
+25502, inddockcrrate2, crate, 180, 0
+
+25503, taxigarage, indtaxi, 100, 0
+
+25504, newtrackaaa, railway, 260, 0
+
+25505, wallsawmill, dockwall, 100, 0
+
+25506, dockwall, dockwall, 100, 0
+
+25507, wallbustop, dockwall, 100, 0
+
+25508, rdsign17, rdsign17, 100, 4
+
+25509, rdsign15, rdsign15, 100, 4
+
+25510, rdsign06, rdsign06, 100, 4
+
+25511, lod_tar7, inddockland, 750, 0
+
+25512, lod_rave2, lc_docfactories, 750, 0
+
+25513, indtreepatch5, lc_trees2, 289, 4
+
+25514, boatcranesm, ships, 100, 0
+
+25515, lodigarage, indtaxi, 750, 0
+
+25516, lod_shedbig2, docksbuild, 1800, 0
+
+25517, lod_tar4, inddockland, 750, 0
+
+25518, lod_tar3, inddockland, 750, 0
+
+25519, lod_tar5, inddockland, 750, 0
+
+25520, lod_tar2, inddockland, 750, 0
+
+25521, lod_tar9, inddockland, 750, 0
+
+25522, lod_tar8, inddockland, 750, 0
+
+25523, lod_land157, gtaiii, 750, 0
+
+25524, lodlsawmill, dockwall, 750, 0
+
+25525, lod_land091, gtaiii, 750, 0
+
+25526, lod_land122, gtaiii, 800, 0
+
+25527, lod_land099, gtaiii, 750, 0
+
+25528, dockwall2z, dockwall, 100, 0
+
+25529, dockwall3, dockwall, 100, 0
+
+25530, indtreepatch06f, lc_trees2, 160, 4
+
+25531, boatramp1, walkway, 100, 0
+
+25532, impex_door, door, 100, 0
+
+25533, lod_land031, gtaiii, 700, 0
+
+25534, hospital_ind, lc_hospital2, 150, 0
+
+25535, police_station_ind, policind, 150, 0
+
+25536, lodpital_ind, lc_hospital2, 1000, 0
+
+25537, lodice_station_ind, policind, 700, 0
+
+25538, pathpoints11, lc_indust1, 100, 0
+
+25539, pathpoints02, lc_indust1, 100, 0
+
+25540, pathpoints03, lc_indust1, 100, 0
+
+25541, pathpoints04, lc_indust1, 100, 0
+
+25542, pathpoints05, lc_indust1, 100, 0
+
+25543, pathpoints06, lc_indust1, 100, 0
+
+25544, pathpoints07, lc_indust1, 100, 0
+
+25545, pathpoints08, lc_indust1, 100, 0
+
+25546, pathpoints09, lc_indust1, 100, 0
+
+25547, pathpoints12, lc_indust1, 100, 0
+
+25548, pathpoints13, lc_indust1, 100, 0
+
+25549, pathpoints14, lc_indust1, 100, 0
+
+25550, pathpoints15, lc_indust1, 100, 0
+
+25551, pathpoints16, lc_indust1, 100, 0
+
+25552, pathpoints17, lc_indust1, 100, 0
+
+25553, pathpoints18, lc_indust1, 100, 0
+
+25554, pathpoints19, lc_indust1, 100, 0
+
+25555, pathpoints10, lc_indust1, 100, 0
+
+25556, lodtship_structure, ships, 800, 0
+
+25557, industsdirt03, dirtpass, 150, 68
+
+25558, industsdirt02, dirtpass, 140, 68
+
+25559, industsdirt01, dirtpass, 100, 68
+
+25560, lodoshp01, ships, 800, 0
+
+25561, lodkwall3, dockwall, 750, 0
+
+25562, ind_land125ind, station, 100, 4
+
+25563, lod_land090, gtaiii, 750, 0
+
+25564, lod_land161, gtaiii, 750, 0
+
+25565, pathpoints20, gtaiii, 1, 0
+
+25566, lodkwall2z, dockwall, 750, 0
+
+25567, lodkwall, dockwall, 750, 0
+
+25568, lod_rave, lc_docfactories, 750, 0
+
+25569, pathpoints21b, gtaiii, 1, 0
+
+25570, jogarageint, joeys, 40, 0
+
+25571, lc_lcsawmill, factory, 210, 0
+
+25572, lodlcsawmill, factory, 800, 0
+
+25573, lodrmas, pharmas, 800, 0
+
+25574, pharmas, pharmas, 220, 0
+
+25575, lodehouse2z, factory, 750, 0
+
+25576, lodtreepatch06f, lc_trees2, 1000, 4
+
+25577, lodtreepatch5, lc_trees2, 1000, 4
+
+25578, loddepot, busdepot, 750, 0
+
+25579, lodtorym_box, factorym, 750, 0
+
+25580, lod_land125ind, station, 700, 4
+
+25581, lod_land124, indland124, 750, 0
+
+25582, ind_land055, gtaiii, 100, 0
+
+25583, lod_land086, gtaiii, 750, 0
+
+25584, lod_land139, indtunlrail, 750, 0
+
+25585, lodpsmidbb, lc_indsupasave, 750, 0
+
+25586, lodehouse3z, factory, 750, 0
+
+25587, jolightbeams, joeys, 40, 4
+
+25588, dockshadow03, docksbuild, 210, 68
+
+25589, dockshadow01, docksbuild, 210, 68
+
+25590, dockshadow02, docksbuild, 210, 68
+
+25591, iten_chinatown37, china2big, 97, 0
+
+25592, chinabuilds05, china2big, 120, 4
+
+25593, chinabuilds09, indchinabuild, 100, 0
+
+25594, policeballhall, indpoliceball, 120, 0
+
+25595, firescapb1, indchinablocks, 67, 0
+
+25596, new_chinaawning, china2big, 95, 0
+
+25597, chinaquadhouse, china2big, 100, 4
+
+25598, chinabuilds06, chinaedge, 100, 0
+
+25599, chinabuildnew1, chinaedge, 108, 0
+
+25600, chinabuilds21, chinatowns, 100, 0
+
+25601, ind_land145, gtaiii, 158, 1
+
+25602, ind_land144, gtaiii, 200, 1
+
+25603, ind_land143, gtaiii, 120, 0
+
+25604, ind_land130, indtunnel, 100, 0
+
+25605, ind_land128, jetty, 100, 0
+
+25606, ind_land127, gtaiii, 100, 0
+
+25607, ind_land113, gtaiii, 114, 0
+
+25608, ind_land112, brgwall, 125, 0
+
+25609, ind_land110, gtaiii, 120, 0
+
+25610, ind_land109, gtaiii, 120, 0
+
+25611, ind_land108, gtaiii, 120, 0
+
+25612, ind_land107, gtaiii, 120, 0
+
+25613, ind_land106, indpoliceball, 130, 0
+
+25614, ind_land105, gtaiii, 120, 1
+
+25615, ind_land104, gtaiii, 120, 0
+
+25616, ind_land103, gtaiii, 130, 0
+
+25617, ind_land102, gtaiii, 120, 0
+
+25618, ind_land070, gtaiii, 110, 0
+
+25619, ind_land045, gtaiii, 125, 0
+
+25620, ind_land019, gtaiii, 146, 0
+
+25621, ind_land006, gtaiii, 103, 0
+
+25622, ind_land026, gtaiii, 100, 0
+
+25623, ind_land047, gtaiii, 120, 0
+
+25624, ind_land056, gtaiii, 120, 1
+
+25625, ind_land146, gtaiii, 121, 1
+
+25626, billboard03, indchinabuild, 100, 0
+
+25627, mak_bulbsmall, chlight, 61, 0
+
+25628, chinabuilds07, chinatowns, 110, 0
+
+25629, lodnabuilds07, lc_indust1, 500, 0
+
+25630, chinabuilds08, chinatowns, 120, 0
+
+25631, lodnabuilds08, chinatowns, 600, 0
+
+25632, lod_maindrag1, maindragsb1, 750, 0
+
+25633, lodnabuilds05, china2big, 600, 0
+
+25634, lodnaquadhouse, china2big, 1000, 0
+
+25635, lodnabuildnew1, chinaedge, 600, 0
+
+25636, lodnabuilds06, chinaedge, 750, 0
+
+25637, lodwn_fmrkt, chinaedge, 750, 0
+
+25638, lod_land144, gtaiii, 1800, 0
+
+25639, lod_land145, gtaiii, 1800, 0
+
+25640, lod_land047, gtaiii, 1800, 0
+
+25641, lod_land056, gtaiii, 1800, 0
+
+25642, lod_land146, gtaiii, 1800, 0
+
+25643, lod_land143, gtaiii, 750, 0
+
+25644, lod_land105, gtaiii, 750, 0
+
+25645, lodiceballhall, indpoliceball, 750, 0
+
+25646, lod_land110, gtaiii, 750, 0
+
+25647, lod_land108, gtaiii, 750, 0
+
+25648, lod_land104, gtaiii, 750, 0
+
+25649, lod_land103, gtaiii, 750, 0
+
+25650, lod_land026, gtaiii, 750, 0
+
+25651, lod_land107, gtaiii, 750, 0
+
+25652, lod_land109, gtaiii, 750, 0
+
+25653, lodnabuilds09, indchinabuild, 750, 0
+
+25654, lodroof_kb, lc_indust2, 750, 0
+
+25655, chinabuildorn, chinatowns, 100, 0
+
+25656, chtwn_fmrkt, chinaedge, 100, 4
+
+25657, fishwall, fishwall, 100, 0
+
+25658, rdsign19, rdsign19bk, 100, 4
+
+25659, rdsign14, rdsign14, 100, 4
+
+25660, rdsign02bk, rdsign02bk, 100, 4
+
+25661, dinerind, newbuildind, 140, 0
+
+25662, lod_land113, gtaiii, 1800, 0
+
+25663, lod_land129, gtaiii, 1800, 0
+
+25664, lod_land128, jetty, 1200, 0
+
+25665, lod_land127, gtaiii, 1800, 0
+
+25666, lod_land112, brgwall, 750, 0
+
+25667, indbilbridge1, indbrownbil, 260, 0
+
+25668, lodbilbridge1, indbrownbil, 1800, 0
+
+25669, dinersign, inddiner, 100, 0
+
+25670, lodersign, inddiner, 600, 32
+
+25671, carwalls, gtaiii, 120, 0
+
+25672, ind_land129, gtaiii, 220, 0
+
+25673, basketballcourt, basketballcrt, 200, 1
+
+25674, indatree03, lc_trees2, 299, 4
+
+25675, industpatch05, lc_trees2, 299, 4
+
+25676, lod_land070, gtaiii, 350, 0
+
+25677, lodnabuilds21, chinatowns, 600, 0
+
+25678, newbuildind, newbuildind, 210, 0
+
+25679, lodbuildind, newbuildind, 2000, 0
+
+25680, nrailstepswest, trainstairst, 100, 4
+
+25681, overpassshadow, trainstairst, 100, 68
+
+25682, inswdirt01, dirtpass, 100, 68
+
+25683, inswdirt02, dirtpass, 100, 4
+
+25684, inswdirt03, dirtpass, 130, 68
+
+25685, inswdirt04, dirtpass, 100, 4
+
+25686, inswdirt05, dirtpass, 150, 68
+
+25687, dinerind02, greasyjoes, 120, 0
+
+25688, lod_land102, gtaiii, 600, 0
+
+25689, lodhwall, fishwall, 750, 0
+
+25690, pathnodepoly, gtaiii, 2, 0
+
+25691, iten_chntown37b, china2big, 97, 0
+
+25692, ch_roof_kb, indchinabuild, 100, 0
+
+25693, ind_land078, gtaiii, 100, 0
+
+25694, lodustpatch05, lc_trees2, 1000, 4
+
+25695, lodatree03, lc_trees2, 1000, 4
+
+25696, lod_land019, gtaiii, 750, 0
+
+25697, loderind, newbuildind, 500, 0
+
+25698, loderind02, greasyjoes, 750, 0
+
+25699, lodl_platformw, trainstairst, 1800, 4
+
+25700, lodrpassind, trainstairst, 1800, 4
+
+25701, lodilstepswest0, lc_indust2, 1800, 4
+
+25702, rail_platformw, trainstairst, 100, 4
+
+25703, overpassind, trainstairst, 100, 4
+
+25704, nullpathnodeinsw, gtaiii, 1, 0
+
+25705, indhelix_barrier, indbar, 100, 0
+
+end
+tobj
+25706, inwindows11, windowlit, 299, 12, 19, 4
+25707, indwindows2, windowlit, 299, 12, 19, 3
+25708, redlightbuild05_dy, indredlitblk1b, 130, 0, 6, 19
+25709, lodlightbuild05_dy, indredlitblk1b, 750, 0, 6, 19
+25710, lodlightbuild05_nt, indredlitblk1b, 700, 0, 19, 6
+25711, redlightbuild05_nt, indredlitblk1b, 130, 0, 19, 6
+end

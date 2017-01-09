@@ -1,0 +1,552 @@
+objs
+25995, aptowerl, airporterminal4, 290, 4
+
+25996, apair_terminal, airporterminal2, 290, 0
+
+25997, apterminalfront, lc_airporterminal, 290, 0
+
+25998, apterminalback, airporterminal3, 290, 0
+
+25999, air_grnd11, lc_airgrndb, 290, 0
+
+26000, air_grnd7, lc_airgrndb, 290, 0
+
+26001, air_grnd13, lc_airporterminal, 290, 0
+
+26002, air_grnd04, lc_airgrndb, 200, 0
+
+26003, landpart87, gtaiii, 290, 0
+
+26004, landpart86, gtaiii, 290, 0
+
+26005, landpart85, gtaiii, 290, 0
+
+26006, landpart89, gtaiii, 200, 0
+
+26007, landpart88, gtaiii, 290, 0
+
+26008, splay_tunent01, lc_airgrndb, 200, 0
+
+26009, splay_tunent02, lc_airgrndb, 200, 0
+
+26010, air_brway_03, lc_airgrndb, 299, 1
+
+26011, air_srway_02, lc_airgrndb, 200, 1
+
+26012, air_smalldetail, lc_airgrndb, 200, 68
+
+26013, air_grnd03, lc_airgrndb, 290, 0
+
+26014, air_grnd02, lc_airgrndb, 200, 0
+
+26015, air_grnd06, lc_airgrndb, 200, 0
+
+26016, air_grnd05, lc_airgrndb, 200, 0
+
+26017, air_grnd09, lc_airgrndb, 290, 0
+
+26018, air_brway_01, lc_airgrndb, 299, 1
+
+26019, air_brway_02, lc_airgrndb, 299, 1
+
+26020, air_srway_01, lc_airgrndb, 200, 1
+
+26021, landpart107, gtaiii, 200, 0
+
+26022, air_grnd14, lc_airporterminal, 290, 0
+
+26023, lod_grnd10, suburb1, 1000, 0
+
+26024, lod_grnd12, suburb1, 1000, 0
+
+26025, air_grnd01, lc_airgrndb, 200, 0
+
+26026, landpart110, gtaiii, 200, 0
+
+26027, sub_ind26, subind26, 200, 0
+
+26028, sub_ind03, subind34, 200, 0
+
+26029, fuel9, subcanister, 200, 0
+
+26030, fuel4, subcanister, 200, 0
+
+26031, indfrate03, subcrates, 200, 0
+
+26032, indsub_gate03, subindgate, 200, 0
+
+26033, doc_shedbig31, subuild10, 200, 0
+
+26034, doc_shedbig12, subuild8, 200, 0
+
+26035, dam_road1, dam, 200, 1
+
+26036, caparwall3, lc_airgrndb, 200, 0
+
+26037, parsign1, lc_airgrndb, 200, 0
+
+26038, lodport_carpark, suburb1, 1000, 0
+
+26039, parsign2, lc_airgrndb, 200, 4
+
+26040, airportroad06, lc_airgrndb, 290, 1
+
+26041, clif23, clif22, 290, 0
+
+26042, clif26, clif22, 290, 0
+
+26043, clif24, gtaiii, 290, 0
+
+26044, lodf23, suburb1, 1000, 0
+
+26045, lodf24, suburb1, 1000, 0
+
+26046, lodf26, suburb1, 1000, 0
+
+26047, landpart104, gtaiii, 290, 0
+
+26048, loddpart104, suburb1, 1000, 0
+
+26049, landpart98, gtaiii, 290, 0
+
+26050, landpart101, gtaiii, 290, 0
+
+26051, loddpart101, suburb1, 1000, 0
+
+26052, landpart102, gtaiii, 290, 0
+
+26053, landpart103, gtaiii, 290, 0
+
+26054, landpart97, gtaiii, 290, 0
+
+26055, loddpart97, suburb1, 1000, 0
+
+26056, landpart105, gtaiii, 290, 0
+
+26057, loddpart105, suburb1, 1000, 0
+
+26058, landpart106, gtaiii, 290, 0
+
+26059, loddpart106, suburb1, 1000, 0
+
+26060, clif28, gtaiii, 290, 0
+
+26061, landpart96, gtaiii, 290, 0
+
+26062, landpart95, gtaiii, 290, 0
+
+26063, landpart94, gtaiii, 290, 0
+
+26064, landpart93, gtaiii, 290, 0
+
+26065, landpart92, gtaiii, 290, 0
+
+26066, landpart91, gtaiii, 290, 0
+
+26067, landpart90, gtaiii, 290, 0
+
+26068, clif6, gtaiii, 290, 0
+
+26069, lodf6, suburb1, 1000, 0
+
+26070, landpart30, gtaiii, 290, 0
+
+26071, clif27, gtaiii, 290, 0
+
+26072, doc_shedbig13, subuild7, 200, 0
+
+26073, lodf27, suburb1, 1000, 0
+
+26074, loddpart30, suburb1, 1000, 0
+
+26075, loddpart103, suburb1, 1000, 0
+
+26076, loddpart102, suburb1, 1000, 0
+
+26077, loddpart98, suburb1, 1000, 0
+
+26078, loddpart95, suburb1, 1000, 0
+
+26079, loddpart94, suburb1, 1500, 0
+
+26080, loddpart93, suburb1, 1000, 0
+
+26081, loddpart92, suburb1, 1000, 0
+
+26082, clif3, gtaiii, 290, 0
+
+26083, clif5, gtaiii, 290, 0
+
+26084, clif4, gtaiii, 290, 0
+
+26085, lodf4, suburb1, 1000, 0
+
+26086, lodf5, suburb1, 1000, 0
+
+26087, lodf3, suburb1, 1000, 0
+
+26088, landpart100, lc_airgrndb, 200, 0
+
+26089, landpart99, lc_airgrndb, 200, 0
+
+26090, subind_build03, subuild3, 250, 0
+
+26091, lodind_build03, suburb2, 1000, 0
+
+26092, subind_build02, subuild2, 200, 0
+
+26093, subind_build07, subuild4, 200, 0
+
+26094, lodind_build07, suburb1, 1000, 0
+
+26095, lod_shedbig31, suburb1, 1000, 0
+
+26096, lod_shedbig12, suburb1, 1000, 0
+
+26097, lod_ind26, suburb1, 1000, 0
+
+26098, lod_shedbig13, suburb2, 1000, 0
+
+26099, lod_grnd06, suburb1, 2000, 0
+
+26100, lod_grnd05, suburb1, 2000, 0
+
+26101, lod_grnd04, suburb1, 2000, 0
+
+26102, lod_grnd01, suburb1, 2000, 0
+
+26103, loddpart88, suburb1, 2000, 0
+
+26104, loddpart87, suburb1, 2000, 0
+
+26105, loddpart86, suburb1, 2000, 0
+
+26106, loddpart85, suburb1, 2000, 0
+
+26107, lod_grnd02, suburb1, 2000, 0
+
+26108, lod_grnd03, suburb1, 2000, 0
+
+26109, loddpart107, suburb1, 1000, 0
+
+26110, lod_grnd7, suburb1, 2000, 0
+
+26111, lodir_terminal, suburb1, 2000, 0
+
+26112, lod_grnd09, suburb1, 2000, 0
+
+26113, lod_grnd11, suburb1, 1000, 0
+
+26114, lod_grnd08, suburb1, 2000, 0
+
+26115, loddpart100, suburb1, 1000, 0
+
+26116, loderminalback, suburb1, 2000, 0
+
+26117, lod_grnd13, suburb1, 1000, 0
+
+26118, air_grnd10, lc_airgrndb, 290, 0
+
+26119, air_grnd12, lc_airgrndb, 290, 0
+
+26120, airport_carpark, aircarpark, 200, 0
+
+26121, subntrance_sub2, subway, 100, 1
+
+26122, subplatform_sub, subway2, 100, 16
+
+26123, subentrance_sub1, subway1, 100, 1
+
+26124, loddpart91, suburb1, 1000, 0
+
+26125, loddpart99, suburb1, 1000, 0
+
+26126, lod_subway, suburb1, 1000, 0
+
+26127, loddpart110, suburb1, 1000, 0
+
+26128, loddpart90, suburb1, 1000, 0
+
+26129, subind_build06, subuild1, 200, 0
+
+26130, lodind_build06, suburb1, 1000, 0
+
+26131, sub_indland08, subind1, 290, 1
+
+26132, lod_indland08, suburb2, 1000, 0
+
+26133, subind_build01, subuild6, 200, 0
+
+26134, lodind_build01, suburb2, 1000, 0
+
+26135, loderminalfront, suburb1, 2000, 0
+
+26136, broken_bridge, brokenbridge, 290, 0
+
+26137, treepatch17_sub, lc_trees2, 200, 4
+
+26138, treepatch24_sub, lc_trees2, 200, 4
+
+26139, treepatch18_sub, lc_trees2, 200, 4
+
+26140, treepatch20_sub, lc_trees2, 200, 4
+
+26141, treepatch21_sub, lc_trees2, 200, 4
+
+26142, treepatch23_sub, lc_trees2, 200, 4
+
+26143, treepatch22_sub, lc_trees2, 200, 4
+
+26144, treepatch19_sub, lc_trees2, 200, 4
+
+26145, treepatch16_sub, lc_trees2, 200, 4
+
+26146, treepatch15_sub, lc_trees2, 200, 4
+
+26147, treepatch11_sub, lc_trees2, 200, 4
+
+26148, treepatch14_sub, lc_trees2, 200, 4
+
+26149, treepatch13_sub, lc_trees2, 200, 4
+
+26150, treepatch12_sub, lc_trees2, 200, 4
+
+26151, sub_indland01, subind2, 290, 0
+
+26152, lod_indland01, suburb2, 1000, 0
+
+26153, treepatch171_sub, lc_trees2, 200, 4
+
+26154, treepatch172_sub, lc_trees2, 200, 4
+
+26155, loddpart96, suburb1, 1000, 0
+
+26156, lodf28, suburb1, 1000, 0
+
+26157, hospital_sub, subhospital, 200, 4
+
+26158, lodpital_sub, suburb1, 1000, 0
+
+26159, police_station_sub, subpolice, 290, 0
+
+26160, sub_sprayshopdoor, subuild2, 290, 0
+
+26161, otherside_subway, othersubside, 100, 16
+
+26162, amcogaragedoor, subuild4, 290, 0
+
+26163, air_grnd08, lc_airgrndb, 290, 0
+
+26164, lodind_build02, suburb1, 1000, 0
+
+26165, lodice_station_sub, suburb2, 1000, 0
+
+26166, lodestatebuild1, suburb1, 1000, 0
+
+26167, subestatebuild1, subestbuild, 250, 0
+
+26168, bridgesupport1, bridgesupport, 290, 0
+
+26169, bridgesupport2, bridgesupport, 290, 0
+
+26170, impexpgrgesub, importexp, 200, 0
+
+26171, impexpsubgrgdoor, importexp, 100, 0
+
+26172, subposter08, postersub, 290, 0
+
+26173, subposter03, postersub, 200, 0
+
+26174, subposter04, postersub, 200, 0
+
+26175, subposter05, postersub, 290, 0
+
+26176, subposter06, postersub, 200, 0
+
+26177, subposter07, postersub, 200, 0
+
+26178, subposter01, postersub, 290, 0
+
+26179, treepatch173_sub, lc_trees2, 200, 4
+
+26180, carparkfence, carparkfence, 200, 4
+
+26181, subsign1, subsign1, 290, 4
+
+26182, newairportwall1, lc_airgrndb, 290, 0
+
+26183, airportfence4, airportfence, 290, 4
+
+26184, newairportwall2, lc_airgrndb, 290, 0
+
+26185, newairportwall3, lc_airgrndb, 290, 0
+
+26186, newairportwall4, lc_airgrndb, 200, 0
+
+26187, newairportwall5, lc_airgrndb, 290, 0
+
+26188, newairportwall6, lc_airgrndb, 290, 4
+
+26189, airportfence6, airportfence, 290, 4
+
+26190, airportfence5, airportfence, 290, 4
+
+26191, sub_subway, subentr, 100, 1
+
+26192, air_grnd0301, lc_airgrndb, 290, 0
+
+26193, 8ballsuburbandoor, subestbuild, 290, 0
+
+26194, suburbansigns1, localsignsub, 290, 0
+
+26195, suburbansigns2, localsignsub, 290, 0
+
+26196, suburbansigns3, localsignsub, 290, 0
+
+26197, suburbansigns7, localsignsub, 290, 0
+
+26198, sub_indfrate2108, subcrates, 290, 0
+
+26199, sub_indfrate2109, subcrates, 290, 0
+
+26200, sub_indland06, subind5, 200, 4
+
+26201, lod_indland06, suburb2, 1000, 0
+
+26202, lod_brway_03, suburb1, 2000, 0
+
+26203, lod_brway_02, suburb1, 2000, 0
+
+26204, lod_brway_01, suburb1, 2000, 0
+
+26205, lod_srway_02, suburb1, 2000, 0
+
+26206, lod_srway_01, suburb1, 2000, 0
+
+26207, airtower1, airporterminal3, 290, 4
+
+26208, airtower2, airporterminal3, 290, 0
+
+26209, lodtower2, suburb1, 2000, 0
+
+26210, lodtower1, suburb1, 2000, 0
+
+26211, sub_indfrate2110, subcrates, 290, 0
+
+26212, rear_building, cutrearbuild, 299, 0
+
+26213, building1, cutbuild1, 299, 0
+
+26214, bank, cutbank, 299, 0
+
+26215, building3, cutbuild3, 299, 0
+
+26216, building4, cutbuild2, 299, 0
+
+26217, building5, cutbuild2, 299, 0
+
+26218, cutsceneroad3, cutroads, 299, 1
+
+26219, cutsceneroad2, cutroads, 299, 1
+
+26220, cutsceneroad1, cutroads, 299, 1
+
+26221, cutsceneroad4, cutroads, 299, 1
+
+26222, rubbish01, cutrubbish, 299, 0
+
+26223, cutscene_watertanks, cutwatertanks, 299, 0
+
+26224, cutscene_cameras, cutscenecameras, 290, 0
+
+26225, bank_graffiti, cutbankgrafiti, 299, 4
+
+26226, treepatch212_sub, lc_trees2, 200, 4
+
+26227, treepatch213_sub, lc_trees2, 200, 4
+
+26228, treepatch214_sub, lc_trees2, 200, 4
+
+26229, lod_grnd14, suburb1, 1000, 0
+
+26230, loddpart89, suburb1, 1000, 0
+
+26231, subway_monument, submonument, 290, 4
+
+26232, treepatch152_sub, lc_trees2, 200, 4
+
+26233, treepatch153_sub, lc_trees2, 200, 4
+
+26234, sub_indland02, subind4, 250, 0
+
+26235, lod_indland02, suburb2, 1000, 0
+
+26236, lodowerl, suburb1, 2000, 0
+
+26237, damissionfence, damissionfence, 290, 4
+
+26238, lodepatch173_sub, suburb2, 1500, 4
+
+26239, lodepatch172_sub, suburb2, 1500, 4
+
+26240, lodepatch18_sub, suburb2, 1500, 4
+
+26241, lodepatch171_sub, suburb2, 1500, 4
+
+26242, lodepatch17_sub, suburb2, 1500, 4
+
+26243, lodepatch19_sub, suburb2, 1500, 4
+
+26244, lodepatch15_sub, suburb2, 1500, 4
+
+26245, lodepatch16_sub, suburb2, 1500, 4
+
+26246, lodepatch20_sub, suburb2, 1500, 4
+
+26247, lodepatch21_sub, suburb2, 1500, 4
+
+26248, lodepatch22_sub, suburb2, 1500, 4
+
+26249, lodepatch23_sub, suburb2, 1500, 4
+
+26250, lodepatch24_sub, suburb2, 1500, 4
+
+26251, lodepatch214_sub, suburb2, 1500, 4
+
+26252, lodepatch212_sub, suburb2, 1500, 4
+
+26253, lodepatch213_sub, suburb2, 1500, 4
+
+26254, lodepatch14_sub, suburb2, 1500, 4
+
+26255, lodepatch13_sub, suburb2, 1500, 4
+
+26256, lodepatch153_sub, suburb2, 1500, 4
+
+26257, lodepatch11_sub, suburb2, 1500, 4
+
+26258, lodepatch152_sub, suburb2, 1500, 4
+
+26259, lodepatch12_sub, suburb2, 1500, 4
+
+26260, lodexpgrgesub, suburb2, 1000, 0
+
+26261, lod_ind03, suburb2, 1000, 0
+
+26262, cutscenevan1, cutscenecar3, 290, 1
+
+26263, subind_build04, subuild5, 200, 0
+
+26264, subind_build05, subuild5, 200, 0
+
+26265, sub_indland07, subind3, 200, 0
+
+26266, sub_indland04, subind8, 200, 0
+
+26267, sub_indland03, subind6, 200, 1
+
+26268, sub_indland05, subind7, 200, 0
+
+end
+tobj
+end
