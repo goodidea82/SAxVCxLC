@@ -64,6 +64,9 @@ set xcpyOpt=/Y
 REM --------------------------------------
 
 REM Start Installation
+REM Build IMG archives
+
+call buildIMGarchives.bat
 
 if "%Variant%"=="1" (call toolsForInstallation\Standard.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
 if "%Variant%"=="2" (call toolsForInstallation\Base.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
@@ -73,10 +76,13 @@ if "%Variant%"=="4" (
 	exit
 )
 
+REM Some cleanup. The .img archives have been copied to GTASAroot\models. Delete them from source and keep only the _img_src folders.
+del "%CD%\SAxVCxLC_source\base\models\*.img"
+
 REM -------------------------------------
 echo --------------------------
 REM update models\gta3.img
-REM The script file gta3_img_changes.txt is located in SAxVCxLC_source\basic\models. It should have been copied to GTASAroot by the scripts above. 
+REM The script file gta3_img_changes.txt is located in SAxVCxLC_source\base\models. It should have been copied to GTASAroot by the scripts above. 
 
 echo TODO fastman92ImgConsole32.exe temporarily commented out here. Remove the goto and this comment.
 goto :finish
