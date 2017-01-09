@@ -68,6 +68,9 @@ if "%Variant%"=="1" (call toolsForInstallation\Standard.bat %xcpyOpt% %useModLoa
 if "%Variant%"=="2" (call toolsForInstallation\Basic.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
 if "%Variant%"=="3" (call toolsForInstallation\MTA.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
 
+REM Some cleanup. The .img archives have been copied to GTASAroot\models. Delete them from source and keep only the _img_src folders.
+del "%CD%\SAxVCxLC_source\base\models\*.img"
+
 SET /P a=Press a key...
 EXIT
 
