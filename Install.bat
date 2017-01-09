@@ -78,8 +78,8 @@ echo -------------------------------------
 REM update models\gta3.img
 REM The script file gta3_img_changes.txt is located in SAxVCxLC_source\basic\models. It should have been copied to GTASAroot by the scripts above. 
 
+echo TODO fastman92ImgConsole32.exe temporarily commented out here. Remove the goto and this comment!
 goto :finish
-
 echo update models\gta3.img
 set toolsForInstDir=%CD%\toolsForInstallation
 set thisDir=%CD%
