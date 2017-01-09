@@ -1,0 +1,41 @@
+#
+# file: cargrp.dat
+# description: For each type of ped (worker, clubber etc) we maintain a list of the cars they might drive.
+# This list is used to pick cars in a very similar way we pick peds.
+#
+	  
+
+linerun, packer, taxi, cabbie, mule, bus, coach, rumpo, pony, flatbed, yankee, topfun, cement, towtruck, burrito, boxville, benson, utility, pizzaboy, trash, dft30, vcbus	# POPCYCLE_GROUP_WORKERS
+bravura, taxi, cabbie, premier, securica, elegant, fortune, feltzer, merit, elegant, huntley, zr350, sentinel, vcsenXS 	# POPCYCLE_GROUP_BUSINESS
+buffalo, stretch, taxi, cabbie, coach, flash, sultan, club 	# POPCYCLE_GROUP_CLUBBERS
+sanchez, walton, rancher, journey, tractor, wayfarer, freeway, linerun, petro 	# POPCYCLE_GROUP_FARMERS
+taxi, cabbie, bfinject, faggio, glendale, oceanic, mesa, bmx, mtbike, mrwhoop, washing, previon, pcj600, cadrona, sunrise, yosemite, bravura, primo, vckaufman, vczebra      	# POPCYCLE_GROUP_BEACHFOLK
+taxi, cabbie, bfinject, faggio, glendale, mesa, bmx, mtbike, washing, previon, pcj600, cadrona, yosemite, bravura, primo, vckaufman, vczebra    	# POPCYCLE_GROUP_PARKFOLK
+stretch, buffalo, elegant, premier, stratum, infernus, cheetah, banshee, freeway, zr350, comet, supergt, fcr900, windsor, jester, elegy, broadway, stafford, huntley, taxi, cabbie, alpha, slamvan, euros, phoenix, emperor															# POPCYCLE_GROUP_CASUAL_RICH
+taxi, cabbie, premier, elegant, fortune, bobcat, primo, landstal, bravura, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, stratum, bf400, emperor, tahoma, picador, bmx, tornado, euros, sentinel, vcsenXS									  	# POPCYCLE_GROUP_CASUAL_AVERAGE
+esperant, bobcat, sabre, regina, virgo, greenwoo, willard, clover, sadler, intruder, primo, bike, bravura, remingtn, hermes, camper, stallion, tahoma, picador, bmx, moonbeam, newsvan															# POPCYCLE_GROUP_CASUAL_POOR  
+peren	# POPCYCLE_GROUP_PROSTITUTES
+peren, blade, clover	# POPCYCLE_GROUP_CRIMINALS
+caddy	# POPCYCLE_GROUP_GOLFERS
+stretch, broadway, bobcat 	# POPCYCLE_GROUP_SERVANTS
+bravura, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, uranus, stratum, bf400, emperor, wayfarer	# POPCYCLE_GROUP_AIRCREW
+turismo, hustler, bullet, buffalo, stretch, taxi, cabbie, coach, flash, sultan, club	# POPCYCLE_GROUP_ENTERTAINERS
+mule, rumpo, pony, flatbed, yankee, topfun, cement, burrito, boxville, benson, utility, dft30, forklift  	# POPCYCLE_GROUP_OUT_OF_TOWN_FACTORY
+sanchez, walton, rancher, wayfarer, freeway, petro, rdtrain   	# POPCYCLE_GROUP_DESERT_FOLK
+baggage, tug, forklift	# POPCYCLE_GROUP_AIRCREW_RUNWAY
+majestic, tahoma, vcvoodoo		 									 # Gang 1 (BALLAS - BLACK)
+greenwoo, savanna, voodoo 											 # Gang 2 (FAMILIES - PLAYER - BLACK)
+oceanic, tornado, hermes, vccuban						 	 		 		 # Gang 3 (LSV - MEX)
+sabre, stallion, blade, vcGBurrito						   					 # Gang 4 (SFR - MEX) 
+buccanee, manana, tampa 					 	     				 	 # Gang 5 (DNB - VIETS)
+sentinel, admiral, feltzer 					 						 # Gang 6 (ITALIAN MAFIA)
+sultan, stratum, elegy												 # Gang 7 (TRIAD)
+hermes, broadway, glendale 											 # Gang 8 (VLA - MEX)
+washing, admiral, esperant, sentinel, vcsenXS                                                             	 # Gang 9 (Russian Mafia)
+freeway, vcangel                                                           					 # Gang 10 (SA Bikers)
+rancher                                                              # Dealers
+squalo, speeder, reefer, tropic, coastg, dinghy, marquis, jetmax 		# Boats
+clover, peren, manana, moonbeam, previon, rumpo, glendale, oceanic, hermes, virgo, greenwoo, buccanee, willard, remingtn, hustler, intruder, broadway, tornado, primo, tampa, tahoma, savanna	# Cheat1 (shit cars)
+buffalo, infernus, cheetah, banshee, hotknife, turismo, zr350, comet, supergt, bullet, uranus, jester, sultan, elegy, flash, euros, club, phoenix	# Cheat2 (fast cars)
+pcj600, fcr900, bf400	# Cheat3 (ninja)
+hotknife, tug, mrwhoop, pizzaboy, hotdog, bfinject, caddy, quad, bandito, kart, mower 	# Cheat4 (funhouse)

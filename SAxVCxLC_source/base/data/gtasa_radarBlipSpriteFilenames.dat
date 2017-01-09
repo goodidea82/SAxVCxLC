@@ -1,0 +1,68 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply the radar blip sprite filenames
+# Blip sprite ID, texture name
+
+0 
+1 
+2 radar_centre
+3 arrow
+4 radar_north
+5 radar_airYard
+6 radar_ammugun
+7 radar_barbers
+8 radar_BIGSMOKE
+9 radar_boatyard
+10 radar_burgerShot
+11 radar_bulldozer
+12 radar_CATALINAPINK
+13 radar_CESARVIAPANDO
+14 radar_chicken
+15 radar_CJ
+16 radar_CRASH1
+17 radar_diner
+18 radar_emmetGun
+19 radar_enemyAttack
+20 radar_fire
+21 radar_girlfriend
+22 radar_hostpitaL
+23 radar_LocoSyndicate
+24 radar_MADDOG
+25 radar_mafiaCasino
+26 radar_MCSTRAP
+27 radar_modGarage
+28 radar_OGLOC
+29 radar_pizza
+30 radar_police
+31 radar_propertyG
+32 radar_propertyR
+33 radar_race
+34 radar_RYDER
+35 radar_saveGame
+36 radar_school
+37 radar_qmark
+38 radar_SWEET
+39 radar_tattoo
+40 radar_THETRUTH
+41 radar_waypoint
+42 radar_TorenoRanch
+43 radar_triads
+44 radar_triadsCasino
+45 radar_tshirt
+46 radar_WOOZIE
+47 radar_ZERO
+48 radar_dateDisco
+49 radar_dateDrink
+50 radar_dateFood
+51 radar_truck
+52 radar_cash
+53 radar_flag
+54 radar_gym
+55 radar_impound
+56 radar_light
+57 radar_runway
+58 radar_gangB
+59 radar_gangP
+60 radar_gangY
+61 radar_gangN
+62 radar_gangG
+63 radar_spray

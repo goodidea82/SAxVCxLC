@@ -1,0 +1,318 @@
+#
+# Load IDEs first, then the models and after that the IPLs
+#
+IMG DATA\PATHS\CARREC.IMG
+IMG DATA\SCRIPT\SCRIPT.IMG
+IMG MODELS\CUTSCENE.IMG
+IMG MODELS\paths.img
+IMG MODELS\radar24000.img
+IMG MODELS\COLLS.IMG
+IMG MODELS\newADD.IMG
+IMG MODELS\vclcVeh.IMG
+IMG MODELS\VICE.IMG
+IMG MODELS\LIBERTY.IMG
+
+
+
+SPLASH loadsc2
+
+#
+# Object types
+#
+
+IDE DATA\MAPS\generic\vegepart.IDE
+IDE DATA\MAPS\generic\barriers.IDE
+IDE DATA\MAPS\generic\dynamic.IDE
+IDE DATA\MAPS\generic\dynamic2.IDE
+IDE DATA\MAPS\generic\multiobj.IDE
+IDE DATA\MAPS\generic\procobj.IDE
+
+#LS
+IDE DATA\MAPS\LA\LAn.IDE
+IDE DATA\MAPS\LA\LAn2.IDE
+IDE DATA\MAPS\LA\LAs.IDE
+IDE DATA\MAPS\LA\LAs2.IDE
+IDE DATA\MAPS\LA\LAe.IDE
+IDE DATA\MAPS\LA\LAe2.IDE
+IDE DATA\MAPS\LA\LAw2.IDE
+IDE DATA\MAPS\LA\LAw.IDE
+IDE DATA\MAPS\LA\LAwn.IDE
+IDE DATA\MAPS\LA\LAhills.IDE
+IDE DATA\MAPS\LA\LAxref.IDE
+IDE DATA\MAPS\SF\SFn.IDE
+IDE DATA\MAPS\SF\SFs.IDE
+IDE DATA\MAPS\SF\SFse.IDE
+IDE DATA\MAPS\SF\SFe.IDE
+IDE DATA\MAPS\SF\SFw.IDE
+IDE DATA\MAPS\SF\SFxref.IDE
+IDE DATA\MAPS\vegas\vegasN.IDE
+IDE DATA\MAPS\vegas\vegasS.IDE
+IDE DATA\MAPS\vegas\vegasE.IDE
+IDE DATA\MAPS\vegas\vegasW.IDE
+IDE DATA\MAPS\vegas\vegaxref.IDE
+IDE DATA\MAPS\country\countryN.IDE
+IDE DATA\MAPS\country\countN2.IDE
+IDE DATA\MAPS\country\countryS.IDE
+IDE DATA\MAPS\country\countryE.IDE
+IDE DATA\MAPS\country\countryW.IDE
+IDE DATA\MAPS\country\counxref.IDE
+IDE DATA\MAPS\interior\int_LA.IDE
+IDE DATA\MAPS\interior\int_SF.IDE
+IDE DATA\MAPS\interior\int_veg.IDE
+IDE DATA\MAPS\interior\int_cont.IDE
+IDE DATA\MAPS\leveldes\levelmap.IDE
+IDE DATA\MAPS\leveldes\levelxre.IDE
+IDE DATA\MAPS\interior\gen_int1.IDE
+IDE DATA\MAPS\interior\gen_int2.IDE
+IDE DATA\MAPS\interior\gen_intb.IDE
+IDE DATA\MAPS\interior\gen_int3.IDE
+IDE DATA\MAPS\interior\gen_int4.IDE
+IDE DATA\MAPS\interior\gen_int5.IDE
+IDE DATA\MAPS\interior\savehous.IDE
+IDE DATA\MAPS\interior\stadint.IDE
+IDE DATA\MAPS\leveldes\seabed.IDE
+
+#new Seabed
+IDE DATA\MAPS\Extras\seabed\fullseabed.IDE
+IDE DATA\MAPS\Extras\seabed\vclcSB.IDE
+
+#new LC cliffs
+IDE DATA\MAPS\Extras\lcCliffs\lcCliffs.IDE
+
+
+# interiors
+IDE DATA\MAPS\interior\props.IDE
+IDE DATA\MAPS\interior\props2.IDE
+IDE DATA\MAPS\interior\propext.IDE
+
+# vehicle upgrade models
+IDE DATA\MAPS\veh_mods\veh_mods.IDE
+
+# txd parents
+IDE DATA\TXDCUT.IDE
+
+#VC
+IDE DATA\MAPS\VC\generic.IDE
+IDE DATA\MAPS\VC\airport\airport.IDE
+IDE DATA\MAPS\VC\airportN\airportN.IDE
+IDE DATA\MAPS\VC\bank\bank.IDE
+IDE DATA\MAPS\VC\bridge\bridge.IDE
+IDE DATA\MAPS\VC\cisland\cisland.IDE
+IDE DATA\MAPS\VC\club\club.IDE
+IDE DATA\MAPS\VC\concerth\concerth.IDE
+IDE DATA\MAPS\VC\docks\docks.IDE
+IDE DATA\MAPS\VC\downtown\downtown.IDE
+IDE DATA\MAPS\VC\downtows\downtows.IDE
+IDE DATA\MAPS\VC\golf\golf.IDE
+IDE DATA\MAPS\VC\haiti\haiti.IDE
+IDE DATA\MAPS\VC\haitin\haitin.IDE
+IDE DATA\MAPS\VC\hotel\hotel.IDE
+IDE DATA\MAPS\VC\islandsf\islandsf.IDE
+IDE DATA\MAPS\VC\lawyers\lawyers.IDE
+#IDE DATA\MAPS\VC\leveldes\seabed.ide
+IDE DATA\MAPS\VC\littleha\littleha.IDE
+IDE DATA\MAPS\VC\mall\mall.IDE
+IDE DATA\MAPS\VC\mansion\mansion.IDE
+IDE DATA\MAPS\VC\nbeach\nbeach.IDE
+IDE DATA\MAPS\VC\nbeachbt\nbeachbt.IDE
+IDE DATA\MAPS\VC\nbeachw\nbeachw.IDE
+IDE DATA\MAPS\VC\oceandn\oceandn.IDE
+IDE DATA\MAPS\VC\oceandrv\oceandrv.IDE
+IDE DATA\MAPS\VC\stadint\stadint.IDE
+IDE DATA\MAPS\VC\starisl\starisl.IDE
+IDE DATA\MAPS\VC\stripclb\stripclb.IDE
+IDE DATA\MAPS\VC\washintn\washintn.IDE
+IDE DATA\MAPS\VC\washints\washints.IDE
+IDE DATA\MAPS\VC\yacht\yacht.IDE
+
+#LC
+IDE DATA\MAPS\LC\gta3.ide
+IDE DATA\MAPS\LC\lcgeneric.ide
+IDE DATA\MAPS\LC\bistro\bistro.ide
+IDE DATA\MAPS\LC\comNbtm\comNbtm.ide
+IDE DATA\MAPS\LC\comNtop\comNtop.ide
+IDE DATA\MAPS\LC\comroad\comroad.ide
+IDE DATA\MAPS\LC\comSE\comSE.ide
+IDE DATA\MAPS\LC\comSW\comSW.ide
+IDE DATA\MAPS\LC\delorean\delorean.ide
+IDE DATA\MAPS\LC\indroads\indroads.ide
+IDE DATA\MAPS\LC\LCindust\LCindust.ide
+#IDE DATA\MAPS\LC\industNE\industNE.ide
+#IDE DATA\MAPS\LC\industNW\industNW.ide
+#IDE DATA\MAPS\LC\industSE\industSE.ide
+#IDE DATA\MAPS\LC\industSW\industSW.ide
+IDE DATA\MAPS\LC\landNE\landNE.ide
+IDE DATA\MAPS\LC\landSW\landSW.ide
+IDE DATA\MAPS\LC\making\making.ide
+IDE DATA\MAPS\LC\seafloor\seafloor.ide
+IDE DATA\MAPS\LC\subroads\subroads.IDE
+#IDE DATA\MAPS\LC\temppart\temppart.ide
+IDE DATA\MAPS\LC\lc_roads.ide
+IDE DATA\MAPS\EXTRAS\Odds\Odds.ide
+
+# have to load map.zon before any of the IPLs
+IPL DATA\MAP.ZON
+# IPL DATA\NAVIG.ZON
+IPL DATA\INFO.ZON
+
+#
+# Scene information
+#
+
+SPLASH loadsc2
+
+#SA
+IPL DATA\MAPS\LA\LAn.IPL
+IPL DATA\MAPS\LA\LAn2.IPL
+IPL DATA\MAPS\LA\LAs.IPL
+IPL DATA\MAPS\LA\LAs2.IPL
+IPL DATA\MAPS\LA\LAe.IPL
+IPL DATA\MAPS\LA\LAe2.IPL
+IPL DATA\MAPS\LA\LAw.IPL
+IPL DATA\MAPS\LA\LAwn.IPL
+IPL DATA\MAPS\LA\LAw2.IPL
+IPL DATA\MAPS\LA\LAhills.IPL
+IPL DATA\MAPS\SF\SFn.IPL
+IPL DATA\MAPS\SF\SFs.IPL
+IPL DATA\MAPS\SF\SFse.IPL
+IPL DATA\MAPS\SF\SFe.IPL
+IPL DATA\MAPS\SF\SFw.IPL
+IPL DATA\MAPS\vegas\vegasN.IPL
+IPL DATA\MAPS\vegas\vegasS.IPL
+IPL DATA\MAPS\vegas\vegasE.IPL
+IPL DATA\MAPS\vegas\vegasW.IPL
+IPL DATA\MAPS\country\countryN.IPL
+IPL DATA\MAPS\country\countN2.IPL
+IPL DATA\MAPS\country\countrys.IPL
+IPL DATA\MAPS\country\countryE.IPL
+IPL DATA\MAPS\country\countryW.IPL
+
+#VC Map
+IPL DATA\MAPS\VC\airport\airport.IPL
+IPL DATA\MAPS\VC\airportN\airportN.IPL
+IPL DATA\MAPS\VC\bank\bank.IPL
+IPL DATA\MAPS\VC\bridge\bridge.IPL
+IPL DATA\MAPS\VC\cisland\cisland.IPL
+IPL DATA\MAPS\VC\club\club.IPL
+IPL DATA\MAPS\VC\concerth\concerth.IPL
+IPL DATA\MAPS\VC\docks\docks.IPL
+IPL DATA\MAPS\VC\downtown\downtown.IPL
+IPL DATA\MAPS\VC\downtows\downtows.IPL
+IPL DATA\MAPS\VC\golf\golf.IPL
+IPL DATA\MAPS\VC\haiti\haiti.IPL
+IPL DATA\MAPS\VC\haitin\haitin.IPL
+IPL DATA\MAPS\VC\hotel\hotel.IPL
+IPL DATA\MAPS\VC\islandsf\islandsf.IPL
+IPL DATA\MAPS\VC\lawyers\lawyers.IPL
+#IPL DATA\MAPS\VC\leveldes\seabed.IPL
+#no collision file in seabed
+IPL DATA\MAPS\VC\littleha\littleha.IPL
+IPL DATA\MAPS\VC\mall\mall.IPL
+IPL DATA\MAPS\VC\mansion\mansion.IPL
+IPL DATA\MAPS\VC\nbeach\nbeach.IPL
+IPL DATA\MAPS\VC\nbeachbt\nbeachbt.IPL
+IPL DATA\MAPS\VC\nbeachw\nbeachw.IPL
+IPL DATA\MAPS\VC\oceandn\oceandn.IPL
+IPL DATA\MAPS\VC\oceandrv\oceandrv.IPL
+IPL DATA\MAPS\VC\stadint\stadint.IPL
+IPL DATA\MAPS\VC\starisl\starisl.IPL
+IPL DATA\MAPS\VC\stripclb\stripclb.IPL
+IPL DATA\MAPS\VC\washintn\washintn.IPL
+IPL DATA\MAPS\VC\washints\washints.IPL
+IPL DATA\MAPS\VC\yacht\yacht.IPL
+
+#VC Generics
+IPL DATA\MAPS\VC\VC_generics0.ipl
+IPL DATA\MAPS\VC\VC_generics1.ipl
+IPL DATA\MAPS\VC\VC_generics2.ipl
+IPL DATA\MAPS\VC\VC_generics3.ipl
+IPL DATA\MAPS\VC\VC_generics4.ipl
+
+#New VC Seabed Collision
+IPL DATA\MAPS\Extras\seabed\vcSB.ipl
+
+#LC Map
+
+# STAUNTON
+IPL DATA\MAPS\LC\comNbtm\comNbtm.IPL
+IPL DATA\MAPS\LC\comNtop\comNtop.IPL
+IPL DATA\MAPS\LC\comSE\comSE.IPL
+IPL DATA\MAPS\LC\comSW\comSW.IPL
+IPL DATA\MAPS\LC\bistro\bistro.ipl
+# PORTLAND
+IPL DATA\MAPS\LC\industNE\industNE.IPL
+IPL DATA\MAPS\LC\industNW\industNW.IPL
+IPL DATA\MAPS\LC\industSE\industSE.IPL
+IPL DATA\MAPS\LC\industSW\industSW.IPL
+# SHORESIDE VALE
+IPL DATA\MAPS\LC\landNE\landNE.IPL
+IPL DATA\MAPS\LC\landSW\landSW.IPL
+
+#Gens
+#LC Generics
+IPL DATA\MAPS\LC\LC_generics0.ipl
+IPL DATA\MAPS\LC\LC_generics1.ipl
+IPL DATA\MAPS\LC\LC_generics2.ipl
+
+# Extra
+#IPL DATA\MAPS\LC\making\making.IPL
+IPL DATA\MAPS\LC\seafloor\seafloor.IPL
+IPL DATA\MAPS\LC\overview.IPL
+#IPL DATA\MAPS\LC\temppart\temppart.IPL
+#IPL DATA\MAPS\LC\delorean\delorean.IPL
+IPL DATA\MAPS\Extras\lcCliffs\lcCliffs.ipl
+
+#LC Roads
+IPL DATA\MAPS\LC\lc_roads.IPL
+
+#IPL DATA\MAPS\LC\subroads\subroads.IPL
+#IPL DATA\MAPS\LC\comroad\comroad.IPL
+#IPL DATA\MAPS\LC\indroads\indroads.IPL
+
+# interiors
+IPL DATA\MAPS\interior\int_LA.IPL
+IPL DATA\MAPS\interior\int_SF.IPL
+IPL DATA\MAPS\interior\int_veg.IPL
+IPL DATA\MAPS\interior\int_cont.IPL
+IPL DATA\MAPS\interior\gen_int1.IPL
+IPL DATA\MAPS\interior\gen_int2.IPL
+IPL DATA\MAPS\interior\gen_intb.IPL
+IPL DATA\MAPS\interior\gen_int3.IPL
+IPL DATA\MAPS\interior\gen_int4.IPL
+IPL DATA\MAPS\interior\gen_int5.IPL
+IPL DATA\MAPS\interior\stadint.IPL
+IPL DATA\MAPS\interior\savehous.IPL
+
+# level design
+#new Seabed
+IPL DATA\MAPS\Extras\seabed\fullseabed.ipl
+#IPL DATA\MAPS\Extras\seabed\fullseabed1.ipl
+#IPL DATA\MAPS\Extras\seabed\fullseabed2.ipl
+#IPL DATA\MAPS\Extras\seabed\fullseabed3.ipl
+
+IPL DATA\MAPS\leveldes\levelmap.IPL
+IPL DATA\MAPS\leveldes\seabed.IPL
+IPL DATA\MAPS\Extras\Odds\Odds.ipl
+IPL DATA\MAPS\Extras\Odds\Odds_gen.ipl
+IPL DATA\MAPS\Extras\vclcEnex.ipl
+IPL DATA\MAPS\paths.ipl
+IPL DATA\MAPS\paths2.ipl
+IPL DATA\MAPS\paths3.ipl
+IPL DATA\MAPS\paths4.ipl
+IPL DATA\MAPS\paths5.ipl
+IPL DATA\MAPS\cull.ipl
+IPL DATA\MAPS\tunnels.ipl
+IPL DATA\MAPS\occluSF.ipl
+IPL DATA\MAPS\occluveg.ipl
+IPL DATA\MAPS\occluLA.ipl
+IPL DATA\MAPS\occluint.ipl
+IPL DATA\MAPS\audiozon.ipl
+#IPL DATA\MAPS\Extras\LC_Occlu.ipl
+#IPL DATA\MAPS\Extras\VC_Occlu.ipl
+IPL DATA\MAPS\Extras\LC_Cull.ipl
+IPL DATA\MAPS\Extras\VC_Cull.ipl
+IPL DATA\MAPS\Extras\vclcAuzo.ipl
+#
+#  Interiors
+#
+SPLASH loadsc4

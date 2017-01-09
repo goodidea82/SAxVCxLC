@@ -1,0 +1,105 @@
+#############################################################################
+# CheatStrings.dat                                                          #
+# For: GTA San Andreas                                                      #
+# stores cheat strings.                                                     #
+# Requires Cheat strings loader 1.0 / fastman92 limit adjuster or higher    #
+# created by fastman92                                                      #
+#############################################################################
+
+# Format:
+# Cheat ID		Cheat string		Description (ignored comment)
+
+# Cheat string must have 6-30 characters!
+
+0,	ThugsArmoury				# Weapon Set 1
+1,	ProfessionalsKit			# Weapon Set 2
+2,	NuttersToys					# Weapon Set 3
+3,	INeedSomeHelp				# Health, Armor,$250k
+4,	TurnUpTheHeat				# Wanted level 2 stars
+5,	TurnDownTheHeat				# Clear wanted level
+6,	PleasantlyWarm				# Sunny weather
+7,	TooDamnHot					# Very sunny weather
+8,	DullDullDay					# Overcast weather
+9,	StayInAndWatchTV			# Rainy weather
+10,	CantSeeWhereImGoing			# Foggy weather
+11,	TimeJustFliesBy				# Faster clock
+12,	SpeedItUp					# Faster gameplay
+13,	SlowItDown					# Slower gameplay
+14,	RoughNeighbourhood			# Peds attack other with golfclub
+15,	StopPickingOnMe				# Have a bounty on your head
+16,	SurroundedByNutters			# Everyone armed
+17,	TimeToKickAss				# Spawn Rhino
+18,	OldSpeedDemon				# Spawn Bloodring Banger
+19,	DoughnutHandicap			# Spawn Rancher
+20,	NotForPublicRoads			# Spawn Hotring A
+21,	JustTryAndStopMe			# Spawn Hotring B
+22,	WheresTheFuneral			# Spawn Romero
+23,	CelebrityStatus				# Spawn Stretch
+24,	TrueGrime					# Spawn Trashmaster
+25,	18Holes						# Spawn Caddy
+26,	AllCarsGoBoom				# Blow up all cars
+27,	WheelsOnlyPlease			# Invisible car
+28,	StickLikeGlue				# Perfect handling
+29,	GoodbyeCruelWorld			# Suicide
+30,	DontTryAndStopMe			# All green lights
+31,	AllDriversAreCriminals		# Aggressive drivers
+32,	PinkIsTheNewCool			# Pink traffic
+33,	SoLongAsItsBlack			# Black traffic
+34,	CarsOnWater					# Cars on water
+35,	FlyingFish					# Boats fly
+36,	WhoAteAllThePies			# Fat player
+37,	BuffMeUp					# Max muscle
+38,	LeanAndMean					# Skinny player
+39,	BlueSuedeShoes				# Elvis is everywhere
+40,	AttackOfTheVillagePeople	# Peds attack you with rockets
+41,	LifesABeach					# Beach party
+42,	OnlyHomiesAllowed			# Gang members everywhere
+43,	BetterStayIndoors			# Gangs controls the streets
+44,	NinjaTown					# Ninja theme
+45,	LoveConquersAll				# Slut magnet
+46,	EveryoneIsPoor				# Cheap traffic
+47,	EveryoneIsRich				# Fast traffic
+48,	ChittyChittyBangBang		# Cars fly
+49,	CJPhoneHome					# Huge bunny hop
+50,	JumpJet						# Spawn Hydra
+51,	IWantToHover				# Spawn Vortex
+52,	TouchMyCarYouDie			# Smash n' boom
+53,	SpeedFreak					# All cars have nitro
+54,	BubbleCars					# Cars float away when hit
+55,	NightProwler				# Always midnight
+56,	DontBringOnTheNight			# Stop game clock orange sky
+57,	ScottishSummer				# Thunder storm
+58,	SandInMyEars				# Sand storm
+59,								# Unused
+60,	Kangaroo					# Mega jump
+61,	NoOneCanHurtMe				# Infinite health
+62,	ManFromAtlantis				# Infinite oxygen
+63,	LetsGoBaseJumping			# Get parachute
+64,	Rocketman					# Get jetpack
+65,	IDoAsIPlease				# Never wanted
+66,	BringItOn					# Six wanted stars
+67,	StingLikeABee				# Mega punch
+68,	IAmNeverHungry				# Never get hungry
+69,	StateOfEmergency			# Riot mode
+70,	CrazyTown					# Funhouse theme
+71,	TakeAChillPill				# Adrenaline mode
+72,	FullClip					# Infinite ammo
+73,	IWannaDriveBy				# Weapon aiming while driving
+74,	GhostTown					# Reduced traffic
+75,	HicksVille					# Country traffic
+76,	WannaBeInMyGang				# Recruit anyone (9mm)
+77,	NoOneCanStopUs				# Country cars and peds
+78,	RocketMayhem				# Recruit anyone (rockets)
+79,	WorshipMe					# Max respect
+80,	HelloLadies					# Max sex appeal
+81,	ICanGoAllNight				# Max stamina
+82,	ProfessionalKiller			# Hitman level for all weapons
+83,	NaturalTalent				# Max driving skills
+84,	OhDude						# Spawn Hunter
+85,	FourWheelFun				# Spawn Quad
+86,	HitTheRoadJack				# Spawn Tanker Truck
+87,	ItsAllBull					# Spawn Dozer
+88,	FlyingToStunt				# Spawn Stunt Plane
+89,	MonsterMash					# Spawn Monster
+90,  							# Unused
+91,								# Unused

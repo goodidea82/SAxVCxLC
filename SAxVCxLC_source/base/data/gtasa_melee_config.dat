@@ -1,0 +1,30 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply new melee combo types
+
+#
+# MALEE COMBO TYPES
+#-----------------------------------------------
+#	A:		int meleeComboTypeID
+#	B:		string meleeComboTypeName
+#
+# Weapons with statIndex specified will require poor, standard and professional line in weapon.dat.
+# Additionally the weapons with statIndex specified and which derive from PISTOL will also require special line.
+#
+
+# IDs 0 to 3 are reserved for internal game usage
+
+# meleeComboType
+# A   B
+4     UNARMED_1
+5     UNARMED_2
+6     UNARMED_3
+7     UNARMED_4
+8     BBALLBAT
+9     KNIFE
+10    GOLFCLUB
+11    SWORD
+12    CHAINSAW
+13    DILDO
+14    FLOWERS
+15    KICK_STD
+16    PISTOL_WHIP

@@ -1,0 +1,24 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply the carriage types
+#
+# Type 0 to 7 is used by NPC train on track 0
+# Type 8 to 9 is used by NPC tram on track 1
+
+# Type ID, followed by vehicle names
+
+0 freight freiflat freiflat freiflat freiflat
+1 streak streakc streakc
+2 streak streakc streakc
+3 freight freiflat freiflat freiflat
+4 streak streakc streakc
+5 streak streakc streakc streakc
+6 freight freiflat freiflat
+7 streak streakc streakc
+8 tram tram
+9 tram
+10 freight freiflat
+11 streak streakc streakc
+12 freight freiflat freiflat freiflat freight
+13 freight freiflat freiflat freiflat freiflat freiflat
+14 tram
+15 streak
