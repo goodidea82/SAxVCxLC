@@ -1,0 +1,3 @@
+-create "vice.img" "2"
+-importFromDirectory "vice_img_src"
+-close
