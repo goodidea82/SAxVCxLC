@@ -1,0 +1,57 @@
+{$CLEO}
+0000: NOP          // pusta instrukcja nie wykonujaca zadnej operacji, uzywana, by zapobiec bledowi "Jump to 0 offset" - skok do zerowego offsetu w pliku, powodujacy rozpoczecie nowej gry
+03A4: name_thread 'WATERFIX'
+
+:LOOP_1
+0006: 0@ = 0
+0002: jump @LOOP_2
+
+:LOOP_2
+0001: wait 100
+00D6: if
+0256:   player $PLAYER_CHAR defined
+004D: jump_if_false @LOOP_2
+00D6: if
+00EC:   actor $PLAYER_ACTOR sphere 0 near_point 7961.392 8362.012 radius 2500.0 2500.0          // zasieg obszaru LC
+004D: jump_if_false @LOOP_6
+00A0: get_char_coordinates $PLAYER_ACTOR store_to 1@ 2@ 3@
+00D6: if
+0023:   -3.0 > 3@
+004D: jump_if_false @LOOP_6
+0002: jump @LOOP_3
+
+:LOOP_3
+00D6: if
+00DF:   actor $PLAYER_ACTOR driving
+004D: jump_if_false @LOOP_4
+03C0: 4@ = actor $PLAYER_ACTOR car
+00D6: if
+02BF:   car 4@ sunk
+004D: jump_if_false @LOOP_4
+0002: jump @LOOP_2
+
+:LOOP_4
+00D6: if
+04AD:   actor $PLAYER_ACTOR in_water
+004D: jump_if_false @LOOP_5
+0002: jump @LOOP_2
+
+:LOOP_5
+00D6: if
+0039:   0@ == 0
+004D: jump_if_false @LOOP_6
+0A8C: write_memory 0xC228A0 size 1 value 1 virtual_protect 0          // zmiana pliku "water.dat" na plik "water1.dat"
+0AA5: call 0x006EAE80 _readWaterDat num_params 0 pop 0          // przeladowanie i odczyt pliku "water1.dat"
+0A8C: write_memory 0xC228A0 size 1 value 0 virtual_protect 0          // powrot do pliku "water.dat" (domyslnego) - w razie gdyby nowa gra rozpoczynala sie pod woda
+0006: 0@ = 1
+0002: jump @LOOP_2
+
+:LOOP_6
+00D6: if and
+0039:   0@ == 1
+0031:   3@ >= -3.0
+004D: jump_if_false @LOOP_2
+0A8C: write_memory 0xC228A0 size 1 value 0 virtual_protect 0          // zmiana pliku "water1.dat" na plik "water.dat"
+0AA5: call 0x006EAE80 _readWaterDat num_params 0 pop 0          // przeladowanie i odczyt pliku "water.dat"
+0006: 0@ = 0
+0002: jump @LOOP_2
