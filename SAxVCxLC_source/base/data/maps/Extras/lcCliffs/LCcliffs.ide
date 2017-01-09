@@ -1,0 +1,336 @@
+objs
+26350, lc_clif2_20, gtaiii, 300, 0
+
+26351, lc_clif2_21, gtaiii, 300, 0
+
+26352, lc_clif2_22, gtaiii, 300, 0
+
+26353, lc_clif2_32, gtaiii, 300, 0
+
+26354, lc_clif3_6, gtaiii, 300, 0
+
+26355, lc_clif3_18, gtaiii, 300, 0
+
+26356, lc_clif2_1, gtaiii, 300, 0
+
+26357, lc_clif2_2, gtaiii, 300, 0
+
+26358, lc_clif2_3, gtaiii, 300, 0
+
+26359, lc_clif2_4, gtaiii, 300, 0
+
+26360, lc_clif2_5, gtaiii, 300, 0
+
+26361, lc_clif2_6, gtaiii, 300, 0
+
+26362, lc_clif2_7, gtaiii, 300, 0
+
+26363, lc_clif2_8, gtaiii, 300, 0
+
+26364, lc_clif2_9, gtaiii, 300, 0
+
+26365, lc_clif2_10, gtaiii, 300, 0
+
+26366, lc_clif2_11, gtaiii, 300, 0
+
+26367, lc_clif2_12, gtaiii, 300, 0
+
+26368, lc_clif2_13, gtaiii, 300, 0
+
+26369, lc_clif2_14, gtaiii, 300, 0
+
+26370, lc_clif2_15, gtaiii, 300, 0
+
+26371, lc_clif2_16, gtaiii, 300, 0
+
+26372, lc_clif2_17, gtaiii, 300, 0
+
+26373, lc_clif2_18, gtaiii, 300, 0
+
+26374, lc_clif2_019, gtaiii, 300, 0
+
+26375, lc_clif2_19, gtaiii, 300, 0
+
+26376, lc_clif3_1, gtaiii, 300, 0
+
+26377, lc_clif3_2, gtaiii, 300, 0
+
+26378, lc_clif3_003, gtaiii, 300, 0
+
+26379, lc_clif3_3, gtaiii, 300, 0
+
+26380, lc_clif3_4, gtaiii, 300, 0
+
+26381, lc_clif3_005, gtaiii, 300, 0
+
+26382, lc_clif3_7, gtaiii, 300, 0
+
+26383, lc_clif3_8, gtaiii, 300, 0
+
+26384, lc_clif3_009, gtaiii, 300, 0
+
+26385, lc_clif3_9, gtaiii, 300, 0
+
+26386, lc_clif3_010, gtaiii, 300, 0
+
+26387, lc_clif3_10, gtaiii, 300, 0
+
+26388, lc_clif3_011, gtaiii, 300, 0
+
+26389, lc_clif3_11, gtaiii, 300, 0
+
+26390, lc_clif3_012, gtaiii, 300, 0
+
+26391, lc_clif3_12, gtaiii, 300, 0
+
+26392, lc_clif3_013, gtaiii, 300, 0
+
+26393, lc_clif3_13, gtaiii, 300, 0
+
+26394, lc_clif3_014, gtaiii, 300, 0
+
+26395, lc_clif3_14, gtaiii, 300, 0
+
+26396, lc_clif3_015, gtaiii, 300, 0
+
+26397, lc_clif3_15, gtaiii, 300, 0
+
+26398, lc_clif3_016, gtaiii, 300, 0
+
+26399, lc_clif3_16, gtaiii, 300, 0
+
+26400, lc_clif3_017, gtaiii, 300, 0
+
+26401, lc_clif3_019, gtaiii, 300, 0
+
+26402, lc_clif3_20, gtaiii, 300, 0
+
+26403, lc_clif3_21, gtaiii, 300, 0
+
+26404, lc_clif3_22, gtaiii, 300, 0
+
+26405, lc_clif3_23, gtaiii, 300, 0
+
+26406, lc_clif3_24, gtaiii, 300, 0
+
+26407, lc_clif3_25, gtaiii, 300, 0
+
+26408, lc_newclifbit1, gtaiii, 300, 0
+
+26409, lc_newclifbit2, gtaiii, 300, 0
+
+26410, lc_newclifbit3, gtaiii, 300, 0
+
+26411, lc_newclifbit4, gtaiii, 300, 0
+
+26412, lc_newclifbit5, gtaiii, 300, 0
+
+26413, lc_newclifbit6, gtaiii, 300, 0
+
+26414, lc_newclifbit7, gtaiii, 300, 0
+
+26415, lc_newclifbit8, gtaiii, 300, 0
+
+26416, lc_clif3_22a, gtaiii, 300, 0
+
+26417, lc_clif3_21a, gtaiii, 300, 0
+
+26418, lc_clif3_20a, gtaiii, 300, 0
+
+26419, lc_clif2_30, gtaiii, 300, 0
+
+26420, lc_clif2_23, gtaiii, 300, 0
+
+26421, lc_clif2_24, gtaiii, 300, 0
+
+26422, lc_clif2_25, gtaiii, 300, 0
+
+26423, lc_clif2_26, gtaiii, 300, 0
+
+26424, lc_clif2_027, gtaiii, 300, 0
+
+26425, lc_clif2_27, gtaiii, 300, 0
+
+26426, lc_clif2_28, gtaiii, 300, 0
+
+26427, lc_clif2_29, gtaiii, 300, 0
+
+26428, lc_clif2_31, gtaiii, 300, 0
+
+26429, lc_platland3, gtaiii, 300, 0
+
+26430, lc_platland4, gtaiii, 300, 0
+
+26431, lc_clif3_17a, gtaiii, 300, 0
+
+26432, lc_clif3_17, gtaiii, 300, 0
+
+26433, lodclif2_7, gtaiii, 2000, 0
+
+26434, lodclif2_9, gtaiii, 2000, 0
+
+26435, lodclif2_32, gtaiii, 2000, 0
+
+26436, lodclif2_1, gtaiii, 2000, 0
+
+26437, lodclif3_18, gtaiii, 2000, 0
+
+26438, lodclif2_5, gtaiii, 2000, 0
+
+26439, lodclif2_8, gtaiii, 2000, 0
+
+26440, lodclif2_12, gtaiii, 2000, 0
+
+26441, lodclif2_10, gtaiii, 2000, 0
+
+26442, lodclif2_11, gtaiii, 2000, 0
+
+26443, lodclif2_6, gtaiii, 2000, 0
+
+26444, lodclif2_4, gtaiii, 2000, 0
+
+26445, lodclif2_3, gtaiii, 2000, 0
+
+26446, lodclif2_2, gtaiii, 2000, 0
+
+26447, lodclif2_22, gtaiii, 2000, 0
+
+26448, lodclif3_6, gtaiii, 2000, 0
+
+26449, lodclif2_20, gtaiii, 2000, 0
+
+26450, lodclif2_21, gtaiii, 2000, 0
+
+26451, lodclif2_13, gtaiii, 2000, 0
+
+26452, lodclif2_14, gtaiii, 2000, 0
+
+26453, lodclif2_15, gtaiii, 2000, 0
+
+26454, lodclif2_16, gtaiii, 2000, 0
+
+26455, lodclif2_17, gtaiii, 2000, 0
+
+26456, lodclif2_18, gtaiii, 2000, 0
+
+26457, lodclif2_019, gtaiii, 2000, 0
+
+26458, lodclif2_19, gtaiii, 2000, 0
+
+26459, lodclif3_1, gtaiii, 2000, 0
+
+26460, lodclif3_2, gtaiii, 2000, 0
+
+26461, lodclif3_003, gtaiii, 2000, 0
+
+26462, lodclif3_3, gtaiii, 2000, 0
+
+26463, lodclif3_4, gtaiii, 2000, 0
+
+26464, lodclif3_005, gtaiii, 2000, 0
+
+26465, lodclif3_7, gtaiii, 2000, 0
+
+26466, lodclif3_8, gtaiii, 2000, 0
+
+26467, lodclif3_009, gtaiii, 2000, 0
+
+26468, lodclif3_9, gtaiii, 2000, 0
+
+26469, lodclif3_010, gtaiii, 2000, 0
+
+26470, lodclif3_10, gtaiii, 2000, 0
+
+26471, lodclif3_011, gtaiii, 2000, 0
+
+26472, lodclif3_11, gtaiii, 2000, 0
+
+26473, lodclif3_012, gtaiii, 2000, 0
+
+26474, lodclif3_12, gtaiii, 2000, 0
+
+26475, lodclif3_013, gtaiii, 2000, 0
+
+26476, lodclif3_13, gtaiii, 2000, 0
+
+26477, lodclif3_014, gtaiii, 2000, 0
+
+26478, lodclif3_14, gtaiii, 2000, 0
+
+26479, lodclif3_015, gtaiii, 2000, 0
+
+26480, lodclif3_15, gtaiii, 2000, 0
+
+26481, lodclif3_016, gtaiii, 2000, 0
+
+26482, lodclif3_16, gtaiii, 2000, 0
+
+26483, lodclif3_017, gtaiii, 2000, 0
+
+26484, lodclif3_019, gtaiii, 2000, 0
+
+26485, lodclif3_20, gtaiii, 2000, 0
+
+26486, lodclif3_21, gtaiii, 2000, 0
+
+26487, lodclif3_22, gtaiii, 2000, 0
+
+26488, lodclif3_23, gtaiii, 2000, 0
+
+26489, lodclif3_24, gtaiii, 2000, 0
+
+26490, lodclif3_25, gtaiii, 2000, 0
+
+26491, lodnewclifbit1, gtaiii, 2000, 0
+
+26492, lodnewclifbit2, gtaiii, 2000, 0
+
+26493, lodnewclifbit3, gtaiii, 2000, 0
+
+26494, lodnewclifbit4, gtaiii, 2000, 0
+
+26495, lodnewclifbit5, gtaiii, 2000, 0
+
+26496, lodnewclifbit6, gtaiii, 2000, 0
+
+26497, lodnewclifbit7, gtaiii, 2000, 0
+
+26498, lodnewclifbit8, gtaiii, 2000, 0
+
+26499, lodclif3_22a, gtaiii, 2000, 0
+
+26500, lodclif3_21a, gtaiii, 2000, 0
+
+26501, lodclif3_20a, gtaiii, 2000, 0
+
+26502, lodclif2_30, gtaiii, 2000, 0
+
+26503, lodclif2_23, gtaiii, 2000, 0
+
+26504, lodclif2_24, gtaiii, 2000, 0
+
+26505, lodclif2_25, gtaiii, 2000, 0
+
+26506, lodclif2_26, gtaiii, 2000, 0
+
+26507, lodclif2_027, gtaiii, 2000, 0
+
+26508, lodclif2_27, gtaiii, 2000, 0
+
+26509, lodclif2_28, gtaiii, 2000, 0
+
+26510, lodclif2_29, gtaiii, 2000, 0
+
+26511, lodclif2_31, gtaiii, 2000, 0
+
+26512, lodplatland3, gtaiii, 2000, 0
+
+26513, lodplatland4, gtaiii, 2000, 0
+
+26514, lodclif3_17a, gtaiii, 2000, 0
+
+26515, lodclif3_17, gtaiii, 2000, 0
+
+end
+tobj
+end

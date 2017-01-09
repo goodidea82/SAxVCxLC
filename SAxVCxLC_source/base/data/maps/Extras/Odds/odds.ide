@@ -1,0 +1,18 @@
+objs
+26516, empirestatetop, cempirest, 152, 0
+26517, skyscrapenewtop, cskydark, 200, 0
+26518, csky_skyscrp26btop, cskydark, 200, 0
+26519, lc_playerintwall, playerint, 200, 0
+26520, lc_indnewroof, inditaly1, 300, 0
+26521, vc_bankroof, habuildblok, 149, 128
+26522, doontoon22_top, dt_shops1, 299, 0
+26523, doontoon39_top, dt_qbert, 299, 0
+26524, newwaterplane, newwaterplane, 149, 128
+26614, Xnbt_chaseroom, nbtrooftop, 150, 128
+26615, mob_detailscuts, mob_detailscuts, 30, 2097184
+26616, concerth27_fence, bakstgstuff, 200, 2097188
+26617, dts_bbdoor0, dts_grassbits, 200, 4
+end
+tobj
+end
+
