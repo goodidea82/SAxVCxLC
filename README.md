@@ -34,22 +34,22 @@ Thanks Rock* Games
 
 # Installation
 1. Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
-2. Click on Install.bat and follow the instructions there.
+2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
 # Remarks for developers
 ## Principles
-* Original game must remain fully playable and modable (backwards compatible with mods)
-* Modifications should be published as external mods. This helps to advertise SAxVCxLC and everybody can customize it as they want.
+* Original game must remain fully playable and modable (backwards compatible with older mods)
+* Modifications should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want.
 
 ## GitHub
-* Practice Git and GitHub on first on a hello-world project.
+* Practice Git and GitHub on a hello-world project first.
 * To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-* GIT CONFIGURATION on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
+* Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
 * Do not upload big files on GitHub. The purpuse of Git is to keep track of many small files. Maxium allowed project size on GitHub is 1000 GB. 
 * Let us not use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
 
 ## File structure and installation scripts
-* The installation uses BAT files. It is horrible BUT nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor).
+* The installation uses BAT files. It is horrible BUT it has the advantages that nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor).
 * Read the installation scripts (.bat files) carefully to understand what is happening. Read also .gitignore, and xcopy_exclude.txt
 * Read SAxVCxLC_source\Readme.txt
 
