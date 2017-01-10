@@ -53,6 +53,11 @@ Thanks Rock* Games
 * Read the installation scripts (.bat files) carefully to understand what is happening. Read also .gitignore, and xcopy_exclude.txt
 * Read SAxVCxLC_source\Readme.txt
 
+## Updating files during development
+* The script copyOnlyNewerFiles.bat uses InstallSettings.bat to update only modified files. This means you can place files in the source directories and run the script. Eventually the scripts in toolsForInstallation must be updated.
+* When satisfies do not forget to add the files to git and push them to your git branch.
+
+
 
 
 
