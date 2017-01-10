@@ -36,6 +36,8 @@ Thanks Rock* Games
 1. Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
 2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
+If the installation script closes without asking to press a button (enter), then something went wrong. In this case run the script from cmd.exe so that the commandline window does not close and you can see what were the last words the script said.
+
 # Remarks for developers
 ## Principles
 * Original game must remain fully playable and modable (backwards compatible with older mods)

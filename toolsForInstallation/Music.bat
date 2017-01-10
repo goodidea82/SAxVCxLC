@@ -81,7 +81,7 @@ REM del SAxVCxLC_source\music\CLEO\CLEO_SOUND\LC\*.mp3
 :finish
 REM SET /P a=Press enter...
 
-EXIT
+exit /b
 
 REM ===========================
 REM This is a helper function that performs the download, extracts music files, and copies them to subfolders of SAxVCxLC_source\music\CLEO.
