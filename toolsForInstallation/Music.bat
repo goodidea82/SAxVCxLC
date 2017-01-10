@@ -34,7 +34,7 @@ REM Remark: At the end of the URLs you must change dl=0 to dl=1
 call :downloadExtractMP3 "https://www.dropbox.com/s/wffa3f47mcqdn19/STATIC.7z?dl=1" \CLEO_SOUND Static
 
 call :downloadExtractMP3 "https://www.dropbox.com/s/vu9v44x10t72i7a/CHAT.7z?dl=1" \CLEO_SOUND\LC CHAT
-goto :skipFiles
+REM goto :skipFiles
 
 call :downloadExtractMP3 "https://www.dropbox.com/s/98qcmxehbe7v2x1/CLASS.7z?dl=1" \CLEO_SOUND\LC CLASS
 call :downloadExtractMP3 "https://www.dropbox.com/s/o4tkov5ldfvluxn/FLASHB.7z?dl=1" \CLEO_SOUND\LC FLASHB

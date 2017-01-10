@@ -1,5 +1,5 @@
 # WARNING
-This repository is not ready yet to be used! We are still uploading and preparing files.
+This version of SAxVCxLC and the installation still needs to be tested.
 ------------------
 (Installation see below)
 
