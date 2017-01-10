@@ -6,4 +6,9 @@ REM GitHub does not allow to upload the full img files. Also the idea of GitHub 
 set toolsForInstDir=%CD%\toolsForInstallation
 set thisDir=%CD%
 REM Take a look at the file SAxVCxLC_source\base\models\create_img_archives.txt to see which archives are create and from which source files.
+if not exist "%CD%\SAxVCxLC_source\base\models\create_img_archives.txt" (
+	echo ERROR: The tile is missing: "%CD%\SAxVCxLC_source\base\models\create_img_archives.txt"
+	echo IMG archives will not be created.
+	SET /P a=Press enter to continue...
+)
 "%toolsForInstDir%\fastman92ImgConsole32.exe" -script "%CD%\SAxVCxLC_source\base\models\create_img_archives.txt"
