@@ -57,26 +57,10 @@ call :downloadExtractMP3 "https://www.dropbox.com/s/zppiojkfhbi943t/WILD.7z?dl=0
 
 REM Downloading from GoogleDrive did not work for me, despite trying these instructions: http://unix.stackexchange.com/questions/136371/how-to-download-a-folder-from-google-drive-using-terminal
 REM call :downloadExtractMP3 "https://drive.google.com/uc?export=download&id=0Bys8vEqMtLu-REN2dlAxSEFrS0k" \CLEO_SOUND Static
-REM call :downloadExtractMP3 "https://drive.google.com/open?export=download&id=0Bys8vEqMtLu-R2p1S3REdjF4eFU" \CLEO_SOUND\LC CHAT
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-dnJqd1pUeXE5V0E" \CLEO_SOUND\LC CLASS
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-a1lhcjN4MnBDVXM" \CLEO_SOUND\LC FLASHB
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-ak9BMnpWbkZlNzA" \CLEO_SOUND\LC GAME
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-V01tdEFoV3FJM00" \CLEO_SOUND\LC HEAD
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-anRmOGc2d1FBaWs" \CLEO_SOUND\LC KJAH
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-NkVoclM0bFVSN2M" \CLEO_SOUND\LC LIPS
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-T1JXa2xlNXpLWDQ" \CLEO_SOUND\LC MSX
-REM call :downloadExtractMP3 "https://drive.google.com/open?id=0Bys8vEqMtLu-amxtOFA1SUZrT0E" \CLEO_SOUND\LC RISE
-
-REM call :downloadExtractMP3 "" \CLEO_SOUND\LC 
 
 :skipFiles
 
-goto :finish
-
-
-
-
-
+REM goto :finish
 
 REM copy files
 if "%useModLoader%"=="1" (
@@ -95,11 +79,12 @@ REM del SAxVCxLC_source\music\CLEO\CLEO_SOUND\VC\*.mp3
 REM del SAxVCxLC_source\music\CLEO\CLEO_SOUND\LC\*.mp3
 
 :finish
-SET /P a=Press enter...
+REM SET /P a=Press enter...
 
 EXIT
 
-REM ------------------------------
+REM ===========================
+REM This is a helper function that performs the download, extracts music files, and copies them to subfolders of SAxVCxLC_source\music\CLEO.
 :downloadExtractMP3
 set dwLink=%1
 set folder=%2

@@ -18,7 +18,8 @@ REM xcopy requires that the full path is provided to xcopy_exclude and that no s
 for %%A in ("%CD%\toolsForInstallation\xcopy_exclude.txt") do set exclude=%%~sA
 set exclude=/EXCLUDE:%exclude%
 
-REM The buildIMGarchives creates .img files in the folder SAxVCxLC_source\base\models from the files in the folders ending with _img_src. GitHub does not allow to upload the full img files. Also the idea of GitHub is to work with smaller files, so that individual files can be easily updated and tracked without causing much data traffic and storage.
+REM The buildIMGarchives creates .img files in the folder SAxVCxLC_source\base\models from the files in the folders ending with _img_src. 
+REM GitHub does not allow to upload the full img files. Also the idea of GitHub is to work with smaller files, so that individual files can be easily updated and tracked without causing much data traffic and storage.
 call buildIMGarchives.bat
 
 REM Some xcopy options.
@@ -28,11 +29,11 @@ REM Y= Use this option to stop the xcopy command from prompting you about overwr
 REM D=  Use the xcopy command with /d option and a specific date, in MM-DD-YYYY format, to copy files changed on or after that date. You can also use this option without specifying a specific date to copy only those files in source that are newer than the same files that already exist in destination. This is helpful when using the xcopy command to perform regular file backups.
 
 if "%useModLoader%"=="1" (
-	REM echo ModLoader version is not implemented yet. TODO update Standard.bat.
-	echo Copy essential scripts
+	REM Prepare directories
     mkdir "%toDir%\modloader\SAxVCxLC"
 	mkdir "%toDir%\modloader\SAxVCxLC\models"
 	mkdir "%toDir%\modloader\SAxVCxLC\data"
+	REM Copy files and folders
 	 copy     %XCPYOptions% "%fromDir%\base\models\gta3_img_changes.txt" "%toDir%\models\gta3_img_changes.txt"	
 	xcopy     %XCPYOptions% %exclude% "%fromDir%\base\*"        "%toDir%\*"
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\models\*" "%toDir%\modloader\SAxVCxLC\models\*"	

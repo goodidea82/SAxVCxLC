@@ -23,11 +23,11 @@ echo exclude=%exclude%
 
 call toolsForInstallation\Music.bat %1 %2 %3
 
-exit 
-
 call toolsForInstallation\Base.bat %1 %2 %3
 
-
+REM ------------------------------------------
+REM Install files from SAxVCxLC_source\extras
+REM If modloader is used then the extras are copied to GTASAroot\modloader\SAxVCxLC
 if "%useModLoader%"=="1" (
 	echo toDir=%toDir%\modloader\SAxVCxLC
 ) 
