@@ -13,13 +13,13 @@ PlatinumSerb
 ## Credits/Special Thanks:
 * fastman92 - Limit Adjuster, Debugging 
 * goodidea82 - Infrastructure, Installation
+* artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 * GTA: Liberty City Team - Use of GTA:LC map
 * OpenVice(NTAuthority) - Use of Vice City map
 * Silent - ASI Loader and Extended Gangs ASI
 * _F_ - use of GTA VC cars Converted to SA
 * CJ2000 - use of GTA VC and III vehicles
-* artginPL - ENEX/Interior Markers
 * Kam - Kam's Max Scripts 
 * Deniska - 3dmax script pack
 * x-men - 3dmax scripts/IMG Manager
