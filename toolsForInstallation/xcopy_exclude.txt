@@ -1,4 +1,4 @@
-create_img_archives.txt
+create_img_archive
 _img_src
 .7z
 createZipFiles.bat

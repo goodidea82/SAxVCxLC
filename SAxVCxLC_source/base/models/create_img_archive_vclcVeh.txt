@@ -1,0 +1,4 @@
+-openOrCreate "vclcVeh.img" "2"
+-importFromDirectory "vclcVeh_img_src"
+-rebuildIfArchiveWasModified
+-close

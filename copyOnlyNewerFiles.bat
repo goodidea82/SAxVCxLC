@@ -68,6 +68,7 @@ if "%Variant%"=="1" (call toolsForInstallation\Standard.bat %xcpyOpt% %useModLoa
 if "%Variant%"=="2" (call toolsForInstallation\Basic.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
 if "%Variant%"=="3" (call toolsForInstallation\MTA.bat %xcpyOpt% %useModLoader% "%GTASAroot%")
 
+echo Warning: timestamp uses minutes for comparison. You have to wait at least a minute before updating a file.
 SET /P a=Press a key...
 EXIT
 

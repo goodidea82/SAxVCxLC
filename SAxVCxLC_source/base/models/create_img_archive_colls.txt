@@ -1,0 +1,4 @@
+-openOrCreate "colls.img" "2"
+-importFromDirectory "colls_img_src"
+-rebuildIfArchiveWasModified
+-close

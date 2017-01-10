@@ -1,0 +1,4 @@
+-openOrCreate "vice.img" "2"
+-importFromDirectory "vice_img_src"
+-rebuildIfArchiveWasModified
+-close

@@ -1,0 +1,4 @@
+-openOrCreate "newADD.img" "2"
+-importFromDirectory "newADD_img_src"
+-rebuildIfArchiveWasModified
+-close

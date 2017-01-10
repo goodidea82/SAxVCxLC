@@ -1,0 +1,4 @@
+-openOrCreate "liberty.img" "2"
+-importFromDirectory "liberty_img_src"
+-rebuildIfArchiveWasModified
+-close
