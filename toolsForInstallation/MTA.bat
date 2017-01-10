@@ -12,7 +12,7 @@ set toDir=%3
 set toDir=%toDir:"=%
 echo fromDir=%fromDir%
 echo toDir=%toDir%
-set exclude=/EXCLUDE:%CD%\toolsForInstallation\xcopy_exclude.txt
+set exclude=/EXCLUDE:"%CD%\toolsForInstallation\xcopy_exclude.txt"
 
 echo ERROR: MTA.bat is not implemented yet.
 SET /P a=Press a key...

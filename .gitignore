@@ -1,5 +1,7 @@
-InstallationSettings.bat
+InstallSettings.bat
 
+*.mp3
+*.7z
 *.img
 colls.img
 liberty.img

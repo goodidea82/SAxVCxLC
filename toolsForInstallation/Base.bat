@@ -12,7 +12,12 @@ set toDir=%3
 set toDir=%toDir:"=%
 echo fromDir=%fromDir%
 echo toDir=%toDir%
-set exclude=/EXCLUDE:%CD%\toolsForInstallation\xcopy_exclude.txt
+REM xcopy requires that the full path is provided to xcopy_exclude and that no spaces are used in the path. See here: http://stackoverflow.com/questions/1333589/how-do-i-transform-the-working-directory-into-a-8-3-short-file-name-using-batch
+for %%A in ("%CD%\toolsForInstallation\xcopy_exclude.txt") do set exclude=%%~sA
+set exclude=/EXCLUDE:%exclude%
+
+
+call buildIMGarchives.bat
 
 REM Some xcopy options.
 REM S= Use this option to copy directories, subdirectories, and the files contained within them, in addition to the files in the root of source. Empty folders will not be recreated.
@@ -34,4 +39,4 @@ if "%useModLoader%"=="1" (
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\*" "%toDir%\*"
 )
 
-REM SET /P a=Press a key...
+REM SET /P a=Press enter...
