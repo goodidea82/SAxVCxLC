@@ -1,21 +1,28 @@
 -openOrCreate "colls.img" "2"
 -importFromDirectory "colls_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "liberty.img" "2"
 -importFromDirectory "liberty_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "newADD.img" "2"
 -importFromDirectory "newADD_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "paths.img" "2"
 -importFromDirectory "paths_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "radar24000.img" "2"
 -importFromDirectory "radar24000_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "vclcVeh.img" "2"
 -importFromDirectory "vclcVeh_img_src"
+-rebuildIfArchiveWasModified
 -close
 -openOrCreate "vice.img" "2"
 -importFromDirectory "vice_img_src"
+-rebuildIfArchiveWasModified
 -close
