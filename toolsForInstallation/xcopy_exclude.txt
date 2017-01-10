@@ -1,2 +1,4 @@
 _img_src
 .7z
+createZipFiles.bat
+openZipFiles.bat

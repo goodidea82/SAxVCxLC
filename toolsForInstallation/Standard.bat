@@ -13,6 +13,8 @@ set toDir=%3
 set toDir=%toDir:"=%
 echo fromDir=%fromDir%
 echo toDir=%toDir%
+
+REM The installation script uses xcopy to install files. Some files that should not be copied are specified in xcopy_exclude.txt.  For example folders of the form "_img_src" and ".7z" files.
 REM xcopy requires that the full path is provided to xcopy_exclude and that no spaces are used in the path. See here: http://stackoverflow.com/questions/1333589/how-do-i-transform-the-working-directory-into-a-8-3-short-file-name-using-batch
 for %%A in ("%CD%\toolsForInstallation\xcopy_exclude.txt") do set exclude=%%~sA
 set exclude=/EXCLUDE:%exclude%
