@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 REM The buildIMGarchives creates .img files in the folder SAxVCxLC_source\base\models from the files in the folders ending with _img_src. 
 REM The file is located here, so that developers of SAxVCxLC can easily update an .img archive and install it using copyOnlyNewerFiles.bat.
@@ -32,9 +32,9 @@ if not exist "%imgDir%\%archiveName%.img" (
 REM If the archive already exists, then tind the newest file in the _img_src folder and the .img archive itself. The newest file will be returned.
 REM See: http://ss64.com/nt/dir.html  
 for /f "tokens=*" %%a in ('dir "%imgDir%\%archiveName%_img_src" /S /T:W /b /o:d') do set newestInDir=%%a
-echo Newest file:%newestInDir%
+echo Newest file:"%newestInDir%"
 REM Get the time stamps
-FOR %%i IN (%newestInDir%) DO SET DATE1=%%~ti
+FOR %%i IN ("%newestInDir%") DO SET DATE1=%%~ti
 echo DATE1=%DATE1%
 FOR %%i IN ("%imgDir%\%archiveName%.img") DO SET DATE2=%%~ti
 echo DATE2=%DATE2%

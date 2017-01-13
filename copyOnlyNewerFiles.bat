@@ -13,7 +13,12 @@ if exist InstallSettings.bat (
 )
 
 REM --------------------------------------
+REM Remove spaces at the end of the path, because the path will be extended with additional file/directory names
 call :Trim GTASAroot %GTASAroot%
+
+REM Remove quotes from the string in GTASAroot, because quotes will be added later.
+set GTASAroot=%GTASAroot:"=%
+
 if "%GTASAroot%"=="" (
 	echo GTASAroot is not set in InstallSettings.bat 
 	SET /P a=Press a key...
