@@ -1,4 +1,4 @@
-@echo on
+@echo off
 
 REM The buildIMGarchives creates .img files in the folder SAxVCxLC_source\base\models from the files in the folders ending with _img_src. 
 REM The file is located here, so that developers of SAxVCxLC can easily update an .img archive and install it using copyOnlyNewerFiles.bat.
