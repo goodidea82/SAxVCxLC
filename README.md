@@ -51,7 +51,7 @@ If the installation script closes without asking to press a button (enter), then
 * Let's try not to use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
 
 ## File structure and installation scripts
-* The installation uses BAT files. It is horrible BUT it has the advantages that nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor).
+* The installation uses BAT files. It is horrible BUT it has the advantages that nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor). Learn a few basics about batch programming: https://en.wikibooks.org/wiki/Windows_Batch_Scripting
 * Read the installation scripts (.bat files) carefully to understand what is happening. Read also .gitignore, and xcopy_exclude.txt
 * Read SAxVCxLC_source\Readme.txt
 
