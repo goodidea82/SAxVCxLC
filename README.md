@@ -44,7 +44,7 @@ If the installation script closes without asking to press a button (enter), then
 * Modifications and additions should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. We will provide a list of mods that link to SAxVCxLC on GitHub.
 
 ## GitHub
-* Create your GitHub account, then practice Git and GitHub on a hello-world project first.
+* Create your GitHub account, then practice Git and GitHub on a hello-world project first. You should understand (git add, git commit, git push, git pull)
 * Click on "Fork" to create your own personal branch that you can work on. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
 * To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 * Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
@@ -58,8 +58,9 @@ If the installation script closes without asking to press a button (enter), then
 * Read SAxVCxLC_source\Readme.txt
 
 ## Updating files during development
-* The script copyOnlyNewerFiles.bat uses InstallSettings.bat to update only modified files. This means you can place files in the source directories and run the script. Eventually the scripts in toolsForInstallation must be updated.
-* When satisfies do not forget to add the files to git and push them to your git branch.
+* The script copyOnlyNewerFiles.bat uses InstallSettings.bat to update only modified files. This means you can place files in the source directories and run the script. However, the file timestamp uses minutes not seconds. If you update files more frequently then a minute, then IMG files will not be recreated.
+* When you make changes then eventually you will have to update the installation scripts in toolsForInstallation.
+* Do not forget to add files to git and push them to your git branch.
 
 
 
