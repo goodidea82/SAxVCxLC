@@ -41,14 +41,16 @@ If the installation script closes without asking to press a button (enter), then
 # Remarks for developers
 ## Principles
 * Original game must remain fully playable and modable (backwards compatible with older mods)
-* Modifications should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want.
+* Modifications and additions should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. We will provide a list of mods that link to SAxVCxLC.
 
 ## GitHub
-* Practice Git and GitHub on a hello-world project first.
+* Create your GitHub account, then practice Git and GitHub on a hello-world project first.
+* How to contribute. Click on "Fork" to create your own branch that you can work on. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
 * To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 * Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
 * Do not upload big files on GitHub. The purpuse of Git is to keep track of many small files. Maxium allowed project size on GitHub is 1000 GB. 
 * Let's try not to use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
+* Pull updates from the master branch frequently to reduce the risk of version conflicts.
 
 ## File structure and installation scripts
 * The installation uses BAT files. It is horrible BUT it has the advantages that nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor). Learn a few basics about batch programming: https://en.wikibooks.org/wiki/Windows_Batch_Scripting
