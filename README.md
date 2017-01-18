@@ -41,6 +41,8 @@ If the installation script closes without asking to press a button (enter), then
 # Remarks for developers
 ## Principles
 * Original game must remain fully playable and modable (backwards compatible with older mods)
+** Do not add/removed/modify objects in the SA map area, and also not modify the VC or LC maps (only map fixes allowed).
+** All object IDs that were free in original SA game must remain free after SAxVCxLC installation. Do not use IDs in the range 0-20000.
 * Modifications and additions should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. We will provide a list of mods that link to SAxVCxLC on GitHub.
 
 ## GitHub
