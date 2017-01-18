@@ -1,5 +1,5 @@
 # WARNING
-This version of SAxVCxLC and the installation still needs to be tested.
+This version of SAxVCxLC and the installation are still work-in-progress. Some things do not work yet.
 ------------------
 (Installation see below)
 
