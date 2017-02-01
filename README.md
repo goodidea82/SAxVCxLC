@@ -11,7 +11,7 @@ See: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
 PlatinumSerb
 
 ## Credits/Special Thanks:
-* fastman92 - Limit Adjuster, Debugging 
+* fastman92 - Limit Adjuster, IMG Console, Debugging 
 * goodidea82 - Infrastructure, Installation
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
