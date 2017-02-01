@@ -40,10 +40,11 @@ If the installation script closes without asking to press a button (enter), then
 
 # Remarks for developers of SAxVCxLC
 ## Principles
-* Original game must remain fully playable and modable (backwards compatible with older mods)
+* Original SA game must remain fully playable and modable (backwards compatible with older mods)
   * Do not add/removed/modify objects in the SA map area, and also not modify the VC or LC maps (only map fixes allowed).
   * All object IDs that were free in original SA game must remain free after SAxVCxLC installation. Do not use IDs in the range 0-20000.
-* Modifications and additions should be published as external mods. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. We will provide a list of mods that link to SAxVCxLC on GitHub.
+* SAxVCxLC must be as close as possible to the original games under all aspects. The goal is to provide a clean basis for modding and improvements. Modifications and additions of any kind should be published on external websites as mods for SAxVCxLC. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. Here we can provide a list of mods on other websites that link to SAxVCxLC on GitHub.
+* It is possible to create a spin-off project (e.g. an HD-version, or super modded version) by forking (without creating a pull-request back). This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC.
 
 ## GitHub
 * Create your GitHub account, then practice Git and GitHub on a hello-world project first. You should understand (git add, git commit, git push, git pull)
