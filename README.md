@@ -5,7 +5,8 @@ This version of SAxVCxLC and the installation are still work-in-progress. Some t
 
 # SAxVCxLC
 Adds the GTA Vice City and Liberty City maps into GTA San Andreas. GTA SA remains fully playable and modable: mods for SA work also with SAxVCxLC. SAxVCxLC is clean basis for modding by external mods.
-See: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
+
+For discussions, see: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
 
 ## Main Author:
 PlatinumSerb
