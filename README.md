@@ -4,7 +4,7 @@ This version of SAxVCxLC and the installation are still work-in-progress. Some t
 (Installation see below)
 
 # SAxVCxLC
-Adds the GTA Vice City and Liberty City maps into GTA San Andreas. GTA SA remains fully playable and modable: mods for SA work also with SAxVCxLC.
+Adds the GTA Vice City and Liberty City maps into GTA San Andreas. GTA SA remains fully playable and modable: mods for SA work also with SAxVCxLC. SAxVCxLC is clean basis for modding by external mods.
 See: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
 
 ## Main Author:
@@ -33,18 +33,20 @@ PlatinumSerb
 Thanks Rock* Games
 
 # Installation
-1. Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
+1. Two different ways exist to download the project:
+  * Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
+  * Recommended: Install a git client on your computer and checkout the project using git. When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again).
 2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
 If the installation script closes without asking to press a button (enter), then something went wrong. In this case run the script from cmd.exe so that the commandline window does not close and you can see what were the last words the script said.
 
 # Remarks for developers of SAxVCxLC
 ## Principles
-* Original SA game must remain fully playable and modable (backwards compatible with older mods)
-  * Do not add/removed/modify objects in the SA map area, and also not modify the VC or LC maps (only map fixes allowed).
+* SAxVCxLC is a clean basis for modding by external mods. That means SAxVCxLC should be as close as possible to the original games without additions or modifications (except for cases where every user agrees). The look-and-feel of the games shall remain original. Contributing to SAxVCxLC means to fix bugs; add missing things; and improve compatibility, modularity, flexibility, transparency. Ideally all missions from VC and LC should be ported one day. Additional Rockstar maps may be added. In particular, original SA game must remain fully playable and modable at all times (backwards compatible with older mods). Things to keep in mind, for example:
+  * Do not add/removed/modify objects in the SA map area.
   * All object IDs that were free in original SA game must remain free after SAxVCxLC installation. Do not use IDs in the range 0-20000.
-* SAxVCxLC must be as close as possible to the original games under all aspects. The goal is to provide a clean basis for modding and improvements. Modifications and additions of any kind should be published on external websites as mods for SAxVCxLC. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. Here we can provide a list of mods on other websites that link to SAxVCxLC on GitHub.
-* It is possible to create a spin-off project (e.g. an HD-version, or super modded version) by forking (without creating a pull-request back). This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC.
+* Additions, modification, HD-content, scripts, etc for SAxVCxLC are very welcome in form of external mods. Many GTA-specialized websites exists where you can publish a mod for SAxVCxLC. In your mod provide a link to this GitHub page to download SAxVCxLC. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. Here we can provide a list of the mods that link to SAxVCxLC on GitHub.
+* It is also possible to create a spin-off project if publishing a mod for SAxVCxLC is not a suitable solution of some reason (e.g. a super modded version). This can be done by forking to create a derived GitHub project without creating a pull-request back. This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC.
 
 ## GitHub
 * Create your GitHub account, then practice Git and GitHub on a hello-world project first. You should understand (git add, git commit, git push, git pull)
