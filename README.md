@@ -35,8 +35,8 @@ Thanks Rock* Games
 
 # Installation
 1. Two different ways exist to download the project:
-  * Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
-  * Alternative: Install a git client on your computer and checkout the project using git. When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+  * Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC/releases. Extract the Zip file.
+  * Alternative: Install a git client on your computer and checkout the project using git. When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). However, not officially released versions are for development and may be not stable. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
 If the installation script closes without asking to press a button (enter), then something went wrong. In this case run the script from cmd.exe so that the commandline window does not close and you can see what were the last words the script said.
