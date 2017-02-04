@@ -36,18 +36,18 @@ Thanks Rock* Games
 # Installation
 1. Two different ways exist to download the project:
   * Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC. Extract the Zip file.
-  * Alternative (recommended): Install a git client on your computer and checkout the project using git. When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+  * Alternative: Install a git client on your computer and checkout the project using git. When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
 If the installation script closes without asking to press a button (enter), then something went wrong. In this case run the script from cmd.exe so that the commandline window does not close and you can see what were the last words the script said.
 
 # Remarks for developers of SAxVCxLC
 ## Principles
-* SAxVCxLC is a clean basis for modding by external mods (see item below). That means SAxVCxLC should be as close as possible to the original games without additions or modifications (except where every user agrees). The look-and-feel of the games shall remain original. Contributing to SAxVCxLC means to fix bugs; add missing things; and improve compatibility, modularity, flexibility, transparency. Ideally all missions from VC and LC should be ported one day. Additional Rockstar maps may be added. In particular, original SA game must remain fully playable and modable at all times (backwards compatible with older mods). Things to keep in mind, for example:
+* SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as possible to the original games and modification or additions shall be provided as external mods (except for few cases where every user agrees). The look-and-feel of the games shall remain original. Contributing to SAxVCxLC means to fix bugs; add missing things; and improve compatibility, modularity, and flexibility. Ideally all missions from VC and LC should be ported one day. Additional Rockstar maps may be added. In particular, original SA game must remain fully playable and modable at all times (backwards compatible with older mods). Things to keep in mind, for example:
   * Do not add/removed/modify objects in the SA map area.
   * All object IDs that were free in original SA game must remain free after SAxVCxLC installation. Do not use IDs in the range 0-20000.
   * The number of weapons, peds, cars, objects, etc. should be fixed some day (when all original things are ported). This important so that modders that provide external mods will know what are the IDs of objects for which they can provide improved versions and what are the remaining free IDs for new objects.
-* Additions, modification, HD-content, scripts, etc for SAxVCxLC are very welcome as external mods. Many GTA-specialized websites exists where you can publish mods. In your mod provide a Readme.txt with a link to this GitHub page to download SAxVCxLC and the version of SAxVCxLC. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. Here we can provide a list of mods that link to SAxVCxLC on GitHub.
+* Additions, modification, HD-content, scripts, etc for SAxVCxLC are very welcome and should be provided as external mods. Many GTA-specialized websites exists where you can publish mods. In your mod provide a Readme.txt with a link to a release version on this GitHub. This helps to advertise SAxVCxLC on other websites and everybody can customize it as they want. Here we can provide a list of mods that link to SAxVCxLC on GitHub.
 * It is also possible to create a spin-off project if publishing a mod for SAxVCxLC is not a suitable solution for some reason (e.g. a super modded version). This can be done by using "fork" to create a derived GitHub project without creating a pull-request back. This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC.
 
 ## GitHub
