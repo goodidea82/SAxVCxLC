@@ -25,9 +25,9 @@ if "%GTASAroot%"=="" (
 	exit
 )
 
-if not exist %GTASAroot%\GTA_SA.exe (
+if not exist "%GTASAroot%\GTA_SA.exe" (
 	echo.
-	echo %GTASAroot%\GTA_SA.exe DOES NOT EXIST. The path in InstallSettings.bat is probably wrong or not set. Run Install.bat again to create InstallSettings.bat.
+	echo "%GTASAroot%\GTA_SA.exe" DOES NOT EXIST. The path in InstallSettings.bat is probably wrong or not set. Run Install.bat again to create InstallSettings.bat.
 	echo.
 	SET /P a=Press a key...
 	exit

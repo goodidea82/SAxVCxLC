@@ -1,5 +1,6 @@
 create_img_archive
 _img_src
+_paths_src
 .7z
 createZipFiles.bat
 openZipFiles.bat
