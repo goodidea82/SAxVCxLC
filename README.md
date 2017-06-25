@@ -85,8 +85,8 @@ For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-sa
 * Missions that have been tested successfully: ("OG LOC")
 
 ## Problems with external mods
-* Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
-** Dkpacc22 Hud
-** Fasman92 Car Spawner
+Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
+* Dkpacc22 Hud
+* Fasman92 Car Spawner
 
 
