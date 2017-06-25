@@ -77,6 +77,7 @@ Warning: collaborative work on SAxVCxLC via GitHub is perhaps not ready yet and 
 SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
 * *Error 0x5380C3 trying to load object instance with undefined ID* Fix: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069668668
 * FastmanLimitAdjuster92.log says "Error, model hash 0x81AC51E7 is declared on multiple IDs: 384, 385, 386, 387, 388, 389, 390, 391, 392, 393,". SAxVCxLC contains a fix for that, this means that your the installation did not work completely. See also: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/page-76#entry1069287124
+* Fastman92LimitAdjuster.log says "Error 0x4087EA, file with undefined ID requested:" and "Last file to be loaded: data\shopping.dat". See: fastman92limitAdjuster_GTASA.ini, section [MAP LIMITS], items "Paths map size" and "Radar map size".
 
 ## Problems with savegames or original missions 
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
