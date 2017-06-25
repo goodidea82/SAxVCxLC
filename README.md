@@ -72,7 +72,21 @@ Warning: collaborative work on SAxVCxLC via GitHub is perhaps not ready yet and 
 * When you make changes then eventually you will have to update the installation scripts in toolsForInstallation.
 * Do not forget to add files to git and push them to your git branch.
 
+# Troubleshooting, Errors, FAQs
+## Problems after clean installation
+SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
+* *Error 0x5380C3 trying to load object instance with undefined ID* Fix: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069668668
+* FastmanLimitAdjuster92.log says "Error, model hash 0x81AC51E7 is declared on multiple IDs: 384, 385, 386, 387, 388, 389, 390, 391, 392, 393,". SAxVCxLC contains a fix for that, this means that your the installation did not work completely. See also: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/page-76#entry1069287124
 
+## Problems with savegames or original missions 
+* About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
+After completing a missing using "All Mission Access Mod v1.2" I think it is not safe to create savegame from that state.
+For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069680402
+* Missions that have been tested successfully: ("OG LOC")
 
+## Problems with external mods
+* Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
+** Dkpacc22 Hud
+** Fasman92 Car Spawner
 
 
