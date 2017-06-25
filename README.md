@@ -88,7 +88,7 @@ For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-sa
 Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 * Dkpacc22 Hud
 * Fasman92 Car Spawner
-See also here: http://gtaforums.com/topic/883865-gta-underground-compatible-modifications-thread/
+* A list with mods that are incompatible due to FLA exist also in another similar project: http://gtaforums.com/topic/883865-gta-underground-compatible-modifications-thread/
 
 
 
