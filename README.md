@@ -83,7 +83,7 @@ SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVC
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
 After completing a missing using "All Mission Access Mod v1.2" I think it is not safe to create savegame from that state.
 For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069680402
-* Missions that have been tested successfully: ("OG LOC")
+* Missions that have been tested successfully: ("OG LOC", "Saint Mark's Bistro")
 
 ## Problems with external mods
 Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
