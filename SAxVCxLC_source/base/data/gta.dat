@@ -109,7 +109,7 @@ IDE DATA\MAPS\VC\haitin\haitin.IDE
 IDE DATA\MAPS\VC\hotel\hotel.IDE
 IDE DATA\MAPS\VC\islandsf\islandsf.IDE
 IDE DATA\MAPS\VC\lawyers\lawyers.IDE
-#IDE DATA\MAPS\VC\leveldes\seabed.ide
+#IDE DATA\MAPS\VC\leveldes\vcseabed.ide
 IDE DATA\MAPS\VC\littleha\littleha.IDE
 IDE DATA\MAPS\VC\mall\mall.IDE
 IDE DATA\MAPS\VC\mansion\mansion.IDE
@@ -204,7 +204,7 @@ IPL DATA\MAPS\VC\haitin\haitin.IPL
 IPL DATA\MAPS\VC\hotel\hotel.IPL
 IPL DATA\MAPS\VC\islandsf\islandsf.IPL
 IPL DATA\MAPS\VC\lawyers\lawyers.IPL
-#IPL DATA\MAPS\VC\leveldes\seabed.IPL
+#IPL DATA\MAPS\VC\leveldes\vcseabed.IPL
 #no collision file in seabed
 IPL DATA\MAPS\VC\littleha\littleha.IPL
 IPL DATA\MAPS\VC\mall\mall.IPL
