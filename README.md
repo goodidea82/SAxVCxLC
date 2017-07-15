@@ -106,7 +106,7 @@ Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 * Fasman92 Car Spawner, (Dicussion: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/?p=1069690850)
 * A list with mods that are incompatible due to FLA exist also in another similar project: http://gtaforums.com/topic/883865-gta-underground-compatible-modifications-thread/
 
-#Mods for SAxVCxLC (specifically adjusted)
+# Mods for SAxVCxLC (specifically adjusted)
 SAxVCxLC is compatible with most mods for normal SA. Below is a list of mods that are specially adjusted or created for SAxVCxLC.
 * Project Props (http://gtaforums.com/topic/885393-project-props/)
 
