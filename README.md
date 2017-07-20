@@ -35,10 +35,12 @@ PlatinumSerb
 * x-men - 3dmax scripts/IMG Manager
 * CLEO Team
 * ThirteenAG - Project2dfx
-* Beckerbrasil - testing/bug reporting
 * Junior_Djjr - Overhaul of CLEO scripts
 * ZAZ - some of his CLEO mods were crucial for debugging/getting around the map.
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
+* Squad - testing/bug reporting, map fixes
+* inan.ahammad - testing/bug reporting
+* Beckerbrasil - testing/bug reporting
 
 Thanks Rock* Games
 
