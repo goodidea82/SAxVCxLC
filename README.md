@@ -35,10 +35,13 @@ PlatinumSerb
 * x-men - 3dmax scripts/IMG Manager
 * CLEO Team
 * ThirteenAG - Project2dfx
-* Beckerbrasil - testing/bug reporting
 * Junior_Djjr - Overhaul of CLEO scripts
 * ZAZ - some of his CLEO mods were crucial for debugging/getting around the map.
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
+* Squad - testing/bug reporting, map fixes
+* Crspy - modloader installation fix
+* inan.ahammad - testing/bug reporting
+* Beckerbrasil - testing/bug reporting
 
 Thanks Rock* Games
 
@@ -98,12 +101,12 @@ And here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
 After completing a missing using "All Mission Access Mod v1.2" I think it is not safe to create savegame from that state.
 For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069680402
-* Missions that have been tested successfully: ("OG LOC", "Saint Mark's Bistro")
+* Missions that sometimes work and sometimes not: ("OG LOC", "Saint Mark's Bistro")
+* Missions that have been tested successfully: 
 
 ## Problems with external mods
 Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 * Dkpacc22 Hud
-* Fasman92 Car Spawner, (Dicussion: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/?p=1069690850)
 * A list with mods that are incompatible due to FLA exist also in another similar project: http://gtaforums.com/topic/883865-gta-underground-compatible-modifications-thread/
 
 # Mods for SAxVCxLC (specifically adjusted)
