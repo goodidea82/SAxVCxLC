@@ -329,7 +329,7 @@ objs
 
 21173, dt_savedrb, dt_shops13, 80, 0
 
-21174, dt_savedra, dt_shops13, 80, 0
+21174, dt_savedra, dt_shops13, 80, 2048
 
 21175, dtn_staddoora, dt_stadium, 100, 0
 
@@ -359,9 +359,9 @@ objs
 
 21188, dtoon62_spaces, dtn_ground, 120, 4
 
-21189, dt_savedrc, dt_shops13, 100, 0
+21189, dt_savedrc, dt_shops13, 100, 2048
 
-21190, dt_savedrd, dt_shops13, 100, 0
+21190, dt_savedrd, dt_shops13, 100, 2048
 
 21191, lodntoon_top_bb, dt_LOD2, 700, 0
 

@@ -433,7 +433,7 @@ objs
 
 22101, lhblbrd3, lhblbrd3, 100, 4
 
-22102, lhtankdoor, lithablk9, 100, 128
+22102, lhtankdoor, lithablk9, 100, 2048
 
 22103, lhroofwee, lhrooft, 100, 128
 

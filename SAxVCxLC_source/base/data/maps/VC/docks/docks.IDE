@@ -389,7 +389,7 @@ objs
 
 20983, lodwaretank, lod_docks, 500, 128
 
-20984, dk_bombdoor, docksb, 40, 128
+20984, dk_bombdoor, docksb, 40, 2048
 
 20985, loddockroads01, lod_docks, 750, 128
 

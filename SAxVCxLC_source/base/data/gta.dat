@@ -312,6 +312,10 @@ IPL DATA\MAPS\audiozon.ipl
 IPL DATA\MAPS\Extras\LC_Cull.ipl
 IPL DATA\MAPS\Extras\VC_Cull.ipl
 IPL DATA\MAPS\Extras\vclcAuzo.ipl
+
+#SAxVCxLC Garages by inan.ahammad
+IPL DATA\MAPS\VC\vcx\garage.ipl
+
 #
 #  Interiors
 #
