@@ -1,443 +1,227 @@
 objs
 20789, dk_dockroads01, dockroads, 175, 0
-
 20790, dk_dockroads02, dockroads, 200, 0
-
 20791, dk_dockroads03, dockroads, 144, 0
-
 20792, dk_dockroads04, dockroads, 144, 0
-
 20793, dk_dockroads05, dockroads, 144, 0
-
 20794, dk_dockroads06, dock_bridge, 180, 0
-
 20795, docks10, docks, 250, 128
-
 20796, docks21, dockgrnd, 250, 0
-
 20797, docks29, dockgrnd, 144, 0
-
 20798, docks30, docfactories, 144, 4
-
 20799, docks31, docfactories, 100, 0
-
 20800, docks37, docfactories, 120, 128
-
 20801, docks40, docfactories, 80, 128
-
 20802, docks42, vc_dk_midbuilds, 80, 128
-
 20803, docks43, vc_dk_midbuilds, 80, 128
-
 20804, dk_dockroads08, dockroads, 144, 0
-
 20805, docks46, dk_houses, 120, 128
-
 20806, docks47, vc_dk_midbuilds, 80, 128
-
 20807, docks48, vc_dk_midbuilds, 80, 128
-
 20808, docks49, vc_dk_midbuilds, 80, 128
-
 20809, docks50, vc_dk_midbuilds, 80, 128
-
 20810, docks51, vc_dk_midbuilds, 80, 128
-
 20811, docks52, vc_dk_midbuilds, 80, 128
-
 20812, docks53, vc_dk_midbuilds, 80, 128
-
 20813, docks85, dockgrnd, 144, 0
-
 20814, docksprops04, vc_dk_midbuilds, 150, 128
-
 20815, docksprops10, crate, 50, 132
-
 20816, doc_shedbig30, docksb, 100, 128
-
 20817, boatcranelg0, crate, 50, 132
-
 20818, crgoshp010, dock_ships, 144, 132
-
 20819, cranebasea0, cranes, 135, 132
-
 20820, doc_dockwareold, docfactories, 80, 128
-
 20821, dk_waretank, crate, 75, 128
-
 20822, doc_crane_cab0, crate, 50, 132
-
 20823, boatcranesm0, crate, 50, 196
-
 20824, lodtship_structure0, lod_docks, 1000, 128
-
 20825, lodoshp010, lod_docks, 1000, 128
-
 20826, lodkcranescale0, lod_docks, 750, 128
-
 20827, lodkcranescale01, lod_docks, 750, 128
-
 20828, dockcranescale01, doccrane, 110, 132
-
 20829, doc_crane_cab01, crate, 50, 132
-
 20830, doc_crane_cab02, crate, 50, 132
-
 20831, doc_crane_cab03, crate, 50, 132
-
 20832, doc_crane_cab04, docfactories, 150, 132
-
 20833, doc_craneeggs04, doccrane, 150, 132
-
 20834, dkshipment01, crate, 50, 128
-
 20835, dockfuel02, crate, 50, 128
-
 20836, dockfuel07, docfactories, 140, 132
-
 20837, portcabgaz06, vc_dk_midbuilds, 92, 128
-
 20838, dk_cargoshp03, vc_dkcargoshp, 80, 132
-
 20839, dk_cargoshp04, vc_dkcargoshp, 80, 132
-
 20840, dk_cargoshp05, vc_dkcargoshp, 112, 132
-
 20841, dk_cargoshp10, vc_dkcargoshp, 80, 128
-
 20842, dk_cargoshp12, vc_dkcargoshp, 200, 128
-
 20843, dk_cargoshp24, vc_dkcargoshp, 96, 128
-
 20844, dk_cargoshp25, vc_dkcargoshp, 80, 128
-
 20845, dk_cargoshp28, vc_dkcargoshp, 80, 132
-
 20846, dk_cargoshp31, vc_dkcargoshp, 200, 128
-
 20847, dk_cargoshp32, vc_dkcargoshp, 80, 128
-
 20848, dk_cargoshp35, vc_dkcargoshp, 80, 128
-
 20849, dk_cargoshp40, vc_dkcargoshp, 120, 128
-
 20850, dk_cargoshp41, vc_dkcargoshp, 80, 132
-
 20851, dk_cargoshp47, vc_dkcargoshp, 80, 128
-
 20852, dk_cargoshp50, vc_dkcargoshp, 80, 128
-
 20853, dk_cargoshp51, vc_dkcargoshp, 80, 128
-
 20854, dk_cargoshp53, vc_dkcargoshp, 120, 132
-
 20855, dk_cargoshp54, vc_dkcargoshp, 100, 128
-
 20856, dk_cargoshp64, vc_dkcargoshp, 112, 128
-
 20857, dk_cargoshp66, vc_dkcargoshp, 80, 128
-
 20858, dk_cargoshp70, vc_dkcargoshp, 80, 128
-
 20859, dk_cargoshp71, vc_dkcargoshp, 80, 128
-
 20860, dk_cargoshp72, vc_dkcargoshp, 80, 128
-
 20861, dk_cargoshp73, vc_dkcargoshp, 80, 128
-
 20862, dk_cargoshp76, vc_dkcargoshp, 200, 128
-
 20863, shipstairs, vc_dkcargoshp, 200, 132
-
 20864, dk_cargoshp95, vc_dkcargoshp, 120, 128
-
 20865, dk_cargoshp100, vc_dkcargoshp, 80, 128
-
 20866, dockfence, dockfence, 80, 132
-
 20867, lodargohull2, lod_docks2, 750, 256
-
 20868, dock_camjones, dk_safecrack, 80, 128
-
 20869, lodks46, lod_docks, 750, 128
-
 20870, lodks42, lod_docks, 750, 128
-
 20871, dock_grassarea, dockgrnd, 180, 0
-
 20872, lodks47, lod_docks, 750, 128
-
 20873, lodks61, lod_docks, 750, 128
-
 20874, docksware01, docks, 150, 132
-
 20875, dk_gatebar01, vc_dk_midbuilds, 80, 128
-
 20876, dk_gatebox01, vc_dk_midbuilds, 150, 132
-
 20877, dockgate01, vc_dk_midbuilds, 150, 132
-
 20878, dockgate02, dockfence, 150, 132
-
 20879, docks92, docks, 90, 128
-
 20880, docks93, docks, 90, 128
-
 20881, docksprops11, vc_dk_midbuilds, 150, 128
-
 20882, docks95, docks, 112, 128
-
 20883, dk_gatebar02, vc_dk_midbuilds, 80, 128
-
 20884, docks96, vc_dk_midbuilds, 80, 128
-
 20885, dk_bridgesupp01, dock_bridge, 144, 128
-
 20886, dk_bridgesupp03, dock_bridge, 160, 128
-
 20887, dk_dockbridge, dock_bridge, 180, 0
-
 20888, dk_rail01, dock_bridge, 80, 0
-
 20889, dkcargohull2, vc_dkcargoshp, 200, 128
-
 20890, dk_bridgesupp04, dock_bridge, 144, 128
-
 20891, lodks28, lod_docks, 750, 128
-
 20892, lodksware01, lod_docks, 750, 128
-
 20893, lodks29, lod_docks, 750, 128
-
 20894, lodks10, lod_docks, 1000, 128
-
 20895, lodks21, lod_docks, 750, 128
-
 20896, lod_shedbig30, lod_docks, 750, 128
-
 20897, lodks30, lod_docks, 750, 128
-
 20898, loddockroads02, lod_docks, 750, 128
-
 20899, loddockroads03, lod_docks, 750, 128
-
 20900, loddockroads05, lod_docks, 750, 128
-
 20901, loddockroads04, lod_docks, 750, 128
-
 20902, lodks85, lod_docks, 750, 128
-
 20903, lodks96, lod_docks, 750, 128
-
 20904, dkshipment03, crate, 50, 128
-
 20905, dkshipment05, crate, 50, 128
-
 20906, lodhipment03, lod_docks, 500, 128
-
 20907, lodhipment01, lod_docks, 400, 128
-
 20908, lodhipment05, lod_docks, 500, 128
-
 20909, lodksprops10, lod_docks, 500, 128
-
 20910, lodksprops04, lod_docks, 500, 128
-
 20911, lod_dockwareold, lod_docks, 500, 128
-
 20912, b_hse_ext, boathouse, 144, 128
-
 20913, b_hse_pier, boathouse, 222, 128
-
 20914, boat_kb1, boathouse, 80, 128
-
 20915, boat_kb2, boathouse, 50, 161
-
 20916, lodse_pier, lod_docks, 750, 128
-
 20917, b_hse_interior, boathouse, 144, 128
-
 20918, docks28, docks, 112, 128
-
 20919, lodks40, lod_docks, 750, 128
-
 20920, lodk_grassarea, lod_docks, 750, 128
-
 20921, loddockroads06, lod_docks2, 1330, 256
-
 20922, docks32, docfactories, 100, 0
-
 20923, lodk_camjones, lod_docks, 750, 128
-
 20924, loddockbridge, lod_docks2, 1330, 256
-
 20925, lodbridgesupp01, lod_docks2, 1330, 256
-
 20926, lodbridgesupp03, lod_docks2, 1330, 256
-
 20927, lodks49, lod_docks, 750, 128
-
 20928, lodks51, lod_docks, 750, 128
-
 20929, lodks53, lod_docks, 750, 128
-
 20930, lodks43, lod_docks, 750, 128
-
 20931, lodks48, lod_docks, 750, 128
-
 20932, lodks50, lod_docks, 750, 128
-
 20933, lodks52, lod_docks, 750, 128
-
 20934, lodbridgesupp04, lod_docks2, 1330, 256
-
 20935, dk_rail02, dock_bridge, 80, 0
-
 20936, dk_rail03, dock_bridge, 80, 0
-
 20937, dk_cargoshp65, vc_dkcargoshp, 80, 128
-
 20938, dk_cargoshp01, vc_dkcargoshp, 80, 128
-
 20939, dk_cargoshp68, vc_dkcargoshp, 80, 128
-
 20940, lodcargoshp05, lod_docks2, 750, 256
-
 20941, lodcargoshp24, lod_docks2, 750, 256
-
 20942, lodcargoshp25, lod_docks2, 500, 256
-
 20943, lodcargoshp03, lod_docks2, 500, 256
-
 20944, lodcargoshp04, lod_docks2, 500, 256
-
 20945, lodcargoshp64, lod_docks2, 500, 256
-
 20946, lodcargoshp28, lod_docks2, 500, 256
-
 20947, lodcargoshp41, lod_docks2, 500, 256
-
 20948, lodcargoshp70, lod_docks2, 600, 256
-
 20949, lodcargoshp71, lod_docks2, 600, 256
-
 20950, lodcargoshp47, lod_docks2, 500, 256
-
 20951, lodcargoshp35, lod_docks2, 500, 256
-
 20952, lodcargoshp51, lod_docks2, 500, 256
-
 20953, lodcargoshp50, lod_docks2, 500, 256
-
 20954, lodcargoshp32, lod_docks2, 500, 256
-
 20955, lodcargoshp72, lod_docks2, 600, 256
-
 20956, lodcargoshp73, lod_docks2, 600, 256
-
 20957, dkglue3, dkglue, 45, 4
-
 20958, dkfirtpass2, dkglue, 50, 37
-
 20959, rustship_structure0, dock_ships, 144, 132
-
 20960, dk_waretankdoor1, crate, 75, 128
-
 20961, docksprops12, vc_dk_midbuilds, 150, 128
-
 20962, docksprops13, vc_dk_midbuilds, 150, 128
-
 20963, lodks95, lod_docks, 750, 128
-
 20964, dk_shipstair, vc_dkcargoshp, 100, 132
-
 20965, docksprops14, vc_dk_midbuilds, 150, 128
-
 20966, lodksprops14, lod_docks, 400, 128
-
 20967, dk_rail04, dock_bridge, 80, 0
-
 20968, dk_rail05, dock_bridge, 80, 0
-
 20969, dk_rail06, dock_bridge, 80, 0
-
 20970, dk_rail07, dock_bridge, 80, 0
-
 20971, lodks93, lod_docks, 750, 128
-
 20972, lodks92, lod_docks, 750, 128
-
 20973, dk_camjonesdoor, dk_safecrack, 80, 128
-
 20974, dk_paynspray, docks, 112, 128
-
-20975, dk_paynspraydoor, docks, 100, 2176
-
+20975, dk_paynspraydoor, docks, 100, 2048
 20976, b_hse_pierfence, dockfence, 160, 132
-
 20977, lodks37, lod_docks, 600, 128
-
 20978, lodse_ext, lod_docks, 750, 128
-
 20979, docksprops15, crate, 50, 132
-
 20980, docks61, dockgrnd, 144, 0
-
 20981, docks60, dockgrnd, 144, 0
-
 20982, docks62, dockgrnd, 144, 0
-
 20983, lodwaretank, lod_docks, 500, 128
-
 20984, dk_bombdoor, docksb, 40, 2048
-
 20985, loddockroads01, lod_docks, 750, 128
-
 20986, lodpaynspray, lod_docks, 750, 128
-
 20987, lodksprops15, lod_docks, 400, 128
-
 20988, lodnebasea0, lod_docks, 1000, 128
-
 20989, lodnetopa0, lod_docks, 1000, 132
-
 20990, lodkfuel02, lod_docks, 400, 128
-
 20991, lodks62, lod_docks, 750, 128
-
 20992, loddockroads08, lod_docks, 750, 128
-
 20993, lodks32, lod_docks, 750, 128
-
 20994, lodks31, lod_docks, 600, 128
-
 20995, lodks60, lod_docks, 750, 128
-
 20996, dock_props02, crate, 50, 128
-
 20997, docks10rail, docks, 150, 132
-
 20998, lodksprops11, lod_docks, 500, 128
-
 20999, dk_reef, boathouse, 50, 165
-
 21000, dkcargohull2b, vc_dkcargoshp, 200, 128
-
 21001, dkcargohull2c, vc_dkcargoshp, 200, 128
-
 21002, dk_rdsignsn, dockroads, 105, 128
-
 21003, dk_rdsignsbr, dockroads, 105, 128
-
 21004, b_hse_doors, boathouse, 100, 128
-
 21005, lodcargoshp40, lod_docks2, 500, 256
-
 21006, lodse_pierfence, lod_docks, 750, 128
-
 21007, dockgrass, dockgrass, 100, 4
-
 end
 tobj
 21008, b_hse_interiorrays, boathouse, 144, 132, 6, 21
 end
+
+
+

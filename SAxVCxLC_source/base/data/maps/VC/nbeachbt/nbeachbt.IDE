@@ -1,356 +1,180 @@
 objs
 22521, nbecland01, nbtecland, 144, 0
-
 22522, nbecland03, nbtecland, 144, 0
-
 22523, nbecland05, nbtecland, 144, 0
-
 22524, nbt_road03, vcgeneric, 144, 0
-
 22525, nbt_road05, vcgeneric, 144, 0
-
 22526, nbecland09, nbtecland, 144, 0
-
 22527, nbecland11, nbtecland, 164, 0
-
 22528, nbecland12, nbtecland, 144, 0
-
 22529, nbt_mansion01, nbt_mansion01, 112, 128
-
 22530, nbt_mansion02, nbt_mansion02, 112, 128
-
 22531, nbeachbit02, nbtsmallres, 112, 128
-
 22532, nbeachbit03, nbtsmallres, 140, 128
-
 22533, nbtshopfronts01, nbtroofnext, 144, 128
-
 22534, nbeachbit04, nbtrooftop, 200, 128
-
 22535, nbeachbit05, nbtsmallres, 112, 128
-
 22536, nbeachbit06, nbtsmallres, 112, 128
-
 22537, nbt_hotel04, nbt_hotel04, 180, 128
-
 22538, nbt_hotel02, nbt_hotel02, 144, 128
-
 22539, nbt_hotel05, nbt_hotel05, 220, 128
-
 22540, nbt_hotel01, nbt_hotel01, 112, 128
-
 22541, nbt_hotel03, nbt_hotel03, 200, 128
-
 22542, nbt_hotel06, nbt_hotel06, 112, 128
-
 22543, newbuilding01, newbuilding01, 112, 128
-
 22544, nbtshopfronts02, nbtshopfronts02, 160, 128
-
 22545, nbhospgrnd, nbhospital, 144, 128
-
 22546, lodospgrnd, LODnbeach, 750, 128
-
 22547, nbt_rooftopstart, nbtrooftop, 150, 128
-
 22548, plank01, nbtrooftop, 80, 128
-
 22549, plank02, nbtrooftop, 80, 128
-
 22550, nbt_skip, nbtrooftop, 80, 128
-
 22551, nbt_pizzaplace, nbt_pizzaplace, 144, 128
-
 22552, nbt_mansionbase01, nbt_mansionbase01, 140, 0
-
 22553, mansionfence, mansionfence, 80, 132
-
 22554, nbt_mansiontrees01, vcgeneric, 250, 132
-
 22555, nbt_mansion03, nbt_mansion03, 112, 128
-
 22556, nbt_mansionbase02, nbt_mansionbase02, 112, 0
-
 22557, nbt_mansiontrees02, vcgeneric, 250, 132
-
 22558, nbt_tikiprops01, tikiprops01, 80, 128
-
 22559, nbt_hoteltrees01, vcgeneric, 80, 132
-
 22560, nbt_hoteltrees02, vcgeneric, 80, 132
-
 22561, nbt_hotel03glass, nbt_hotel03glass, 80, 132
-
 22562, nbt_hotel07, nbt_hotel07, 112, 128
-
 22563, nbt_hotel07fence, nbt_hotel07fence, 80, 132
-
 22564, nubuilding1glass, nubuilding1glass, 80, 132
-
 22565, nbeach_police, nb_police, 112, 128
-
 22566, lodach_police, LODnbeach, 750, 128
-
 22567, nbt_hotel06balcony, nbt_hotel06balcony, 80, 132
-
 22568, nbt_mans04balcony, nbt_mans04balcony, 80, 132
-
 22569, nbeachbit03rails, nbeachbit03rails, 250, 132
-
 22570, nbecland12gates, nbecland12gates, 144, 132
-
 22571, lod_hotel04, LODnbeachbtbig, 1200, 128
-
 22572, lodcland03, LODnbeachbtbig, 1200, 128
-
 22573, lodcland05, LODnbeach, 750, 128
-
 22574, lodchbta, LODnbeach, 750, 128
-
 22575, lod_mansion01, LODnbeach, 750, 128
-
 22576, lod_mansion02, LODnbeach, 700, 128
-
 22577, lodachbit02, LODnbeach, 750, 128
-
 22578, lodachbit03, LODnbeach, 750, 128
-
 22579, lodshopfronts01, LODnbeach, 750, 128
-
 22580, lodachbit04, LODnbeach, 750, 128
-
 22581, lodachbit05, LODnbeach, 750, 128
-
 22582, lodachbit06, LODnbeach, 750, 128
-
 22583, lodcland01, LODnbeachbtbig, 1200, 128
-
 22584, lod_hotel02, LODnbeachbtbig, 1200, 128
-
 22585, lod_rooftopstart, LODnbeach, 750, 128
-
 22586, lod_hotel01, LODnbeachbtbig, 1200, 128
-
 22587, lod_hotel03, LODnbeachbtbig, 1200, 128
-
 22588, lod_hotel06, LODnbeachbtbig, 1000, 128
-
 22589, lodbuilding01, LODnbeach, 750, 128
-
 22590, lodshopfronts02, LODnbeach, 750, 128
-
 22591, lod_pizzaplace, LODnbeach, 750, 132
-
 22592, lod_mansionbase01, LODnbeach, 750, 128
-
 22593, lod_mansion03, LODnbeach, 750, 128
-
 22594, lod_mansionbase02, LODnbeach, 750, 128
-
 22595, lod_hotel07, LODnbeach, 750, 128
-
 22596, nbt_mansion04, nbt_mansion04, 112, 128
-
 22597, lod_hotel05, LODnbeachbtbig, 1200, 128
-
 22598, nbecland12bball, nbecland12bball, 80, 132
-
 22599, lodnbtroadx, LODnbeach, 750, 128
-
 22600, lodcland09, LODnbeachbtbig, 1200, 128
-
 22601, nbt_mansiontrees03, vcgeneric, 250, 132
-
 22602, nbroada1, nbtecland, 144, 0
-
 22603, lodoada1, LODnbeachbtbig, 1200, 128
-
 22604, nbt_mansiontrees04, vcgeneric, 250, 132
-
 22605, nbt_mansiontrees05, vcgeneric, 250, 132
-
 22606, nbt_mnsnwtr02, nbt_mnsnwtr, 100, 132
-
 22607, nbt_mnsnwtr01, nbt_mnsnwtr, 100, 132
-
 22608, vc_nbtroadx, nbtecland, 200, 0
-
 22609, beachbta, nbtecland, 144, 0
-
 22610, nbt_road04, vcgeneric, 144, 0
-
 22611, nbt_road02, vcgeneric, 160, 0
-
 22612, lod_road04, LODnbeach, 750, 128
-
 22613, lod_road02, LODnbeach, 750, 128
-
 22614, lodcland12, LODnbeach, 750, 128
-
 22615, jewler_shop, jwlr, 25, 33
-
 22616, jewler_opac_stf, jwlr, 100, 101
-
 22617, nbeachbit04b, nbtrooftop, 144, 128
-
 22618, lodachbit04b, LODnbeach, 750, 128
-
 22619, nbtshopfronts01b, nbtroofnext, 144, 128
-
 22620, lodshopfronts01b, LODnbeach, 750, 128
-
 22621, nbtgardoor, nbtroofnext, 144, 128
-
 22622, nbt_road01, vcgeneric, 164, 0
-
 22623, nbt_road06, vcgeneric, 144, 0
-
 22624, nbt_road07, vcgeneric, 144, 0
-
 22625, nbt_road08, vcgeneric, 144, 0
-
 22626, nbt_road09, vcgeneric, 144, 0
-
 22627, nbt_road10, vcgeneric, 144, 0
-
 22628, nbt_road11, vcgeneric, 220, 0
-
 22629, lod_road01, LODnbeach, 750, 0
-
 22630, lodcland11, LODnbeach, 750, 0
-
 22631, lod_road11, LODnbeach, 750, 0
-
 22632, lod_road10, LODnbeachbtbig, 1200, 0
-
 22633, lod_road09, LODnbeachbtbig, 1200, 0
-
 22634, lod_road06, LODnbeach, 750, 0
-
 22635, lod_road08, LODnbeachbtbig, 1200, 0
-
 22636, lod_road07, LODnbeachbtbig, 1200, 0
-
 22637, nbchbit04bgrd1, nbtrooftop, 144, 0
-
 22638, nbchbit04grd2, nbtrooftop, 144, 0
-
 22639, nbtshpfrts1bgrd, nbtroofnext, 144, 0
-
 22640, nbtshpfrnts1grd, nbtroofnext, 144, 0
-
 22641, nbtgardoor02, nbt_hotel06, 144, 128
-
 22642, nbecland10, shared_beach, 230, 0
-
 22643, nbeachsand1, shared_beach, 230, 0
-
 22644, nbeachsand2, shared_beach, 230, 0
-
 22645, beachbt, shared_beach, 230, 0
-
 22646, beachbtb, shared_beach, 230, 0
-
 22647, beachbtb2, shared_beach, 230, 0
-
 22648, nbeachsand2b, shared_beach, 230, 0
-
 22649, beachblend05, shared_beach, 299, 132
-
 22650, beachblend06, shared_beach, 299, 132
-
 22651, beachblend07, shared_beach, 299, 132
-
 22652, lodcland10, LODnbeach, 1200, 128
-
 22653, lodachsand1, LODnbeachbtbig, 1200, 128
-
 22654, lodachsand2, LODnbeachbtbig, 1200, 128
-
 22655, lodchbt, LODnbeachbtbig, 1200, 128
-
 22656, lodchbtb, LODnbeach, 1200, 128
-
 22657, lodchbtb2, LODnbeach, 1200, 128
-
 22658, lodachsand2b, LODnbeachbtbig, 1200, 128
-
 22659, nbchbtjetty01, nbchbtjetty, 80, 128
-
 22660, lodhbtjetty01, LODnbeach, 1000, 128
-
 22661, newpools, nbt_mnsnwtr, 100, 132
-
 22662, nbchbtjetty02, nbchbtjetty, 100, 128
-
 22663, lodhbtjetty02, LODnbeach, 1000, 128
-
 22664, nbtshopfronts02b, nbtshopfronts02, 144, 128
-
 22665, lodshopfronts02b, LODnbeach, 750, 128
-
 22666, lodhbit04grd2, LODnbeach, 750, 128
-
 22667, lodshpfrnts1grd, LODnbeach, 750, 128
-
 22668, lodhbit04bgrd1, LODnbeach, 750, 128
-
 22669, lodshpfrts1bgrd, LODnbeach, 750, 128
-
 22670, nbtgardoor03, nbt_mansionbase01, 144, 128
-
 22671, lodcpaynspray, LODnbeachbtbig, 790, 128
-
 22672, nbecpaynspray, nbeachpayns, 80, 128
-
-22673, nbecpnsdoor, nbeachpayns, 80, 2176
-
+22673, nbecpnsdoor, nbeachpayns, 80, 2048
 22674, nbeachwater1, nbt_mnsnwtr, 150, 132
-
 22675, nbec_divingbds, nbecdiving, 200, 128
-
 22676, nbeachvegy1, vcgeneric, 250, 132
-
 22677, nbeachvegy2, vcgeneric, 250, 132
-
 22678, nbeachbridge, nbeachbridge, 140, 0
-
 22679, nbecland014, nbtecland, 144, 0
-
 22680, nbecland013, nbtecland, 144, 0
-
 22681, nbhospgrnd02, nbhospital, 144, 0
-
 22682, nbt_hotel0402, nbt_hotel04, 180, 0
-
 22683, nbt_hotel0702, nbt_hotel07, 112, 0
-
 22684, nbt_mansion0402, nbt_mansion04, 112, 0
-
 22685, nbeach_police02, nb_police, 112, 0
-
 22686, nbt_hotel0602, nbt_hotel06, 112, 0
-
 22687, newbuilding0102, newbuilding01, 112, 0
-
 22688, nbt_hotel0302, nbt_hotel03, 200, 0
-
 22689, nbt_hotel0202, nbt_hotel02, 144, 0
-
 22690, nbt_hotel0102, nbt_hotel01, 112, 0
-
 22691, nbecbtwbrdge, nbecbtwbrdge, 220, 128
-
 22692, lodcbtwbrdge, LODnbeach, 750, 0
-
 22693, lod_road05, LODnbeachbtbig, 1200, 0
-
 22694, lod_mansion04, LODnbeach, 750, 128
-
 22695, lod_road03, LODnbeachbtbig, 1200, 0
-
 22696, nbtshopfronts02win, nbtshopfronts02, 160, 132
-
 end
 tobj
 22697, nbechneon2, nbeachneon, 290, 132, 22, 5
@@ -358,3 +182,4 @@ tobj
 22699, nbecnssignday_dy, nbeachpayns, 70, 132, 22, 5
 22700, nbecnssignight_nt, nbeachpayns, 70, 132, 22, 5
 end
+
