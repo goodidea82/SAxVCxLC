@@ -1148,9 +1148,8 @@ vgsEspdr01	 	99999.0,        99999.0         0.99,           0.1,            50.
 vgsbighngrdoor	 	99999.0,        99999.0         0.99,           0.1,            50.0,           0.0,    1.0,    0,      4,      1,      0,      0,      0.0, 0.0, 0.0,          none
 door_savhangr1	 	99999.0,        99999.0         0.99,           0.1,            50.0,           0.0,    1.0,    0,      4,      1,      0,      0,      0.0, 0.0, 0.0,          none
 door_savhangr2	 	99999.0,        99999.0         0.99,           0.1,            50.0,           0.0,    1.0,    0,      4,      1,      0,      0,      0.0, 0.0, 0.0,          none
-
 ;***********SAxLCxVC**********
-;These are the garage doors of SAxVCxLC additional.Grgx.asi required for proper funtionility of these garages. Author: inan.ahammad
+;These are the garage doors of SAxVCxLC additional.Grgx.asi required for prope funtionility of these garages.
 
 ;Vice City
 dk_bombdoor             99999.0,        99999.0         0.99,           0.1,            50.0,           0.0,    1.0,    0,      4,      1,      0,      0,      0.0, 0.0, 0.0,          none
