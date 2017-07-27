@@ -163,7 +163,7 @@ objs
 21170, lodstadium_start, dt_LOD2, 700, 0
 21171, dtn_stadspacesa, dt_stadium, 260, 4
 21172, lodd_downtown15, dt_LOD2, 700, 0
-21173, dt_savedrb, dt_shops13, 80, 0
+21173, dt_savedrb, dt_shops13, 80, 2048
 21174, dt_savedra, dt_shops13, 80, 2048
 21175, dtn_staddoora, dt_stadium, 100, 0
 21176, lodstadiumland_b, dt_LOD, 2000, 0
@@ -226,6 +226,8 @@ tobj
 21231, dt_nitelites7, dt_lites, 1000, 12, 18, 8
 21232, dt_nitelites8, dt_lites, 1000, 12, 18, 8
 end
+
+
 
 
 

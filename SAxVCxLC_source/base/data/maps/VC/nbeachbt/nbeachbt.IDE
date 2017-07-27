@@ -99,7 +99,7 @@ objs
 22618, lodachbit04b, LODnbeach, 750, 128
 22619, nbtshopfronts01b, nbtroofnext, 144, 128
 22620, lodshopfronts01b, LODnbeach, 750, 128
-22621, nbtgardoor, nbtroofnext, 144, 128
+22621, nbtgardoor, nbtroofnext, 144, 2048
 22622, nbt_road01, vcgeneric, 164, 0
 22623, nbt_road06, vcgeneric, 144, 0
 22624, nbt_road07, vcgeneric, 144, 0
@@ -119,7 +119,7 @@ objs
 22638, nbchbit04grd2, nbtrooftop, 144, 0
 22639, nbtshpfrts1bgrd, nbtroofnext, 144, 0
 22640, nbtshpfrnts1grd, nbtroofnext, 144, 0
-22641, nbtgardoor02, nbt_hotel06, 144, 128
+22641, nbtgardoor02, nbt_hotel06, 144, 2048
 22642, nbecland10, shared_beach, 230, 0
 22643, nbeachsand1, shared_beach, 230, 0
 22644, nbeachsand2, shared_beach, 230, 0
@@ -148,7 +148,7 @@ objs
 22667, lodshpfrnts1grd, LODnbeach, 750, 128
 22668, lodhbit04bgrd1, LODnbeach, 750, 128
 22669, lodshpfrts1bgrd, LODnbeach, 750, 128
-22670, nbtgardoor03, nbt_mansionbase01, 144, 128
+22670, nbtgardoor03, nbt_mansionbase01, 144, 2048
 22671, lodcpaynspray, LODnbeachbtbig, 790, 128
 22672, nbecpaynspray, nbeachpayns, 80, 128
 22673, nbecpnsdoor, nbeachpayns, 80, 2048
@@ -182,4 +182,10 @@ tobj
 22699, nbecnssignday_dy, nbeachpayns, 70, 132, 22, 5
 22700, nbecnssignight_nt, nbeachpayns, 70, 132, 22, 5
 end
+
+
+
+
+
+
 

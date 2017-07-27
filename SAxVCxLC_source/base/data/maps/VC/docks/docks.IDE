@@ -170,7 +170,7 @@ objs
 20957, dkglue3, dkglue, 45, 4
 20958, dkfirtpass2, dkglue, 50, 37
 20959, rustship_structure0, dock_ships, 144, 132
-20960, dk_waretankdoor1, crate, 75, 128
+20960, dk_waretankdoor1, crate, 75, 2048
 20961, docksprops12, vc_dk_midbuilds, 150, 128
 20962, docksprops13, vc_dk_midbuilds, 150, 128
 20963, lodks95, lod_docks, 750, 128
@@ -222,6 +222,8 @@ end
 tobj
 21008, b_hse_interiorrays, boathouse, 144, 132, 6, 21
 end
+
+
 
 
 
