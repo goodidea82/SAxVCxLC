@@ -69,9 +69,8 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 * It is also possible to create a spin-off project if publishing a mod for SAxVCxLC is not a suitable solution for some reason (e.g. a super modded version). This can be done by using "fork" to create a derived GitHub project without creating a pull-request back. This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC. The spin-off must prominently say somewhere that it is based on SAxVCxLC.
 
 ## GitHub
-Warning: collaborative work on SAxVCxLC via GitHub is perhaps not ready yet and still needs to be tested.
-* Create your GitHub account, then practice Git and GitHub on a hello-world project first. You should understand (git add, git commit, git push, git pull)
-* Click on "Fork" to create your own personal branch that you can work on. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
+* Create your GitHub account, then practice Git and GitHub on a hello-world project first. It is HIGHLY recommended to install GIT on your computer (For example: https://git-scm.com/download/win) and test it with your hello-world project. You should understand (git add, git commit, git push, git pull)
+* Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
 * To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 * Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
 * Do not upload big files on GitHub. The purpuse of Git is to keep track of many small files. Maxium allowed project size on GitHub is 1000 GB. 
