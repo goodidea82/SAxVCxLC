@@ -32,8 +32,8 @@ xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
 
 if "%useModLoader%"=="1" (
 	REM Prepare directories
-	mkdir "%toDir%\modloader
-    mkdir "%toDir%\modloader\SAxVCxLC"
+	mkdir "%toDir%\modloader"
+	mkdir "%toDir%\modloader\SAxVCxLC"
 	mkdir "%toDir%\modloader\SAxVCxLC\models"
 	mkdir "%toDir%\modloader\SAxVCxLC\data"
 	REM Copy files and folders
