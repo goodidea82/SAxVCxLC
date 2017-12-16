@@ -269,6 +269,7 @@ IPL DATA\MAPS\LC\lc_roads.IPL
 #IPL DATA\MAPS\LC\comroad\comroad.IPL
 #IPL DATA\MAPS\LC\indroads\indroads.IPL
 
+
 # interiors
 IPL DATA\MAPS\interior\int_LA.IPL
 IPL DATA\MAPS\interior\int_SF.IPL
@@ -312,8 +313,9 @@ IPL DATA\MAPS\audiozon.ipl
 IPL DATA\MAPS\Extras\LC_Cull.ipl
 IPL DATA\MAPS\Extras\VC_Cull.ipl
 IPL DATA\MAPS\Extras\vclcAuzo.ipl
+
 #Garage
-IPL DATA\MAPS\VC\vcx\garage.ipl
+IPL DATA\MAPS\Extras\vclcgarages.ipl
 #
 #  Interiors
 #
