@@ -1,0 +1,36 @@
+objs
+26321, airportsteps, lc_airstuff2, 200, 1
+
+26322, deadman1, masacre, 200, 0
+
+26323, suitcases, luggage, 290, 0
+
+26324, undersubridge1, bridgesupports, 280, 4
+
+26325, lodersubridge1, suburb2, 1000, 4
+
+26326, listeningposts, airportbits, 290, 0
+
+26327, lodrjet, mikesairstuff, 1000, 0
+
+26328, lodipad, helipad, 1000, 0
+
+26329, glassfxsub1, subglass, 100, 0
+
+26330, glassfxsub2, subglass, 100, 0
+
+26331, subfraightback03, subfrates, 200, 0
+
+26332, subfraightback02, subfrates, 200, 0
+
+26333, subfraightback04, subfrates, 200, 0
+
+26334, lodtm_rd32, gtaiii, 700, 0
+
+26335, hghwysgn_sub, subsignpost, 190, 0
+
+26336, deadmanoblood, masacre, 200, 0
+
+end
+tobj
+end

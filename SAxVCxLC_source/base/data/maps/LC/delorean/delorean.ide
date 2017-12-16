@@ -1,0 +1,12 @@
+objs
+25002, d_wheel1, delofly, 50, 128
+
+25003, d_wheel2, delofly, 50, 128
+
+25004, d_strut1, delofly, 50, 128
+
+25005, d_strut2, delofly, 50, 128
+
+end
+tobj
+end

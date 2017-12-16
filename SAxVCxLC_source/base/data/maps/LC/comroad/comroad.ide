@@ -1,0 +1,58 @@
+objs
+24708, rd_slroad2a20, gtaiii, 200, 1
+
+24709, grd_overpass16, gtaiii, 200, 1
+
+24710, grd_overpass17, gtaiii, 200, 1
+
+24711, grd_overpass14, roadtunnel, 200, 1
+
+24712, grd_overpass12, gtaiii, 200, 1
+
+24713, com_2lane_tunnl, gtaiii, 200, 1
+
+24714, com_cust_roads14, gtaiii, 200, 1
+
+24715, com_cust_roads26, gtaiii, 200, 1
+
+24716, com_cust_roads31, gtaiii, 200, 1
+
+24717, com_cust_roads54, gtaiii, 200, 1
+
+24718, com_roadkb21, gtaiii, 200, 1
+
+24719, com_roadkb20, gtaiii, 200, 1
+
+24720, com_roadkb19, gtaiii, 200, 1
+
+24721, com_roadkb05, gtaiii, 200, 1
+
+24722, rd_specialrd11, gtaiii, 200, 1
+
+24723, com_roadkb18, gtaiii, 200, 1
+
+24724, rd_crossroads23, gtaiii, 200, 1
+
+24725, roadcustc1w01, gtaiii, 200, 1
+
+24726, com1way1a50s, gtaiii, 200, 1
+
+24727, com1way1ba50s, gtaiii, 200, 1
+
+24728, com_gaz2way, gtaiii, 100, 1
+
+24729, rd_cusxroadsgm, gtaiii, 100, 1
+
+24730, rd_cusxroadsgm_2, gtaiii, 100, 1
+
+24731, combillboard03, bilboard, 200, 4
+
+24732, combillboard04, bilboard, 200, 4
+
+24733, comtop_tshad, treeshadow, 299, 68
+
+24734, comtop_tshad2, treeshadow, 299, 68
+
+end
+tobj
+end

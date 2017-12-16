@@ -1,0 +1,294 @@
+objs
+24857, courthse_night, commuseumkb, 129, 0
+
+24858, tcsky_skyscrp6, cskytosh, 140, 0
+
+24859, empirestate, cempirest, 152, 0
+
+24860, com_land048nite, groundbitties, 139, 0
+
+24861, blok3_flats1, ctenblock3c, 120, 0
+
+24862, block3_flats2, ctenblock3c, 120, 0
+
+24863, block3_fireesc_2, fire_esc, 200, 4
+
+24864, blok3_ground, tenement_ground, 235, 0
+
+24865, block3_shops4, comhilo3shps, 112, 0
+
+24866, block3_shops3, comhilo3shps, 142, 0
+
+24867, block3_shops2, comhilo3shps, 121, 0
+
+24868, block3_shops5, comhilo3shps, 108, 0
+
+24869, block3_scraper1, comhilo3e, 120, 0
+
+24870, block3_scraper2, comhilo3e, 150, 0
+
+24871, block3_scraper3, comhilo3h, 120, 0
+
+24872, block3_flats4, ctenblock3c, 120, 0
+
+24873, block3_flats3, ctenblock3c, 120, 0
+
+24874, blok3_wall3, tenement_ground, 180, 0
+
+24875, block3_fireesc_1, fire_esc, 105, 4
+
+24876, opera_house, operahouse, 128, 0
+
+24877, twnhl_lndnite, comtownhall, 127, 0
+
+24878, clnm_cthdrlfcde, church, 142, 0
+
+24879, townhall_nite, comtownhall, 118, 0
+
+24880, artglry_stn, comartgaly, 140, 0
+
+24881, artgallerground, comartgaly, 135, 4
+
+24882, underground_over6, comtunnels, 120, 4
+
+24883, underground_over5, comtunnels, 120, 4
+
+24884, underground_over4, comtunnels, 129, 4
+
+24885, underground_over3, comtunnels, 129, 4
+
+24886, underground_over2, comtunnels, 129, 4
+
+24887, underground_over7, fdr_underpass, 120, 0
+
+24888, undergrounds2, fdr_underpass, 122, 0
+
+24889, undergrosd1, fdr_underpass, 200, 0
+
+24890, area5build5, area5b, 120, 0
+
+24891, com_land013, area5b, 140, 0
+
+24892, subentrance, comsub_b, 124, 0
+
+24893, subntrnce_b, comsub_b, 124, 0
+
+24894, subplatform, comsub_c, 119, 16
+
+24895, undergrounds1, fdr_underpass, 120, 0
+
+24896, block3scrtop, ctenblock3c, 120, 0
+
+24897, kb_ofis2, comhilo1, 144, 0
+
+24898, kb_ofis1, comhilo1, 144, 0
+
+24899, broadwaybuild2, combroadwy2, 160, 0
+
+24900, broadwaybuild3, combroadwy2, 160, 0
+
+24901, com_gazground, cskytosh, 100, 1
+
+24902, wlst_skyscrp1, bigbuild, 152, 0
+
+24903, lodck3_flats2, comSW_LOD, 2000, 0
+
+24904, lodck3_flats3, comSW_LOD, 2000, 0
+
+24905, lodck3_flats4, comSW_LOD, 2000, 0
+
+24906, lodck3_scraper1, comSW_LOD, 2000, 0
+
+24907, lodck3_scraper3, comSW_LOD, 2000, 0
+
+24908, lodck3scrtop, comSW_LOD, 2000, 0
+
+24909, lod_gazground, comSW_LOD, 800, 0
+
+24910, lodgallerground, comSW_LOD, 800, 0
+
+24911, lod_land064, comSW_LOD, 800, 0
+
+24912, lodhl_lndnite, comSW_LOD, 800, 0
+
+24913, lod_land013, comSW_LOD, 800, 0
+
+24914, lod_land048nite, comSW_LOD, 800, 0
+
+24915, lodk3_ground, comSW_LOD, 800, 0
+
+24916, lodglry_stn, comSW_LOD, 900, 0
+
+24917, lodirestate, comSW_LOD, 900, 0
+
+24918, lodk3_flats1, comSW_LOD, 900, 0
+
+24919, lodm_cthdrlfcde, comSW_LOD, 900, 0
+
+24920, lodnhall_nite, comSW_LOD, 800, 0
+
+24921, lodofis1, comSW_LOD, 900, 0
+
+24922, lodra_house, comSW_LOD, 900, 0
+
+24923, lodrthse_night, comSW_LOD, 800, 0
+
+24924, loderground_over1, comSW_LOD, 2000, 0
+
+24925, loderground_over5, comSW_LOD, 2000, 0
+
+24926, loderground_over4, comSW_LOD, 2000, 0
+
+24927, loderground_over3, comSW_LOD, 2000, 0
+
+24928, loderground_over2, comSW_LOD, 2000, 0
+
+24929, loderground_over6, comSW_LOD, 2000, 0
+
+24930, loderground_over7, comSW_LOD, 2000, 0
+
+24931, lodergrosd1, comSW_LOD, 2000, 0
+
+24932, lodergrounds1, comSW_LOD, 2000, 0
+
+24933, lodergrounds2, comSW_LOD, 2000, 0
+
+24934, underground_over1, comtunnels, 150, 4
+
+24935, lodky_skyscrp6, comSW_LOD, 2000, 0
+
+24936, lodhedbuilding, comSW_LOD, 2000, 0
+
+24937, lodck3_scraper2, comSW_LOD, 500, 0
+
+24938, lodt_skyscrp1, comSW_LOD, 2000, 0
+
+24939, lodadwaybuild2, comSW_LOD, 900, 0
+
+24940, subway_footbridge, comsub_b, 150, 1
+
+24941, treepatcha, lc_trees2, 240, 4
+
+24942, treepatchb, lc_trees2, 250, 4
+
+24943, treepatche, lc_trees2, 250, 4
+
+24944, treepatchd, lc_trees2, 250, 4
+
+24945, treepatchh, lc_trees2, 200, 4
+
+24946, treepatchk, lc_trees2, 100, 0
+
+24947, treepatchl, lc_trees2, 200, 0
+
+24948, treepatchm, lc_trees2, 250, 0
+
+24949, underlight2, comtunnels, 129, 0
+
+24950, underlight3, comtunnels, 129, 0
+
+24951, empstat_basement, cempirest, 120, 0
+
+24952, treepatch69, lc_trees2, 100, 0
+
+24953, lod_newland085, comSW_LOD, 1000, 0
+
+24954, artglry_reflection, comartgaly, 172, 0
+
+24955, lodway_footbridge, comSW_LOD, 400, 0
+
+24956, com_newland085, crap_jetty, 200, 0
+
+24957, planter_short, planters, 100, 0
+
+24958, planter_long, planters, 150, 0
+
+24959, broadwaybuild, combroadwy2, 160, 0
+
+24960, area5build2, area5b, 120, 0
+
+24961, lodofis2, comSW_LOD, 800, 0
+
+24962, comsbilboard05, comsbilboard05, 45, 0
+
+24963, billbrd_opra, comsbilboard02, 100, 0
+
+24964, art_glry_bboard, comsbilboard02, 100, 0
+
+24965, loda5build2, comSW_LOD, 2000, 0
+
+24966, loda5build5, comSW_LOD, 2000, 0
+
+24967, lodadwaybuild3, comSW_LOD, 800, 0
+
+24968, lodadwaybuild, comSW_LOD, 800, 0
+
+24969, comerside_subway, comsub_c, 100, 16
+
+24970, tshrorckgrdn, lovies, 50, 0
+
+24971, tshrorckgrdn_alfas, lovies, 50, 4
+
+24972, tag1, comhilo_tags, 80, 4
+
+24973, tag2, comhilo_tags, 100, 4
+
+24974, tag4, comhilo_tags, 100, 4
+
+24975, tag3, comhilo_tags, 100, 4
+
+24976, tag5, comhilo_tags, 100, 4
+
+24977, com_land064, opera, 177, 0
+
+24978, shop_bit, gtaiii, 130, 0
+
+24979, underlight1, comtunnels, 129, 0
+
+24980, calahan_bboard, comtownhall, 160, 0
+
+24981, graveyard, graveyard, 100, 0
+
+24982, comswcentralbld1, area5b, 160, 0
+
+24983, comswcentralbld7, comhilo1, 160, 0
+
+24984, comswcentralbld2, com_centrebit, 160, 0
+
+24985, comswcentralbld3, area5b, 160, 0
+
+24986, comswcentralbld5, area5b, 160, 0
+
+24987, comswcentralbld4, area5b, 160, 0
+
+24988, comswcentralbld6, com_centrebit, 160, 4
+
+24989, lodswcentralbld7, comSW_LOD, 800, 0
+
+24990, lodswcentralbld6, comSW_LOD, 800, 0
+
+24991, lodswcentralbld5, comSW_LOD, 800, 0
+
+24992, lodswcentralbld4, comSW_LOD, 800, 0
+
+24993, lodswcentralbld2, comSW_LOD, 800, 0
+
+24994, lodswcentralbld1, comSW_LOD, 800, 0
+
+24995, lodswcentralbld3, comSW_LOD, 800, 0
+
+24996, posh_shop, posh_shopshit, 100, 0
+
+24997, tw@t_cafe, tw@t, 80, 0
+
+24998, archedbuilding, archedbuilding, 160, 0
+
+24999, lodntrnce_b, comSW_LOD, 800, 0
+
+25000, lodentrance, comSW_LOD, 800, 0
+
+25001, tw@_pedpath_tri, gtaiii, 1, 0
+
+end
+tobj
+end
