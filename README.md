@@ -40,7 +40,7 @@ PlatinumSerb
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
 * Squad - testing/bug reporting, map fixes
 * Crspy - modloader installation fix
-*Inan-Ahammad - added garages in VC & LC, testing/bug reporting
+* Inan-Ahammad - added garages in VC & LC, testing/bug reporting
 * Beckerbrasil - testing/bug reporting
 
 Thanks Rock* Games
