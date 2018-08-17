@@ -209,7 +209,7 @@
 -delete "nodes63.dat"
 -delete "fences.txd"
 -delete "dynjunk.txd"
--import "SAX GTA3Img Changes\\fences.txd"
--import "SAX GTA3Img Changes\\dynjunk.txd"
+-import "SAX_GTA3Img_Changes\\fences.txd"
+-import "SAX_GTA3Img_Changes\\dynjunk.txd"
 -rebuildIfArchiveWasModified
 -close
