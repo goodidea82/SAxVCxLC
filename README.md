@@ -74,12 +74,19 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 * It is also possible to create a spin-off project if publishing a mod for SAxVCxLC is not a suitable solution for some reason (e.g. a super modded version). This can be done by using "fork" to create a derived GitHub project without creating a pull-request back. This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC. The spin-off must prominently say somewhere that it is based on SAxVCxLC.
 
 ## GitHub
-* Create your GitHub account, then practice Git and GitHub on a hello-world project first. It is HIGHLY recommended to install GIT on your computer (For example: https://git-scm.com/download/win) and test it with your hello-world project. You should understand (git add, git commit, git push, git pull)
-* Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
-* To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+* Create your GitHub account, then practice Git and GitHub on a hello-world project first. From experience we require that you install GIT on your computer (For example: https://git-scm.com/download/win) and test it with your hello-world project. You must understand (git add, git commit, git push, git pull) so READ A GIT TUTORIAL on the internet. Some quick info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 * Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
 * Do not upload big files on GitHub. The purpuse of Git is to keep track of many small files. Maxium allowed project size on GitHub is 1000 GB. 
 * Let's try not to use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
+
+* Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. The "Principles" in the above section must be respected. Once you have access as a collaborator:
+** Open Git Bash on your computer and Use "git clone https://github.com/goodidea82/SAxVCxLC.git"
+** Create a new branch "git branch BRANCHNAME" and switch to this branch "git checkout BRANCHNAME". Make sure that the BRANCHNAME starts with your username as prefix, e.g. "MisterGTA_testBranch".
+** Create commits 'git commit -a -m "Some description..." ' to your local branch and frequently do "git pull" and "git merge master" to add the latest updates to your local branch. Use "git push" to send commits in your branch on your local computer to GitHub.
+** When your work is ready to be added to the master branch, then do a pull request so that your changes will be reviewed and can then be merged into the master branch. To do a pull request: you can either
+*** https://git-scm.com/docs/git-request-pull  , or
+*** https://help.github.com/articles/creating-a-pull-request/
+* To move and rename files/folders install GIT on your computer rather than using the web interface. 
 * Pull updates from the master branch frequently to reduce the risk of version conflicts.
 
 ## File structure and installation scripts
