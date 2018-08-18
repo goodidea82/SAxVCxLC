@@ -23,7 +23,7 @@ PlatinumSerb
 ## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
 * inan.ahammad - Added garages in VC, testing/bug reporting
-* HeincoDE - Bugfixes, script updates
+* HeicoDE - Bugfixes, script updates
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 
