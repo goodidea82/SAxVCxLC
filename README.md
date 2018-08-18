@@ -20,14 +20,20 @@ For discussions, see: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-sa
 ## Main Author:
 PlatinumSerb
 
-## Credits/Special Thanks:
-* fastman92 - Limit Adjuster, IMG Console, Debugging 
+## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
+* inan.ahammad - Added garages in VC, testing/bug reporting
+* HeincoDE - Bugfixes, script updates
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
+
+## Credits/Special Thanks:
+Providing help and additional ressources
+* fastman92 - Limit Adjuster, IMG Console, Debugging 
 * GTA: Liberty City Team - Use of GTA:LC map
 * OpenVice(NTAuthority) - Use of Vice City map
 * Silent - ASI Loader and Extended Gangs ASI
+* LINK2012 - Modloader
 * _F_ - use of GTA VC cars Converted to SA
 * CJ2000 - use of GTA VC and III vehicles
 * Kam - Kam's Max Scripts 
@@ -40,7 +46,6 @@ PlatinumSerb
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
 * Squad - testing/bug reporting, map fixes
 * Crspy - modloader installation fix
-* inan.ahammad - added garages in VC, testing/bug reporting
 * Beckerbrasil - testing/bug reporting
 
 Thanks Rock* Games
