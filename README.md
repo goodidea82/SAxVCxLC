@@ -80,12 +80,12 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 * Let's try not to use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
 
 * Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. The "Principles" in the above section must be respected. Once you have access as a collaborator:
-** Open Git Bash on your computer and Use "git clone https://github.com/goodidea82/SAxVCxLC.git"
-** Create a new branch "git branch BRANCHNAME" and switch to this branch "git checkout BRANCHNAME". Make sure that the BRANCHNAME starts with your username as prefix, e.g. "MisterGTA_testBranch".
-** Create commits 'git commit -a -m "Some description..." ' to your local branch and frequently do "git pull" and "git merge master" to add the latest updates to your local branch. Use "git push" to send commits in your branch on your local computer to GitHub.
-** When your work is ready to be added to the master branch, then do a pull request so that your changes will be reviewed and can then be merged into the master branch. To do a pull request: you can either
-*** https://git-scm.com/docs/git-request-pull  , or
-*** https://help.github.com/articles/creating-a-pull-request/
+    1. Open Git Bash on your computer and Use "git clone https://github.com/goodidea82/SAxVCxLC.git"
+    2. Create a new branch "git branch BRANCHNAME" and switch to this branch "git checkout BRANCHNAME". Make sure that the BRANCHNAME starts with your username as prefix, e.g. "MisterGTA_testBranch".
+    3. Create commits 'git commit -a -m "Some description..." ' to your local branch and frequently do "git pull" and "git merge master" to add the latest updates to your local branch. Use "git push" to send commits in your branch on your local computer to GitHub.
+    4. When your work is ready to be added to the master branch, then do a pull request so that your changes will be reviewed and can then be merged into the master branch. To do a pull request: you can either
+        * https://git-scm.com/docs/git-request-pull  , or
+        * https://help.github.com/articles/creating-a-pull-request/
 * To move and rename files/folders install GIT on your computer rather than using the web interface. 
 * Pull updates from the master branch frequently to reduce the risk of version conflicts.
 
