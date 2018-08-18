@@ -23,6 +23,7 @@ PlatinumSerb
 ## Credits/Special Thanks:
 * fastman92 - Limit Adjuster, IMG Console, Debugging 
 * goodidea82 - Infrastructure, Installation
+* HeicoDE - Development 8.5+
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 * GTA: Liberty City Team - Use of GTA:LC map
