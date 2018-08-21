@@ -103,12 +103,15 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 # Troubleshooting, Errors, FAQs
 ## Problems after clean installation
 SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
+* Game freezes while loading: Perhaps a popup-window in the background (invisible) from Fastman92LimitAdjuster. Try pressing the Space-bar or Enter several times.
+* Game started once, but not again: Perhaps gta_sa.exe did not close properly and is still running in the background and blocking the new start of gta. Open windows task manager and kill the process gta_sa.exe.
 * *Error 0x5380C3 trying to load object instance with undefined ID* When using ModLoader.
 See here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1068034069
 And here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069668668
 * FastmanLimitAdjuster92.log says "Error, model hash 0x81AC51E7 is declared on multiple IDs: 384, 385, 386, 387, 388, 389, 390, 391, 392, 393,". SAxVCxLC contains a fix for that, this means that your the installation did not work completely. See also: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/page-76#entry1069287124
 * Fastman92LimitAdjuster.log says "Error 0x4087EA, file with undefined ID requested:" and "Last file to be loaded: data\shopping.dat". See: fastman92limitAdjuster_GTASA.ini, section [MAP LIMITS], item "Paths map size".
 * Error Status 0xc000012f “Bad Image” When Running a Program. This is a windows problem. See, for example: https://www.winhelponline.com/blog/error-0xc000012f-bad-image-fix-corrupt-files/
+* Error 126: "missing dependency (DLL). Try using Dependency Walker on the ASI" (https://gtaforums.com/topic/536465-garage-extender/?do=findComment&comment=1070397619)
 
 ## Problems with savegames or original missions 
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
@@ -121,6 +124,7 @@ For example see here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-sa
 Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 * Dkpacc22 Hud
 * A list with mods that are incompatible due to FLA exist also in another similar project: http://gtaforums.com/topic/883865-gta-underground-compatible-modifications-thread/
+* GarageExtender grgx.asi doesn't seem to work properly with SilentPatch, eg. the Pay'n'Spray doesn't work. (https://gtaforums.com/topic/536465-garage-extender/?do=findComment&comment=1070398545)
 
 # Mods for SAxVCxLC (specifically adjusted)
 SAxVCxLC is compatible with most mods for normal SA. Below is a list of mods that are specially adjusted or created for SAxVCxLC.
