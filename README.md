@@ -126,3 +126,4 @@ Incompatible with FLA (SAxVCxLC is based on FastmanLimitAdjuster92 (FLA)):
 SAxVCxLC is compatible with most mods for normal SA. Below is a list of mods that are specially adjusted or created for SAxVCxLC.
 * Project Props (http://gtaforums.com/topic/885393-project-props/)
 
+
