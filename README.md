@@ -20,14 +20,20 @@ For discussions, see: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-sa
 ## Main Author:
 PlatinumSerb
 
-## Credits/Special Thanks:
-* fastman92 - Limit Adjuster, IMG Console, Debugging 
+## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
+* inan.ahammad - Added garages in VC, testing/bug reporting
+* HeicoDE - Bugfixes, script updates
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
+
+## Credits/Special Thanks:
+Providing help and additional ressources
+* fastman92 - Limit Adjuster, IMG Console, Debugging 
 * GTA: Liberty City Team - Use of GTA:LC map
 * OpenVice(NTAuthority) - Use of Vice City map
 * Silent - ASI Loader and Extended Gangs ASI
+* LINK2012 - Modloader
 * _F_ - use of GTA VC cars Converted to SA
 * CJ2000 - use of GTA VC and III vehicles
 * Kam - Kam's Max Scripts 
@@ -40,7 +46,6 @@ PlatinumSerb
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
 * Squad - testing/bug reporting, map fixes
 * Crspy - modloader installation fix
-* inan.ahammad - added garages in VC, testing/bug reporting
 * Beckerbrasil - testing/bug reporting
 
 Thanks Rock* Games
@@ -69,13 +74,21 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 * It is also possible to create a spin-off project if publishing a mod for SAxVCxLC is not a suitable solution for some reason (e.g. a super modded version). This can be done by using "fork" to create a derived GitHub project without creating a pull-request back. This way the spin-off can benefit from updates made to SAxVCxLC and from campatibility with mods made for SAxVCxLC. The spin-off must prominently say somewhere that it is based on SAxVCxLC.
 
 ## GitHub
-* Create your GitHub account, then practice Git and GitHub on a hello-world project first. It is HIGHLY recommended to install GIT on your computer (For example: https://git-scm.com/download/win) and test it with your hello-world project. You should understand (git add, git commit, git push, git pull)
-* Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. When finished, do a pull request so that your changes will be reviewed (see Principles) and can then be merged into the master branch.
-* To move and rename files/folders install GIT on your computer rather than using the web interface. Some info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-* Git configuration on windows: line endings: Checkout as-is, commit as-is (we use windows line endings)
+* Create your GitHub account, then practice Git and GitHub on a hello-world project first. From experience we require that you install GIT on your computer (For example: https://git-scm.com/download/win) and test it with your hello-world project. You must understand (git add, git commit, git push, git pull) so READ A GIT TUTORIAL on the internet. Some quick info: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+* Git configuration on windows: 
+   * line endings: Checkout as-is
+   * commit as-is (we use windows line endings)
+* Contact us on "http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/" so you can be included as collaborator on on this GitHub project. You can then do updates and patches on SAxVCxLC. The "Principles" in the above section must be respected. Once you have access as a collaborator:
+    1. Open Git Bash on your computer and Use "git clone https://github.com/goodidea82/SAxVCxLC.git"
+    2. Create a new branch "git branch BRANCHNAME" and switch to this branch "git checkout BRANCHNAME". Make sure that the BRANCHNAME starts with your username as prefix, e.g. "MisterGTA_testBranch".
+    3. Create commits 'git commit -a -m "Some description..." ' to your local branch and frequently do "git pull" and "git merge master" to add the latest updates to your local branch. Use "git push" to send commits in your branch on your local computer to GitHub.
+    4. When your work is ready to be added to the master branch, then do a pull request so that your changes will be reviewed and can then be merged into the master branch. To do a pull request: you can either
+        * https://help.github.com/articles/creating-a-pull-request/
+        * https://git-scm.com/docs/git-request-pull  , or
 * Do not upload big files on GitHub. The purpuse of Git is to keep track of many small files. Maxium allowed project size on GitHub is 1000 GB. 
 * Let's try not to use Git Large File Storage (LFS), because all developers will have to install this (making it harder for new developers to start). Take a look in toolsForInstallation\Music.bat how to download large files using wget.exe during installation.
-* Pull updates from the master branch frequently to reduce the risk of version conflicts.
+* To move and rename files/folders install GIT on your computer rather than using the web interface.  Use "git mv" to move files and directories and "git rm" to delete files and so on.
+* Pull updates "git pull" from the master branch frequently to reduce the risk of version conflicts.
 
 ## File structure and installation scripts
 * The installation uses BAT files. It is horrible BUT it has the advantages that nobody has to install additional tools, it is understandable, and trasparent (can be read and editied with a text editor). Learn a few basics about batch programming: https://en.wikibooks.org/wiki/Windows_Batch_Scripting
@@ -95,6 +108,7 @@ See here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p
 And here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069668668
 * FastmanLimitAdjuster92.log says "Error, model hash 0x81AC51E7 is declared on multiple IDs: 384, 385, 386, 387, 388, 389, 390, 391, 392, 393,". SAxVCxLC contains a fix for that, this means that your the installation did not work completely. See also: http://gtaforums.com/topic/733982-fastman92-limit-adjuster/page-76#entry1069287124
 * Fastman92LimitAdjuster.log says "Error 0x4087EA, file with undefined ID requested:" and "Last file to be loaded: data\shopping.dat". See: fastman92limitAdjuster_GTASA.ini, section [MAP LIMITS], item "Paths map size".
+* Error Status 0xc000012f “Bad Image” When Running a Program. This is a windows problem. See, for example: https://www.winhelponline.com/blog/error-0xc000012f-bad-image-fix-corrupt-files/
 
 ## Problems with savegames or original missions 
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
