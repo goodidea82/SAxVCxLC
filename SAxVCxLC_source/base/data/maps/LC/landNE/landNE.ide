@@ -349,11 +349,11 @@ objs
 
 25886, indfrate11, subcrates, 290, 0
 
-25887, towergaragedoor2, projbits, 100, 0
+25887, towergaragedoor2, projbits, 100, 2048
 
-25888, towergaragedoor1, projbits, 100, 0
+25888, towergaragedoor1, projbits, 100, 2048
 
-25889, towergaragedoor3, projbits, 100, 0
+25889, towergaragedoor3, projbits, 100, 2048
 
 25890, subposter09, postersub, 290, 0
 

@@ -329,11 +329,11 @@ objs
 
 26159, police_station_sub, subpolice, 290, 0
 
-26160, sub_sprayshopdoor, subuild2, 290, 0
+26160, sub_sprayshopdoor, subuild2, 290, 2048
 
 26161, otherside_subway, othersubside, 100, 16
 
-26162, amcogaragedoor, subuild4, 290, 0
+26162, amcogaragedoor, subuild4, 290, 2048
 
 26163, air_grnd08, lc_airgrndb, 290, 0
 
@@ -351,7 +351,7 @@ objs
 
 26170, impexpgrgesub, importexp, 200, 0
 
-26171, impexpsubgrgdoor, importexp, 100, 0
+26171, impexpsubgrgdoor, importexp, 100, 2048
 
 26172, subposter08, postersub, 290, 0
 
@@ -395,7 +395,7 @@ objs
 
 26192, air_grnd0301, lc_airgrndb, 290, 0
 
-26193, 8ballsuburbandoor, subestbuild, 290, 0
+26193, 8ballsuburbandoor, subestbuild, 290, 2048
 
 26194, suburbansigns1, localsignsub, 290, 0
 

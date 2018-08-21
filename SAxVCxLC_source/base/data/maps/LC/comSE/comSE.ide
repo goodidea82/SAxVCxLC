@@ -63,7 +63,7 @@ objs
 
 24766, treepatchkb9, lc_trees2, 200, 4
 
-24767, leveldoor2, door, 100, 0
+24767, leveldoor2, door, 100, 2048
 
 24768, dockwallbb_1, comdocks, 130, 0
 
