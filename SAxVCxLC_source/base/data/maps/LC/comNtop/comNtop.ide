@@ -161,15 +161,15 @@ objs
 
 24632, comlandnew6, comstadium, 180, 0
 
-24633, door_col_compnd_01, colcomp4, 100, 0
+24633, door_col_compnd_01, colcomp4, 100, 2048
 
-24634, door_col_compnd_02, colcomp4b, 100, 0
+24634, door_col_compnd_02, colcomp4b, 100, 2048
 
-24635, door_col_compnd_03, colcomp4, 100, 0
+24635, door_col_compnd_03, colcomp4, 100, 2048
 
-24636, door_col_compnd_04, colcomp4, 100, 0
+24636, door_col_compnd_04, colcomp4, 100, 2048
 
-24637, door_col_compnd_05, colcomp4, 100, 0
+24637, door_col_compnd_05, colcomp4, 100, 2048
 
 24638, comlandnew8, comstadium, 150, 0
 

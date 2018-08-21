@@ -165,7 +165,7 @@ objs
 
 24219, garage_oddjob, oddgar, 100, 0
 
-24220, oddjgaragdoor, oddgar, 60, 0
+24220, oddjgaragdoor, oddgar, 60, 2048
 
 24221, scaffold_pole, buildingsite, 100, 0
 
@@ -195,7 +195,7 @@ objs
 
 24234, apairprtbits, lc_airport, 290, 4
 
-24235, shedgaragedoor, subparts, 290, 0
+24235, shedgaragedoor, subparts, 290, 2048
 
 24236, smal_outsidelight, smalllit, 45, 0
 
@@ -291,9 +291,9 @@ objs
 
 24282, police_celhole, com_police, 100, 0
 
-24283, vheistlocdoor, door, 100, 0
+24283, vheistlocdoor, door, 100, 2048
 
-24284, double_garage_dr, door, 100, 0
+24284, double_garage_dr, door, 100, 2048
 
 24285, crbaskt02, fishmarket, 42, 0
 

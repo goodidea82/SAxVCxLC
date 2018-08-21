@@ -47,9 +47,9 @@ objs
 
 24358, tenkb_builds11, comhilo3b, 150, 4
 
-24359, door2_garage, tenblocknrcp, 160, 0
+24359, door2_garage, tenblocknrcp, 160, 2048
 
-24360, door_bombshop, tenblocknrcp, 160, 0
+24360, door_bombshop, tenblocknrcp, 160, 2048
 
 24361, bombshop_kb, combomb, 160, 0
 
@@ -127,7 +127,7 @@ objs
 
 24398, block4_ten2, tenblk4, 150, 0
 
-24399, door3_garage, door, 160, 0
+24399, door3_garage, door, 160, 2048
 
 24400, garage_kb, combomb, 160, 0
 
@@ -169,9 +169,9 @@ objs
 
 24419, sfhousegrge_kb, comhilo3b, 100, 0
 
-24420, door_sfehousegrge, comhilo3b, 100, 0
+24420, door_sfehousegrge, comhilo3b, 100, 2048
 
-24421, door_jmsgrage, comhilo3b, 200, 0
+24421, door_jmsgrage, comhilo3b, 200, 2048
 
 24422, jamesgrge_kb, comhilo3b, 100, 0
 
@@ -181,7 +181,7 @@ objs
 
 24425, treencom2, lc_trees2, 200, 4
 
-24426, door4_garage, tenblocknrcp, 100, 0
+24426, door4_garage, tenblocknrcp, 100, 2048
 
 24427, kmricndo01, kmricndo, 120, 0
 
@@ -251,7 +251,7 @@ objs
 
 24460, newblokb, tenblock6aa, 150, 0
 
-24461, plysve_gragedoor, comtenblock6b, 60, 0
+24461, plysve_gragedoor, comtenblock6b, 60, 2048
 
 24462, block4_alley1, block4grn, 160, 0
 
