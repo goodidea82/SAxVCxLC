@@ -25,6 +25,17 @@ REM Y= Use this option to stop the xcopy command from prompting you about overwr
 REM D=  Use the xcopy command with /d option and a specific date, in MM-DD-YYYY format, to copy files changed on or after that date. You can also use this option without specifying a specific date to copy only those files in source that are newer than the same files that already exist in destination. This is helpful when using the xcopy command to perform regular file backups.
 xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
 
+if not "%ERRORLEVEL%"=="0" (
+	echo --------------------------------------------
+	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
+	echo In Base.bat 1 the error code of xcopy was: %ERRORLEVEL%
+	echo.
+	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
+	SET /P a=Press enter ...
+	EXIT
+)
+
+
 REM The buildIMGarchives creates .img files in the folder SAxVCxLC_source\base\models from the files in the folders ending with _img_src. 
 REM GitHub does not allow to upload the full img files. Also the idea of GitHub is to work with smaller files, so that individual files can be easily updated and tracked without causing much data traffic and storage.
 REM Attention buildIMGarchives.bat requires that some files were already copied from base_root
@@ -40,6 +51,16 @@ if "%useModLoader%"=="1" (
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\*" "%toDir%\modloader\SAxVCxLC\*"
 ) else (
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base\*" "%toDir%\*"
+)
+
+if not "%ERRORLEVEL%"=="0" (
+	echo --------------------------------------------
+	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
+	echo In Base.bat 2 the error code of xcopy was: %ERRORLEVEL%
+	echo.
+	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
+	SET /P a=Press enter ...
+	EXIT
 )
 
 REM SET /P a=Press enter...

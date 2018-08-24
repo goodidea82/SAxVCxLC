@@ -75,6 +75,17 @@ if "%useModLoader%"=="1" (
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\music\*" "%toDir%\*"	
 )
 
+if not "%ERRORLEVEL%"=="0" (
+	echo --------------------------------------------
+	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
+	echo In Music.bat the error code of xcopy was: %ERRORLEVEL%
+	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
+	echo.
+	SET /P a=Press enter ...
+	EXIT
+)
+
+
 REM cleanup
 REM del SAxVCxLC_source\music\CLEO\CLEO_SOUND\*.mp3
 REM del SAxVCxLC_source\music\CLEO\CLEO_SOUND\VC\*.mp3

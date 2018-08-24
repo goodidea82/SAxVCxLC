@@ -1,11 +1,16 @@
 @echo off
 
 echo.
-echo                       SAxVCxLC 0.8.5 Installation
+echo                    SAxVCxLC 0.8.5-a7 Installation
 echo.
 echo   http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
 echo   https://github.com/goodidea82/SAxVCxLC
 echo.
+
+REM %~dp0 refers to the full path to the batch file's directory (static)
+REM When running as administrator, the directory gets lost and we have to change back to the SAxVCxLC directory.
+set prevDir=%CD%
+cd %~dp0
 
 REM Some space is needed in the SAxVCxLC_source directory to build .img archives (see buildIMGarchives.bat) and to download and extract mp3 files (see Music.bat)
 call :checkSpace "%CD%" 1500
@@ -14,18 +19,38 @@ echo Use a clean game ^(GTA San Andreas^) with the patch GTA SA v1.0 HOODLUM wit
 echo 14.383.616 bytes and no other modifications. You can add modifications later.
 echo.
 echo Enter the full path to the GTA SA root folder WITHOUT a backslash at the end.
+if "%prevDir%\"=="%~dp0" (
 echo Instead of typing you can drag ^& drop^ the folder here from windows explorer, 
 echo then click on this command window again.
+) else (
+echo If drag ^& drop^ of the folder does not work, you can copy-and-paste the path using right-click on this window.
+)
 :SArootLabel
 SET /P GTASAroot=GTASAroot=
 REM Remove quotes from the string in GTASAroot, because quotes will be added later.
 set GTASAroot=%GTASAroot:"=%
+
 if not exist "%GTASAroot%\GTA_SA.exe" (
 	echo.
-	echo "%GTASAroot%\GTA_SA.exe" DOES NOT EXIST. The path is probably wrong. Try again.
+	echo "%GTASAroot%\GTA_SA.exe" DOES NOT EXIST. 
+	echo The path is probably wrong. Try again.
 	echo.
 	goto :SArootLabel
 )
+
+REM Check if we have write access to GTASAroot
+set SAVCLCDir=pwd
+set tmpDir="%GTASAroot%\testAccess"
+mkdir %tmpDir%
+if "%ERRORLEVEL%"=="1" (
+	ECHO --------------------------------------------
+	ECHO This user probably does not have permissions to write to "%GTASAroot%"
+	ECHO .
+	ECHO SOLUTION: Right-click on Install.bat and select "Run as Administrator". When you run as Administrator, then Drag'n'Drop may not work for the path so you have to enter the path manually or copy-and-paste it.
+	SET /P a=Press enter to quit and try again...
+	GOTO:EOF
+)
+rmdir /q %tmpDir%
 
 REM Check space of the destination.
 call :checkSpace "%GTASAroot%" 1500
@@ -90,8 +115,10 @@ REM S= Use this option to copy directories, subdirectories, and the files contai
 REM I= Use this option to show a list of the files and folders to copied... but no copying is actually done. The /l option is useful if you're building a complicated xcopy command with several options and you'd like to see how it would function hypothetically.
 REM Y= Use this option to stop the xcopy command from prompting you about overwriting files from source that already exist in destination.
 REM D=  Use the xcopy command with /d option and a specific date, in MM-DD-YYYY format, to copy files changed on or after that date. You can also use this option without specifying a specific date to copy only those files in source that are newer than the same files that already exist in destination. This is helpful when using the xcopy command to perform regular file backups.
+REM r=	Use this option to overwrite read-only files in destination. If you don't use this option when you want to overwrite a read-only file in destination, you'll be prompted with an "Access denied" message and the xcopy command will stop running.
+REM https://www.lifewire.com/xcopy-command-2618103
 REM WARNING: Do not use empty options in xcpyOpt, because it will result in an empty string and the parameters will not be passed correctly.
-set xcpyOpt=/Y
+set xcpyOpt=/Y 
 
 :skipDOpt
 REM --------------------------------------

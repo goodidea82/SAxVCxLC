@@ -36,6 +36,16 @@ REM D=  Use the xcopy command with /d option and a specific date, in MM-DD-YYYY 
 
 xcopy /SI %XCPYOptions% %exclude% "%fromDir%\extras_root\*" "%toDir%\*"
 
+if not "%ERRORLEVEL%"=="0" (
+	echo --------------------------------------------
+	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
+	echo In Standard.bat 1, the error code of xcopy was: %ERRORLEVEL%
+	echo.
+	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
+	SET /P a=Press enter ...
+	EXIT
+)
+
 if "%useModLoader%"=="1" (
 	REM http://stackoverflow.com/questions/9102422/windows-batch-set-inside-if-not-working
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\extras\*" "%toDir%\modloader\SAxVCxLC\*"
@@ -43,5 +53,14 @@ if "%useModLoader%"=="1" (
 	xcopy /SI %XCPYOptions% %exclude% "%fromDir%\extras\*" "%toDir%\*"
 )
 
+if not "%ERRORLEVEL%"=="0" (
+	echo --------------------------------------------
+	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
+	echo In Standard.bat 2, the error code of xcopy was: %ERRORLEVEL%
+	echo.
+	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
+	SET /P a=Press enter ...
+	EXIT
+)
 
 REM SET /P a=Press enter...
