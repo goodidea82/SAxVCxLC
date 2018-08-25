@@ -4,7 +4,7 @@ echo This is MTA.bat.
 echo XCopy option: %1
 echo Use ModLoader: %2
 echo GTASAroot: %3
-echo.
+echo(
 set XCPYOptions=%1
 set useModLoader=%2
 set fromDir=%CD%\SAxVCxLC_source

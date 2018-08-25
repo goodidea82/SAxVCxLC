@@ -5,7 +5,7 @@ echo This is Standard.bat
 echo XCopy options: %1
 echo Use ModLoader: %2
 echo GTASAroot: %3
-echo.
+echo(
 set XCPYOptions=%1
 set useModLoader=%2
 set fromDir=%CD%\SAxVCxLC_source
@@ -40,7 +40,7 @@ if not "%ERRORLEVEL%"=="0" (
 	echo --------------------------------------------
 	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
 	echo In Standard.bat 1, the error code of xcopy was: %ERRORLEVEL%
-	echo.
+	echo(
 	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
 	SET /P a=Press enter ...
 	EXIT
@@ -57,7 +57,7 @@ if not "%ERRORLEVEL%"=="0" (
 	echo --------------------------------------------
 	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
 	echo In Standard.bat 2, the error code of xcopy was: %ERRORLEVEL%
-	echo.
+	echo(
 	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
 	SET /P a=Press enter ...
 	EXIT

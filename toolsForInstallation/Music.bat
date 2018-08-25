@@ -5,7 +5,7 @@ echo This is Music.bat
 echo XCopy options: %1
 echo Use ModLoader: %2
 echo GTASAroot: %3
-echo.
+echo(
 set XCPYOptions=%1
 set useModLoader=%2
 set fromDir=%CD%\SAxVCxLC_source
@@ -80,7 +80,7 @@ if not "%ERRORLEVEL%"=="0" (
 	echo ERROR xcopy /SI %XCPYOptions% %exclude% "%fromDir%\base_root\*" "%toDir%\*"
 	echo In Music.bat the error code of xcopy was: %ERRORLEVEL%
 	echo Create a SCREENSHOT of this window and contact the developers on www.gtaforums.com
-	echo.
+	echo(
 	SET /P a=Press enter ...
 	EXIT
 )
@@ -103,32 +103,90 @@ set dwLink=%1
 set folder=%2
 set fileName=%3
 set PW=-pSAVCLC
+
+REM enabledelayedexpansion is needed so that "!ERRORLEVEL!" will be evaluated just in time.
+setlocal enabledelayedexpansion
+
 REM first check if the mp3 file already exists in the music folder
 if not exist "%fromDir%\music\CLEO%folder%\%fileName%.mp3" (
+		
 		REM The mp3 is encrypted in a .z7 file of the download link %dwLink%. Download the file .7z file if it does not exist.
 		if not exist "%fileName%.7z" (
 			toolsForInstallation\wget.exe  --no-check-certificate %dwLink% -O %fileName%.7z
 			if not exist "%fileName%.7z" (
-				echo Problem 1
-				echo ERROR. Could not download or create %fileName%.7z ^(containing %fileName%.mp3^). Check the download links in toolsForInstallation\Musik.bat
-				SET /P a=Press enter to continue
+				echo ------------------------------
+				echo ERROR Problem 1. Could not download or create "%fileName%.7z" ^(containing "%fileName%.mp3"^). Solution: Check the download links in toolsForInstallation\Music.bat
+				goto :exitWithError
 			)
 		)
+		REM Check if the mp3 file exists in the 7z file. (If not, it is renamed/shadowed or there is another problem)
+		toolsForInstallation\7z\7z.exe l %fileName%.7z | find "%fileName%.mp3"
+		REM If the check was successful, then errorlevel of FIND is 0!
+		echo Check if mp3 is in z7. Errorlevel=!ERRORLEVEL!
+		if not "!ERRORLEVEL!"=="0" (
+			REM Check if the filename exists as a .ppt file.
+			toolsForInstallation\7z\7z.exe l %fileName%.7z | find "%fileName%.ppt"
+			REM If the check was successful, then errorlevel of FIND is 0!
+			echo Check if ppt is in z7. Errorlevel=!ERRORLEVEL!
+			if "!ERRORLEVEL!"=="0" (
+				REM The file exists as ppt file. So rename it to mp3.
+				toolsForInstallation\7z\7z.exe rn %fileName%.7z "%fileName%.ppt" "%fileName%.mp3"
+			) else (
+				toolsForInstallation\7z\7z.exe l %fileName%.7z
+				echo ----------------------------
+				echo ERROR Problem 2. After downloading "%fileName%.7z" could not find "%fileName%.ppt" nor "%fileName%.mp3" in the "%fileName%.7z" archive. 
+				goto :exitWithError			
+			)
+			
+		)
+
+		REM Check again if the mp3 file exists in the 7z file. This time it must exist.
+		toolsForInstallation\7z\7z.exe l %fileName%.7z | find "%fileName%.mp3"
+		REM If the check was successful, then errorlevel of FIND is 0!
+		echo Check again if mp3 is in z7. Errorlevel=!ERRORLEVEL!		
+		if not "!ERRORLEVEL!"=="0" (
+			echo ------------------------------
+			echo ERROR Problem 3. Did not find "%fileName%.mp3" inside the "%fileName%.7z" archive after trying to rename "%fileName%.ppt" to "%fileName%.mp3" inside the "%fileName%.7z" archive.
+			echo(
+			echo Perhaps an Anti-Virus program prevented this. Try to configure the Anti-Virus program to ignore the folder SAxVCxLC during this installation. If nothing helps, then contact the developers of SAxVCxLC.
+			SET /P a=Press enter to exit...
+			exit
+		)
+		
 		REM extract and decrypt the .7z file. The P_a_s s. W o_r_d is specified in %PW% above
         toolsForInstallation\7z\7z.exe e %PW% %fileName%.7z
-		if not exist "%fileName%.ppt" (
-			echo Problem 2
-			echo ERROR. After extracting %fileName%.7z the file %fileName%.ppt was expected ^(shadowing %fileName%.mp3^). This message comes from toolsForInstallation\Musik.bat
-			SET /P a=Press enter to continue
+		if not exist "%fileName%.mp3" (
+			echo ----------------------------
+			echo ERROR Problem 4. After extracting "%fileName%.7z" the file "%fileName%.mp3" was expected but does not exist. The files are
+			dir
+			goto :exitWithError
 		)
-		REM the .mp3 file is actually renamed as a .ppt file. Rename it back to .mp3
-		REN %fileName%.ppt %fileName%.mp3
+		
+		
 		if not exist "%fromDir%\music\CLEO%folder%" (
 			mkdir "%fromDir%\music\CLEO%folder%"
 		)
 		REM Copy the file where it belongs
 		move %fileName%.mp3 "%fromDir%\music\CLEO%folder%\%fileName%.mp3"
+
+		if not exist "%fromDir%\music\CLEO%folder%\%fileName%.mp3" (
+			echo -------------------------
+			echo ERROR Problem 5. Copying "%fileName%.7z" to "%fromDir%\music\CLEO%folder%\%fileName%.mp3" has failed.
+			goto :exitWithError
+		)
+		
 		REM cleanup not needed file.
 		del %fileName%.7z		
+) else (
+	echo Skipping download, the file "%fileName%.mp3" already exists.
 )
 exit /b
+
+
+:exitWithError
+	echo This message comes from toolsForInstallation\Music.bat
+	echo(
+	echo Please take a screenshot of this window and inform the developers of SAxVCxLC on www.gtaforums.com about this problem.
+	SET /P a=Press enter to exit...
+exit
+

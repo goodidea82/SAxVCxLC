@@ -1,5 +1,9 @@
 @echo off
 
+REM %~dp0 refers to the full path to the batch file's directory (static)
+REM When running as administrator, the directory gets lost and we have to change back to the SAxVCxLC directory.
+set prevDir=%CD%
+cd %~dp0
 
 echo This script installs only files that are newer in SAxVCxLC_source than in GTASAroot. Purpose is faster developement of SAxVCxLC.
 echo ---------------------
@@ -26,9 +30,9 @@ if "%GTASAroot%"=="" (
 )
 
 if not exist "%GTASAroot%\GTA_SA.exe" (
-	echo.
+	echo(
 	echo "%GTASAroot%\GTA_SA.exe" DOES NOT EXIST. The path in InstallSettings.bat is probably wrong or not set. Run Install.bat again to create InstallSettings.bat.
-	echo.
+	echo(
 	SET /P a=Press a key...
 	exit
 )

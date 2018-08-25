@@ -1,11 +1,11 @@
 @echo off
 
-echo.
+echo(
 echo                    SAxVCxLC 0.8.5-a7 Installation
-echo.
+echo(
 echo   http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/
 echo   https://github.com/goodidea82/SAxVCxLC
-echo.
+echo(
 
 REM %~dp0 refers to the full path to the batch file's directory (static)
 REM When running as administrator, the directory gets lost and we have to change back to the SAxVCxLC directory.
@@ -17,7 +17,7 @@ call :checkSpace "%CD%" 1500
 
 echo Use a clean game ^(GTA San Andreas^) with the patch GTA SA v1.0 HOODLUM with 
 echo 14.383.616 bytes and no other modifications. You can add modifications later.
-echo.
+echo(
 echo Enter the full path to the GTA SA root folder WITHOUT a backslash at the end.
 if "%prevDir%\"=="%~dp0" (
 echo Instead of typing you can drag ^& drop^ the folder here from windows explorer, 
@@ -31,10 +31,10 @@ REM Remove quotes from the string in GTASAroot, because quotes will be added lat
 set GTASAroot=%GTASAroot:"=%
 
 if not exist "%GTASAroot%\GTA_SA.exe" (
-	echo.
+	echo(
 	echo "%GTASAroot%\GTA_SA.exe" DOES NOT EXIST. 
 	echo The path is probably wrong. Try again.
-	echo.
+	echo(
 	goto :SArootLabel
 )
 
@@ -100,11 +100,10 @@ if "%ERRORLEVEL%"=="1" (
 	if not exist "%GTASAroot%\modloader.asi" (
 		toolsForInstallation\7z\7z.exe x toolsForInstallation\modloader.7z -o"%GTASAroot%" -r		
 		if not exist "%GTASAroot%\modloader.asi" (
-			echo.
-			echo "%GTASAroot%\modloader.asi" DOES NOT EXIST. You must install ModLoader first, then try again.
-			echo See http://www.gtagarage.com/mods/show.php?id=25377
-			REM May be we should provide ModLoader in the otherMods folder?
-			echo.
+			echo(
+			echo "%GTASAroot%\modloader.asi" DOES NOT EXIST. The following command has failed:
+			echo toolsForInstallation\7z\7z.exe x toolsForInstallation\modloader.7z -o"%GTASAroot%" -r		
+			echo(
 			goto :repeatML
 		)
 	)
@@ -149,7 +148,7 @@ cd "%thisDir%"
 :finish
 REM -------------------------------
 echo --------------------------
-echo.
+echo(
 SET /P a=Finished installation of SAxVCxLC. Press enter to quit...
 EXIT
 
@@ -168,7 +167,7 @@ REM ECHO FREE_SPACE is %FREE_SPACE%
 if %FREE_SPACE% LEQ %minsize%000000 (
  echo There is probably not enough disc space on %drive%. At least %minsize% MB should be available.
  SET /P a=Press enter if you want to continue...
- echo.
+ echo(
 )
 
 exit /b
