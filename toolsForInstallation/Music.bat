@@ -31,7 +31,7 @@ REM )
 
 REM Only mp3 files are downloaded which do not exist yet. You have to delete the mp3 files to force download. The mp3 files are encrypted as z7 files.
 REM Remark: At the end of the URLs you must change dl=0 to dl=1
-call :downloadExtractMP3 "https://www.dropbox.com/s/wffa3f47mcqdn19/STATIC.7z?dl=1" \CLEO_SOUND Static
+call :downloadExtractMP3 "https://www.dropbox.com/s/wffa3f47mcqdn19/STATIC.7z?dl=1" \CLEO_SOUND STATIC
 
 call :downloadExtractMP3 "https://www.dropbox.com/s/vu9v44x10t72i7a/CHAT.7z?dl=1" \CLEO_SOUND\LC CHAT
 REM goto :skipFiles
