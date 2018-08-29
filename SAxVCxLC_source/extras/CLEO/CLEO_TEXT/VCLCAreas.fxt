@@ -1,12 +1,6 @@
 WHOLEVC Vice City
-PornStu InterGlobal Studios
-WHOLELC Liberty City
-GANG1 Vercetti Mansion 
-cARYRD Sunshine Autos
-BOATYRD The Boatyard
 VCSTADI Hyman Memorial Stadium
-KAUFCAB Kaufman Cabs
-DTOWN Vice Downtown
+DTOWN Vice City Downtown
 BEACH1 Ocean Beach
 BEACH2 Washington Beach
 BEACH3 Vice Point
@@ -18,45 +12,35 @@ JUNKY Junk Yard
 XDOCKS Viceport
 HAVANA Little Havana
 HAITI Little Haiti
-COPS_1	 Police Station
-HOSPI_1	 Portland Hospital
-FILLIN1	 Abandoned Tunnel
-FISHFAC	 Fish Factory
-MAIN_D1	 Chinatown
-MAIN_D2	 Chinatown
-MAIN_D3	 Chinatown
-MAIN_D4	 Chinatown
-MAIN_D5	 Redlight District
-MAIN_D6	 Hepburn Heights
-WEE_DAM	 Cochrane Dam
-PORT_W	 Callahan Point
-PORT_S	 Atlantic Quays
-PORT_E	 Portland Harbor
-PORT_I	 Trenton
-LCHINA	 Chinatown
-REDLIGH	 Redlight District
-TOWERS	 Hepburn Heights
-LITTLEI	 Saint Mark's
-HARWOOD	 Harwood
-EASTBAY	 Portland Beach
-S_VIEW	 Portland View
-IND_ZON	 Portland
-ROADBR1	 Callahan Bridge
-ROADBR2	 Callahan Bridge
-CONSTRU	 Fort Staunton
-LCADIUM	 Aspatria
-YAKUSA	 Torrington
-LCOPING	 Bedford Point
-COM_EAS	 Newport
-PARK	 Belleville Park
-UNIVERS	 Liberty Campus
-HOSPI_2	 Rockford
-LCRPORT	 Francis Intl. Airport
-PROJECT	 Wichita Gardens
-SWANKS	 Cedar Grove
-SUB_IND	 Pike Creek
-BIG_DAM	 Cochrane Dam
-COM_ZON	 Staunton Island
-SUB_ZO2	 Shoreside Vale
-SUB_ZO3	 Shoreside Vale
-SUB_ZON	 Shoreside Vale
+ARMYBAS Fort Baxter
+WHOLELC Liberty City
+FILLIN1 Abandoned Tunnel
+PORTROC Portland Rock
+PORT_W Callahan Point
+PORT_S Atlantic Quays
+PORT_E Portland Harbor
+PORT_I Trenton
+LCHINA Chinatown
+REDLIGH	Redlight District
+TOWERS Hepburn Heights
+LITTLEI	Saint Mark's
+HARWOOD	Harwood
+EASTBAY	Portland Beach
+S_VIEW Portland View
+IND_ZON	Portland
+ROADBR1	Callahan Bridge
+CONSTRU	Fort Staunton
+LCADIUM	Aspatria
+YAKUSA Torrington
+LCOPING	Bedford Point
+COM_EAS	Newport
+PARK Belleville Park
+UNIVERS	Liberty Campus
+HOSPI_2	Rockford
+LCRPORT	Francis Intl. Airport
+PROJECT Wichita Gardens
+SWANKS Cedar Grove
+SUB_IND Pike Creek
+BIG_DAM	Cochrane Dam
+COM_ZON	Staunton Island
+SUB_ZON	Shoreside Vale
