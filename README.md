@@ -22,8 +22,9 @@ PlatinumSerb
 
 ## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
-* inan.ahammad - Added garages in VC, testing/bug reporting
+* inan.ahammad - Added garages in VC/LC, testing/bug reporting
 * HeicoDE - Bugfixes, script updates
+* eagle152 - zone/gang fixes
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 
@@ -47,6 +48,7 @@ Providing help and additional ressources
 * Squad - testing/bug reporting, map fixes
 * Crspy - modloader installation fix
 * Beckerbrasil - testing/bug reporting
+* ILOVEFOOTBALL95 - testing/bug reporting
 
 Thanks Rock* Games
 
