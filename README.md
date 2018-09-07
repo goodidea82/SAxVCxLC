@@ -105,6 +105,7 @@ SAxVCxLC is a clean basis for modding. This means SAxVCxLC should be as close as
 # Troubleshooting, Errors, FAQs
 ## Problems after clean installation
 SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
+* Game crashes. Try to remove the .asi files one-by-one (start with grgx.asi) and try to start the game again eachtime. However, do not remove fastman92limitAdjuster.asi because this one is essential. See here: https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070418105
 * Game freezes while loading: Perhaps a popup-window in the background (invisible) from Fastman92LimitAdjuster. Try pressing the Space-bar or Enter several times.
 * Game started once, but not again: Perhaps gta_sa.exe did not close properly and is still running in the background and blocking the new start of gta. Open windows task manager and kill the process gta_sa.exe.
 * *Error 0x5380C3 trying to load object instance with undefined ID* When using ModLoader.
@@ -114,6 +115,7 @@ And here: http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p
 * Fastman92LimitAdjuster.log says "Error 0x4087EA, file with undefined ID requested:" and "Last file to be loaded: data\shopping.dat". See: fastman92limitAdjuster_GTASA.ini, section [MAP LIMITS], item "Paths map size".
 * Error Status 0xc000012f “Bad Image” When Running a Program. This is a windows problem. See, for example: https://www.winhelponline.com/blog/error-0xc000012f-bad-image-fix-corrupt-files/
 * Error 126: "missing dependency (DLL). Try using Dependency Walker on the ASI" (https://gtaforums.com/topic/536465-garage-extender/?do=findComment&comment=1070397619)
+* 0x00537D12 memory exception during game-play. See here: https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070421811
 
 ## Problems with savegames or original missions 
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
