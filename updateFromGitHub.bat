@@ -6,7 +6,7 @@ REM When running as administrator, the directory gets lost and we have to change
 set prevDir=%CD%
 cd %~dp0
 
-echo This script updates SAxVCxLC from GitHub, and then calls copyOnlyNewerFiles.bat so that your gta ^+ SAxVCxLC INSTALLATION gets updated. The script works only if you have installed a GIT client and SAxVCxLC was cloned ^(downloaded^) using the GIT client and not downloaded as a zip file.
+echo This script updates SAxVCxLC from GitHub, and then calls copyOnlyNewerFiles.bat so that your gta ^+ SAxVCxLC INSTALLATION gets updated. The script works only if you have installed a  GIT client and SAxVCxLC was cloned ^(downloaded^) using the GIT client and not downloaded as a zip file.
 
 echo ---------------------
 
