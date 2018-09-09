@@ -56,7 +56,7 @@ Thanks Rock* Games
 1. Two different ways exist to download the project (Use only ONE of them):
   * (Easy, but small UPDATES require full download and installation) Download the project as a Zip file from https://github.com/goodidea82/SAxVCxLC/releases. Extract the Zip file.
   * (Recommended because UPDATES are simple and fast): 
-    - Download and install the a [GIT client](https://git-scm.com/download/win). 
+    - Download and install the [GIT client](https://git-scm.com/download/win). 
     - Run "Git-Bash.exe" and enter "git clone https://github.com/goodidea82/SAxVCxLC" to download the project.
      When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). Some infos: [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070405348) and [github-git-cheat-sheet.pdf](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
   
