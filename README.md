@@ -58,7 +58,7 @@ Thanks Rock* Games
   * (Recommended because UPDATES are simple and fast): 
     - Download and install the [GIT client](https://git-scm.com/download/win). 
     - Run "Git-Bash.exe" and enter "git clone https://github.com/goodidea82/SAxVCxLC" to download the project.
-     When SAxVCxLC gets an update you just do "git pull" to get the newest version (you don't have to download the whole zip-file again). Some infos: [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070405348) and [github-git-cheat-sheet.pdf](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+     When SAxVCxLC gets an update you just double-click on updateFromGitHub.bat. Some infos: [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070405348) and [github-git-cheat-sheet.pdf](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
   
 2. Click on Install.bat and follow the instructions there. Eventually additional files (radio music) will be downloaded.
 
