@@ -68,7 +68,7 @@ If the installation script closes without asking to press a button (enter), then
 ## Principles
 SAxVCxLC is a clean base for modding. This means SAxVCxLC should be as close as possible to the original games and modification or additions shall be provided as external mods (except for few cases where every user agrees).
 
-* Developing SAxVCxLC means to fix bugs; add missing things; and improve compatibility, modularity, and flexibility. Ideally all missions from VC and LC should be ported one day. The look-and-feel of the games shall remain original with priority for SA. Additional Rockstar maps may be added. In particular, original SA game must remain fully playable and modable at all times (backwards compatible with older mods). Things to keep in mind, for example:
+* Developing SAxVCxLC means to [fix bugs](https://github.com/goodidea82/SAxVCxLC/issues); add missing things; and improve compatibility, modularity, and flexibility. Ideally all missions from VC and LC should be ported one day. The look-and-feel of the games shall remain original with priority for SA. Additional Rockstar maps may be added. In particular, original SA game must remain fully playable and modable at all times (backwards compatible with older mods). Things to keep in mind, for example:
   * Do not add/removed/modify objects in the SA map area.
   * All object IDs that were free in original SA game must remain free after SAxVCxLC installation. Do not use IDs in the range 0-20000.
   * The number of weapons, peds, cars, objects, etc. should be fixed some day (when all original things are ported). This important so that modders that provide external mods will know what are the IDs of objects for which they can provide improved versions and what are the remaining free IDs for new objects.
@@ -103,6 +103,7 @@ SAxVCxLC is a clean base for modding. This means SAxVCxLC should be as close as 
 * Do not forget to add files to git and push them to your git branch.
 
 # Troubleshooting, Errors, FAQs
+Here is a list of [issues](https://github.com/goodidea82/SAxVCxLC/issues).
 ## Problems after clean installation
 SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
 * Game crashes. Try to remove the .asi files one-by-one (start with grgx.asi) and try to start the game again eachtime. However, do not remove fastman92limitAdjuster.asi because this one is essential. See [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070418105)
