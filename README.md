@@ -30,18 +30,18 @@ PlatinumSerb
 
 ## Credits/Special Thanks:
 Providing help and additional ressources
-* fastman92 - Limit Adjuster, IMG Console, Debugging 
+* fastman92 - [Limit Adjuster](https://gtaforums.com/topic/733982-fastman92-limit-adjuster/), [IMG Console](https://gtaforums.com/topic/524409-fastman92-img-console/), Debugging 
 * GTA: Liberty City Team - Use of GTA:LC map
-* OpenVice(NTAuthority) - Use of Vice City map
-* Silent - ASI Loader and Extended Gangs ASI
-* LINK2012 - Modloader
+* [OpenVice](https://gtaforums.com/topic/423864-wip-openvice-another-vice-map-for-sa/?tab=comments#comment-1059461103)(NTAuthority) - Use of Vice City map
+* Silent - ASI Loader and [Extended Gangs ASI](https://gtaforums.com/topic/682194-extended-gang-wars/?tab=comments#comment-1064701250)
+* LINK2012 - [Modloader](https://gtaforums.com/topic/669520-mod-loader/), [Garage Extender](https://gtaforums.com/topic/682194-extended-gang-wars/?tab=comments#comment-1064701250)
 * _F_ - use of GTA VC cars Converted to SA
 * CJ2000 - use of GTA VC and III vehicles
-* Kam - Kam's Max Scripts 
+* Kam - [Kam's Max Scripts](https://gtaforums.com/topic/907323-rel-kams-gta-scripts-2018/)
 * Deniska - 3dmax script pack
 * x-men - 3dmax scripts/IMG Manager
-* CLEO Team
-* ThirteenAG - Project2dfx
+* CLEO Team - [CLEO](https://gtaforums.com/topic/674029-sarel-cleo-43/?tab=comments#comment-1064503982)
+* ThirteenAG - [Project2dfx](https://gtaforums.com/topic/573478-project2dfx/)
 * Junior_Djjr - Overhaul of CLEO scripts
 * ZAZ - some of his CLEO mods were crucial for debugging/getting around the map.
 * X-Seti - original concept of combining GTA III era cities so he deserves a shout out :p
