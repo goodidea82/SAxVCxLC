@@ -121,7 +121,7 @@ See [here](http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?
 * About savegames. Mods can introduce faults into savegames that show up later in the future. Once a savegame has a fault, that fault will copy from savegame to savegame like a virus. This problem has nothing to do with SAxVCxLC. Once a savegame has a problem it must be deleted as well as all derived savegames. 
 After completing a missing using "All Mission Access Mod v1.2" I think it is not safe to create savegame from that state.
 For example see [here](http://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?p=1069680402)
-* Missions that sometimes work and sometimes not: (["OG LOC"](https://github.com/goodidea82/SAxVCxLC/issues/26), "Saint Mark's Bistro", ["Nines & AKs", "Swet and Kendl"](https://github.com/goodidea82/SAxVCxLC/issues/28))
+* Missions that sometimes work and sometimes not: (["OG LOC"](https://github.com/goodidea82/SAxVCxLC/issues/26), ["Saint Mark's Bistro"](https://github.com/goodidea82/SAxVCxLC/issues/29), ["Nines & AKs", "Swet and Kendl"](https://github.com/goodidea82/SAxVCxLC/issues/28))
 * Missions that have been tested successfully: 
 
 ## Problems with external mods
