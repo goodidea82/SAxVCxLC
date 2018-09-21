@@ -25,6 +25,7 @@ PlatinumSerb
 * inan.ahammad - Added garages in VC/LC, testing/bug reporting
 * HeicoDE - Bugfixes, script updates
 * eagle152 - zone/gang fixes
+* chaosbginwenrealityend - Culling fixes
 * artginPL - ENEX/Interior Markers, Patches, Conversion of music for radio
 * Swoorup - PathMover, COLRenamer(old program :p), Conversion of LC and VC paths
 
