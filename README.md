@@ -107,7 +107,7 @@ SAxVCxLC is a clean base for modding. This means SAxVCxLC should be as close as 
 Here is a list of [issues](https://github.com/goodidea82/SAxVCxLC/issues).
 ## Problems after clean installation
 SAxVCxLC must be installed on a clean game (HOODLUM 1.0)! After installing SAxVCxLC, test it BEFORE adding mods.
-* Game crashes. Try to remove the .asi files one-by-one (start with grgx.asi) and try to start the game again eachtime. However, do not remove fastman92limitAdjuster.asi because this one is essential. See [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070418105)
+* Game crashes. Try to remove the .asi files one-by-one (start with grgx.asi and ExGangWars.asi) and try to start the game again eachtime. However, do not remove fastman92limitAdjuster.asi because this one is essential. See [here](https://gtaforums.com/topic/813938-saxvcxlc-vc-and-lc-in-san-andreas/?do=findComment&comment=1070418105)
 * Game freezes while loading: Perhaps a popup-window in the background (invisible) from Fastman92LimitAdjuster. Try pressing the Space-bar or Enter several times.
 * Game started once, but not again: Perhaps gta_sa.exe did not close properly and is still running in the background and blocking the new start of gta. Open windows task manager and kill the process gta_sa.exe.
 * *Error 0x5380C3 trying to load object instance with undefined ID* When using ModLoader.

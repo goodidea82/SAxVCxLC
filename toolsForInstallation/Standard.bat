@@ -16,10 +16,9 @@ echo toDir=%toDir%
 
 REM The installation script uses xcopy to install files. Some files that should not be copied are specified in xcopy_exclude.txt.  For example folders of the form "_img_src" and ".7z" files.
 REM xcopy requires that the full path is provided to xcopy_exclude and that no spaces are used in the path. See here: http://stackoverflow.com/questions/1333589/how-do-i-transform-the-working-directory-into-a-8-3-short-file-name-using-batch
-for %%A in ("%CD%\toolsForInstallation\xcopy_exclude.txt") do set exclude=%%~sA
+REM for %%A in ("%CD%\toolsForInstallation\xcopy_exclude.txt") do set exclude=%%~sA
+call :setExclude "%CD%\toolsForInstallation\xcopy_exclude.txt"
 set exclude=/EXCLUDE:%exclude%
-
-echo exclude=%exclude%
 
 call toolsForInstallation\Music.bat %1 %2 %3
 
@@ -62,5 +61,24 @@ if not "%ERRORLEVEL%"=="0" (
 	SET /P a=Press enter ...
 	EXIT
 )
+exit /b
+
+:setExclude
+	set exclude=%~s1
+	if not exist "%exclude%" (
+		echo -------------------------
+		echo ERROR Problem 6. Initialising the exclude-path failed. Exclude=
+		echo %exclude%
+		goto :exitWithError
+	)	
+exit /b
+
+:exitWithError
+	echo This message comes from toolsForInstallation\Standard.bat
+	echo(
+	echo Please take a screenshot of this window and inform the developers of SAxVCxLC on www.gtaforums.com about this problem.
+	SET /P a=Press enter to exit...
+exit
+
 
 REM SET /P a=Press enter...
