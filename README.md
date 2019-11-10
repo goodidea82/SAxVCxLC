@@ -35,7 +35,7 @@ Providing help and additional ressources
 * GTA: Liberty City Team - Use of GTA:LC map
 * [OpenVice](https://gtaforums.com/topic/423864-wip-openvice-another-vice-map-for-sa/?tab=comments#comment-1059461103)(NTAuthority) - Use of Vice City map
 * Silent - [ASI Loader](https://gtaforums.com/topic/523982-relopensrc-silents-asi-loader/) and [Extended Gangs ASI](https://gtaforums.com/topic/682194-extended-gang-wars/?tab=comments#comment-1064701250)
-* LINK2012 - [Modloader](https://gtaforums.com/topic/669520-mod-loader/), [Garage Extender](https://gtaforums.com/topic/682194-extended-gang-wars/?tab=comments#comment-1064701250)
+* LINK2012 - [Modloader](https://gtaforums.com/topic/669520-mod-loader/), [Garage Extender](https://gtaforums.com/topic/536465-garage-extender/)
 * _F_ - use of GTA VC cars Converted to SA
 * CJ2000 - use of GTA VC and III vehicles
 * Kam - [Kam's Max Scripts](https://gtaforums.com/topic/907323-rel-kams-gta-scripts-2018/)
